@@ -1,0 +1,50 @@
+Triage Category
+Change History
+ 
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+The triage category is assigned to a patient as a result of an initial assessment by a clinical professional in an Emergency Department.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Priority One - Immediate
+1st April 2009
+ 
+02
+Priority Two - Very Urgent
+1st April 2009
+ 
+03
+Priority Three - Urgent
+1st April 2009
+ 
+04
+Priority Four - Standard
+1st April 2009
+ 
+05
+Priority Five - Non Urgent
+1st April 2009
+ 
+06
+See and Treat – Within 15 minutes of patient arriving at the Emergency Department
+1st October 2019
+ 
+ 
+ 
+
+

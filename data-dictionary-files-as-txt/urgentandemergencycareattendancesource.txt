@@ -1,0 +1,295 @@
+Urgent and Emergency Care Attendance Source
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The source of referral for each Urgent and Emergency Care activity. The source from which the patient was referred/advised to attend the Urgent and Emergency Care service.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+ 
+Data Item: Urgent and Emergency Care Attendance Source
+SNOMED CT Refset - Emergency care attendance source simple reference set
+ 
+ 
+WECDS Unique ID
+ 
+WECDS Group
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04ATS1111111000
+Self / family / friends / education / work colleague
+1991000124105
+Referred by self
+UEC04ATS1111111000
+ 
+ 
+ 
+UEC04ATS1131111000
+Carer (external, not family / friend)
+1065391000000104
+Referred by carer
+UEC04ATS1131111000
+ 
+ 
+ 
+UEC04ATS1171111000
+Non-NHS telephone / internet advice
+315261000000101
+Advised to attend accident and emergency department
+UEC04ATS1171111000
+ 
+ 
+ 
+UEC04ATS3111111000
+GP / practice nurse
+276491000
+Referred by member of Primary Health Care Team
+UEC04ATS3111111000
+ 
+ 
+ 
+UEC04ATS3121111000
+Out of hours GP service / Urgent Primary Care
+1082331000000106
+Referred by out of hours service
+UEC04ATS3121111000
+ 
+ 
+ 
+UEC04ATS3151111000
+NHS telephone / internet advice e.g. NHS 111
+879591000000102
+Referred by NHS 111 service
+UEC04ATS3151111000
+ 
+ 
+ 
+UEC04ATS5131111000
+Emergency department
+1066431000000102
+Referred by hospital emergency department
+UEC04ATS5131111000
+ 
+ 
+ 
+UEC04ATS5141111000
+Urgent care service / Minor Injury Unit
+1066441000000106
+Referred by urgent care service
+UEC04ATS5141111000
+ 
+ 
+ 
+UEC04ATS5151111000
+Outpatient service including SDEC
+835091000000109
+Referred by hospital outpatient department
+UEC04ATS5151111000
+ 
+ 
+ 
+UEC04ATS5161111000
+Inpatient
+835101000000101
+Referred by hospital ward
+UEC04ATS5161111000
+ 
+ 
+ 
+UEC04ATS5171111000
+Extended Care Episode
+1465211000000108
+Referral by UEC ECE (urgent and emergency care extended care episode)
+UEC04ATS5171111000
+ 
+ 
+ 
+UEC04ATS5191111000
+Private specialist
+1079521000000104
+Referred by private sector physician
+UEC04ATS5191111000
+ 
+ 
+ 
+UEC04ATS6111111000
+Community nurse (not practice nurse)
+1077191000000103
+Referred by community nurse
+UEC04ATS6111111000
+ 
+ 
+ 
+UEC04ATS6115111000
+Health visitor
+1052681000000105
+Referred by health visitor
+UEC04ATS6115111000
+ 
+ 
+ 
+UEC04ATS6121111000
+Midwife
+185363009
+Referred by midwife
+UEC04ATS6121111000
+ 
+ 
+ 
+UEC04ATS6125111000
+School nurse
+1065401000000101
+Referred by school nurse
+UEC04ATS6125111000
+ 
+ 
+ 
+UEC04ATS6131111000
+Community mental health nurse
+1077201000000101
+Referred by community mental health nurse
+UEC04ATS6131111000
+ 
+ 
+ 
+UEC04ATS6137111000
+Mental health assessment team
+1065991000000100
+Referred by mental health assessment team
+UEC04ATS6137111000
+ 
+ 
+ 
+UEC04ATS6141111000
+Social services
+877171000000103
+Referred by Social Services
+UEC04ATS6141111000
+ 
+ 
+ 
+UEC04ATS6145111000
+Older persons day care centre
+1077761000000105
+Referred by adult day care centre
+UEC04ATS6145111000
+ 
+ 
+ 
+UEC04ATS6147111000
+Homeless persons drop in centre
+1077211000000104
+Referred by homeless drop-in centre
+UEC04ATS6147111000
+ 
+ 
+ 
+UEC04ATS6151111000
+Custodial services : prison
+1066011000000104
+Referred by HM Prison Service
+UEC04ATS6151111000
+ 
+ 
+ 
+UEC04ATS6155111000
+Custodial services : detention centre
+1066001000000101
+Referred by detention centre
+UEC04ATS6155111000
+ 
+ 
+ 
+UEC04ATS6161111000
+Pharmacist (including community pharmacist)
+185369008
+Referred by pharmacist
+UEC04ATS6161111000
+ 
+ 
+ 
+UEC04ATS6171111000
+Dentist (including community dentist)
+185366001
+Referred by dentist
+UEC04ATS6171111000
+ 
+ 
+ 
+UEC04ATS6181111000
+Optician / optometrist
+185368000
+Referred by optician
+UEC04ATS6181111000
+ 
+ 
+ 
+UEC04ATS8121111000
+Advanced care practitioner
+1066021000000105
+Referred by advanced care practitioner
+UEC04ATS8121111000
+ 
+ 
+ 
+UEC04ATS8131111000
+Ambulance service
+198261000000104
+Referred by ambulance service
+UEC04ATS8131111000
+ 
+ 
+ 
+UEC04ATS8151111000
+Police service / forensic medical officer
+889801000000100
+Referred by police
+UEC04ATS8151111000
+ 
+ 
+ 
+UEC04ATS8171111000
+Fire service
+1066031000000107
+Referred by Fire and Rescue Service
+UEC04ATS8171111000
+ 
+ 
+ 
+UEC04ATS8181111000
+Search and rescue
+1066061000000102
+Referred by search and rescue service
+UEC04ATS8181111000
+ 
+ 
+ 
+UEC04ATS8183111000
+Coastguard
+1066041000000103
+Referred by Coastguard Rescue Service
+UEC04ATS8183111000
+ 
+ 
+ 
+UEC04ATS8185111000
+Mountain rescue
+1066051000000100
+Referred by mountain rescue service
+UEC04ATS8185111000
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,28 @@
+Intended Procedure (OPCS or READ)
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+RTT weekly PTL ds
+1st April 2025
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+This is the intended patient procedure. A procedure intended to be performed on a patient, recorded for an Elective Admission List Entry, and classified by an Operative Procedure or a Read classification. Up to three Intended Procedures may be included in the ds to give commissioners an indication of the procedures for which a resident is waiting so that they can be costed and linked to other events.
+ 
+For RTT PTL data set: If OPCS or READ codes are unable to be submitted, data item ‘Intended Procedure Description’ should be used to enter free text to provide additional information to identify the Intended Procedure. This is only applicable where the stage of pathway = 4. In cases where the pathway is in stages 1, 2, or 3, the field should remain blank.
+ 
+OPCS Format: 4 character alpha-numeric
+ 
+Read Format: 7 character alpha-numeric
+ 
+ 
+
+

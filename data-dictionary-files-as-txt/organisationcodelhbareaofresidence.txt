@@ -1,0 +1,125 @@
+Organisation Code (LHB Area of Residence)
+ 
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2025 / 01
+Audiology Wait Times Data Set
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DSCN 2021 / 02
+Inpatient and Day Case Admissions and First Outpatient Appointments Waiting Times (PP01W) Data Set - Retirement
+DSCN 2016 / 02
+Maternity Indicators Data Set
+DSCN 2014 / 04
+NHS England Health Bill
+DDCN 2013 / 15
+Appendix C – Organisation Codes
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DDCN 2011 / 02
+Angiogram Waiting Time & Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 12
+Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN 2010 / 04
+To discontinue the reporting of the Angiogram Waiting Times Return.
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 11 (W)
+To change the reporting requirements of Angiogram waits. To cease the reporting of Angioplasties.
+DSCN (2007) 13 (W)
+To remove waits for certain diagnostic endoscopies from the waiting times data collection for inpatient and day case admissions and first outpatient appointments (PP01W).
+DSCN (2007) 08 (W)
+To provide Guidance on the Reporting Structure for the Referral to Treatment Times Reporting Requirements.
+DSCN 39/03 (W) Amdt
+Amendment to DSCN 39/2003 (W) to confirm the use of the PCT Area of Residence for English residents treated in Wales.
+DSCN 39/03 (W)
+Re-use of Health Authority of Residence data item to facilitate coding of LHB Area of Residence on APC, EAL and Outpatient Activity DS
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+RTT
+1st April 2007
+31st August 2011
+PP01W
+ 
+8th February 2021
+OPR ds
+1st July 2008
+ 
+EDDS
+1st April 1999
+ 
+CRTT
+1st June 2009
+31st August 2011
+Angiogram
+1st December 2008
+1st April 2010
+RTT (Combined)
+1st September 2011
+ 
+MI ds
+1st April 2016
+ 
+WECDS
+1st August 2024
+ 
+AUD WT ds
+1st April 2025
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+The Local Health Board where the patient is a resident, identified via the NHS Postcode Directory. This ensures that the Local Health Board can receive information about the care given to its residents.
+ 
+Format: 3 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+NAN
+The code of the LHB.
+ 
+Codes for Welsh LHBs can be accessed via the Welsh Reference Data Service – WRDS (wales.nhs.uk) (NHS Wales Users Only)
+N/A
+N/A
+X98
+Not applicable e.g. for overseas visitors
+1st April 1996
+ 
+ 
+Note: For English Residents treated in Wales, use the Organisation Code of the Primary Care Trust (PCT) of Residence for all activity / waiting times data up to 31st March 2013.
+ 
+From 1st April 2013 (inclusive) onwards, use the Organisation Code of the Clinical Commissioning Group (CCG).
+ 
+Reference data files containing details of the Organisation Codes for English organisations, including the NHS postcode file, can be accessed via the NHS postcode file, which is available via the Technology Reference data Update Distribution (TRUD).
+ 
+The TRUD website can be accessed via the following link:
+ 
+https://isd.hscic.gov.uk
+ 
+See Organisation Code
+
+
+
+

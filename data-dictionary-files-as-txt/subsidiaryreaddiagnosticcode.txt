@@ -1,0 +1,17 @@
+Subsidiary Read Diagnostic Code
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+ 
+This is the subsidiary diagnosis code. It is an entry of the diagnostic index according to the Read classification using codes maintained by the NHS Centre for Coding and Classification.
+Format: 7 character alpha-numeric
+
+

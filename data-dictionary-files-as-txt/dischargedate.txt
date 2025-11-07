@@ -1,0 +1,26 @@
+Discharge Date
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+National Cancer Ds - Core
+ 
+ 
+Date of discharge from the Hospital Provider Spell. The date on which a patient dies or is discharged from a continuous spell of care using the hospital bed(s) within a single hospital provider. Identical to the end date of the last consultant episode of care and ward stay within a hospital provider spell.
+ 
+Discharge Date Status is associated with this data item and should be used to indicate whether Discharge Date is supplied or is not applicable.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

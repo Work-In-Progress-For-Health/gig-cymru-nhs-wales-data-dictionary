@@ -1,0 +1,12 @@
+Urgent and Emergency Care Place of Injury (Latitude)
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The latitude of the place of injury, expressed in decimal degrees.
+Format: maximum 2 character numeric.6 character numeric
+
+

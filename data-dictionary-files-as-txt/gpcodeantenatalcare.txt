@@ -1,0 +1,16 @@
+GP Code (Antenatal Care)
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the Department of Health code for the GP under whom the patient has received antenatal care.
+Format: 8 character alpha-numeric
+See GP Code
+See General Medical Practitioner (Antenatal Care)
+
+

@@ -1,0 +1,40 @@
+Duration of Elective Wait
+Change History
+ 
+DSCN 2017 / 07
+Admitted Patient Care Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+31st March 2017 
+Format: 4 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+NNNN
+0000 - 8887 (in days) entered as right justified with preceding zeros
+1st May 1998
+31st March 2017 
+NNNN
+No of days (0000 – 8999)
+Pre 28th December 1995
+30th April 1998
+9998
+Not applicable
+Pre 28th December 1995
+31st March 2017 
+9999
+Not known (i.e. no date known for decision to admit): a validation error
+1st May 1998
+20th January 2002
+The field must be populated with spaces to the length format (i.e. four spaces)
+
+

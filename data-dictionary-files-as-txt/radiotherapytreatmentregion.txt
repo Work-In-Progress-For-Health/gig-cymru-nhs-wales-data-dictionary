@@ -1,0 +1,35 @@
+Radiotherapy Treatment Region
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+The specific region of the body being treated with Radiotherapy.
+Format: max 2 character alpha-numeric
+ 
+Value
+Meaning
+P
+Primary
+R
+Regional Nodes
+PR
+Primary & Regional Nodes
+A
+Non-anatomically specific primary site
+O
+Prophylactic (to non-primary site)
+M
+Metastasis
+ 
+
+

@@ -1,0 +1,26 @@
+Ambulance Incident Number
+Change History
+ 
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+WECDS
+1st August 2024
+ 
+ 
+When a patient arrives by ambulance, this is the incident number for that journey, allocated by the Ambulance Control.
+For patients who did not arrive by ambulance, this field should be left blank.
+Format: Up to 8 character alpha numeric
+ 
+
+

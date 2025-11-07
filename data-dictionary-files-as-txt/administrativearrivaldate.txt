@@ -1,0 +1,22 @@
+Administrative Arrival Date
+Change History
+ 
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+Accident and Emergency Attendance Administrative Arrival Date is the date the Accident and Emergency reception staff are notified in person that a patient has arrived and needs to be seen within the Accident and Emergency Department. Notification could be by the Ambulance Crew, the patient themselves, or a person accompanying the patient e.g. relative / friend.
+ 
+Format: 8 digit numeric – ccyymmdd
+ 
+ 
+
+

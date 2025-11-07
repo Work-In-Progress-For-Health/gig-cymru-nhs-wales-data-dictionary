@@ -1,0 +1,15 @@
+Unit of Measurement (UCUM)
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+Format: maximum 20 characters alpha-numeric
+ 
+Do NOT put a value in the UCUM Unit of Measurement field for ACVPU* observations.
+ 
+*ACVPU level of consciousness assessment: ‘A’ (Alert), ‘C’ (Confused), ‘V’ (Responds to Voice), ‘P’ (Responds to Painful stimulus) or ‘U’ (Unconscious).
+
+

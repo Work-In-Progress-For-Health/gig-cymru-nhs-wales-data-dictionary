@@ -1,0 +1,69 @@
+Pathway Status
+Change History
+ 
+DSCN 2021 / 23 (AMD)
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2021 / 23
+Suspected Cancer Pathway – Core
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+Indicates the status of the patient’s pathway. Active represents that the pathway is open
+with the suspicion date within that being the start point. The other values for pathway
+status detail why the pathway was closed.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+Valid From
+Valid To
+1
+Downgraded
+1st January 2021
+ 
+2
+Treated
+1st January 2021
+ 
+3
+Deceased
+1st January 2021
+ 
+4
+Other
+1st January 2021
+ 
+5
+Active
+1st November 2021
+ 
+ 
+ 
+Examples of ‘Other’ could include instances such as:
+•     Metastasis
+•     Recording error
+•     Patient opted to be managed privately
+•     Patient treated outside of Wales
+•     Patient refused investigations/treatment
+•     Uncertain episode
+•     Recurrent
+•     Duplicate record
+•     Inappropriate referral
+ 
+ 
+
+

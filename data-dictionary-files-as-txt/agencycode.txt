@@ -1,0 +1,24 @@
+Agency Code
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+This is a unique identifier for the Treatment Provider (Agency) and is the nationally recognised code assigned to the agency or practice by the NHS Wales Informatics Service (NWIS).
+ 
+Format: TBC
+ 
+Agency and Practice Codes can be accessed via the Welsh Reference Data Service (WRDS): WRDS (wales.nhs.uk) (NHS Wales Users Only)
+ 
+
+

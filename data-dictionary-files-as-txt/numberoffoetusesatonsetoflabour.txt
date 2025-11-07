@@ -1,0 +1,21 @@
+Number of Foetuses at Onset of Labour
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The number of foetuses at onset of labour.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+nn
+Number of foetuses
+ 
+
+

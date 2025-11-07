@@ -1,0 +1,35 @@
+Critical Care Admission Type
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+An indication of whether a Critical Care Period was initiated as a result of a non-emergency treatment plan, for example, for elective major surgery. This relates only to the period of critical care and not to the nature of the hospital admission. For example, a planned hospital admission may unexpectedly require an emergency ICU admission, in which case the classification will be '01'
+ 
+Format: 2 character alpha-numeric
+Value
+Meaning
+01
+Unplanned local admission. All emergency or urgent patients referred to the unit only as a result of an unexpected acute illness occurring within the hospital or local area.
+02
+Unplanned transfer in. All emergency or urgent patients referred to the unit as a result of an unexpected acute illness occurring outside the hospital local area.
+03
+Planned transfer in (tertiary referral). A pre-arranged admission to the unit after treatment or initial stabilisation at another hospital but requiring specialist or higher-level care that cannot be provided at the source hospital.
+04
+Planned local surgical admission. A pre-arranged surgical admission to the unit, acceptance by the unit must have occurred prior to the start of the surgical procedure and the procedure will usually have been of an elective or scheduled nature. For example, following a major procedure, for a high risk medical condition associated with any level or surgery, admitted prior to elective surgery for optimization, admitted for monitoring of pain control e.g. epidurals, or obstetric surgical cases admitted on a planned basis.
+05
+Planned local medical admission. Booked medical admission, for example, planned investigation or high risk medical treatment.
+06
+Repatriation. The patient is returning to the unit from another hospital after being transferred there for either medical or non-medical reasons.
+ 
+
+

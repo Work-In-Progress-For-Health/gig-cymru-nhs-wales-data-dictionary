@@ -1,0 +1,254 @@
+Urgent and Emergency Care Injury Alcohol or Drug Involvement
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify any drugs or alcohol used by the patient, which are thought likely to have contributed to the need to attend the Urgent and Emergency Care service.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Injury Alcohol or Drug Involvement
+ 
+SNOMED CT Refset - Emergency care drug or alcohol use related to injury simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04IJD1111111000
+Alcohol : retail beer / wine / spirits
+984801000000105
+Injury following alcohol use
+ 
+ 
+ 
+UEC04IJD1141111000
+Cannabis
+984851000000106
+Injury following cannabis use
+ 
+ 
+ 
+UEC04IJD1171111000
+Alcohol : not sold for consumption e.g. meths, antifreeze
+1066421000000104
+Injury following industrial alcohol use
+ 
+ 
+ 
+UEC04IJD3111111000
+Heroin
+984831000000104
+Injury following heroin use
+ 
+ 
+ 
+UEC04IJD3121111000
+Morphine
+1065191000000102
+Injury following morphine use
+ 
+ 
+ 
+UEC04IJD3131111000
+Codeine
+1065201000000100
+Injury following codeine use
+ 
+ 
+ 
+UEC04IJD3133111000
+Dihydrocodeine
+1065211000000103
+Injury following dihydrocodeine use
+ 
+ 
+ 
+UEC04IJD3135111000
+Oxycodone
+1065221000000109
+Injury following oxycodone use
+ 
+ 
+ 
+UEC04IJD3141111000
+Methadone
+1066091000000108
+Injury following methadone use
+ 
+ 
+ 
+UEC04IJD3191111000
+Other opiate drug
+984951000000101
+Injury following opiate use
+ 
+ 
+ 
+UEC04IJD4111111000
+Ecstasy (MDMA)
+984871000000102
+Injury following ecstasy use
+ 
+ 
+ 
+UEC04IJD4121111000
+Mephedrone (MKAT)
+1035751000000103
+Injury following mephedrone use
+ 
+ 
+ 
+UEC04IJD4131111000
+GHB (gamma hydroxybutyrate)
+984881000000100
+Injury following GHB (gamma hydroxybutyrate) use
+ 
+ 
+ 
+UEC04IJD4132111000
+GBL (gamma butyrolactone)
+984891000000103
+Injury following GBL (gamma butyrolactone) use
+ 
+ 
+ 
+UEC04IJD4141111000
+Synthetic cannabinoid e.g. Spice
+1065241000000102
+Injury following synthetic cannabinoid use
+ 
+ 
+ 
+UEC04IJD4171111000
+Ketamine
+1065231000000106
+Injury following ketamine use
+ 
+ 
+ 
+UEC04IJD5111111000
+Cocaine
+984841000000108
+Injury following cocaine use
+ 
+ 
+ 
+UEC04IJD5131111000
+Crack cocaine
+984901000000102
+Injury following crack cocaine use
+ 
+ 
+ 
+UEC04IJD5151111000
+Amphetamine
+984861000000109
+Injury following amphetamine use
+ 
+ 
+ 
+UEC04IJD5155111000
+Crystal meth
+984911000000100
+Injury following crystal meth use
+ 
+ 
+ 
+UEC04IJD5191111000
+Other CNS stimulant
+1066071000000109
+Injury following central nervous system stimulant use
+ 
+ 
+ 
+UEC04IJD6111111000
+Benzodiazepine
+984941000000104
+Injury following benzodiazepine use
+ 
+ 
+ 
+UEC04IJD6151111000
+Barbiturate
+1065251000000104
+Injury following barbiturate use
+ 
+ 
+ 
+UEC04IJD6191111000
+Other CNS depressant / sleep-inducing drugs
+1066081000000106
+Injury following central nervous system depressant use
+ 
+ 
+ 
+UEC04IJD7111111000
+LSD
+1065271000000108
+Injury following LSD (lysergic acid diethylamide) use
+ 
+ 
+ 
+UEC04IJD7131111000
+Organic e.g. magic mushrooms
+1065321000000102
+Injury following organic hallucinogen use
+ 
+ 
+ 
+UEC04IJD7151111000
+PCP angel dust
+1065311000000108
+Injury following phencyclidine use
+ 
+ 
+ 
+UEC04IJD8111111000
+Solvent
+1065291000000107
+Injury following solvent inhalation
+ 
+ 
+ 
+UEC04IJD8115111000
+Aerosol
+1065301000000106
+Injury following aerosol inhalation
+ 
+ 
+ 
+UEC04IJD8151111000
+Nitrous oxide
+1065281000000105
+Injury following nitrous oxide inhalation
+ 
+ 
+ 
+UEC04IJD8155111000
+Amyl nitrate
+1079751000000104
+Injury following amyl nitrate use
+ 
+ 
+ 
+UEC04IJD9111111000
+Unknown drug
+984921000000106
+Injury
+following unknown drug use
+ 
+ 
+ 
+ 
+ 
+
+

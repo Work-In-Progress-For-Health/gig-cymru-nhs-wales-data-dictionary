@@ -1,0 +1,35 @@
+Urgent and Emergency Care Consultation Mechanism
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This is the main mechanism used to undertake Urgent and Emergency Care activity.
+ 
+Code
+Description
+Valid From
+Valid To
+01
+Face to face
+ 
+ 
+02
+Telephone
+ 
+ 
+11
+Video Consultation
+ 
+ 
+13
+Chat Room (Synchronous)
+ 
+ 
+ 
+Format: 2 character alphanumeric
+ 
+
+

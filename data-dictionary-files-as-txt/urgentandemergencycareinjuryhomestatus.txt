@@ -1,0 +1,24 @@
+Urgent and Emergency Care Injury Home Status
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The status of home in which the person was present when the injury occurred.
+ 
+Code
+Description
+Valid From
+Valid To
+01
+Patient's Own Home
+ 
+ 
+02
+Someone Else's Home
+ 
+ 
+Format: 2 character alpha numeric
+
+

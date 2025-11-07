@@ -1,0 +1,22 @@
+Critical Care Start Time
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+DDCN 2022 / 02
+Critical Care Data Set – Time fields
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The time the patient first occupies a designated critical care bed.
+Format: hh:mm:ss
+ 
+
+

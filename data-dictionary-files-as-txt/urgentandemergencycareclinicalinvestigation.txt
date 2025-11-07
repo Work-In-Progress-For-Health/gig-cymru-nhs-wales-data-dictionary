@@ -1,0 +1,499 @@
+Urgent and Emergency Care Clinical Investigation
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify a clinical investigation performed while the person is under the care of an Urgent and Emergency Care service.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Clinical Investigations
+ 
+SNOMED CT Refset - Emergency care investigations simple reference set
+ 
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04INV1111111000
+Urinalysis
+27171005
+Urinalysis
+ 
+ 
+ 
+UEC04INV1113111000
+Urine pregnancy test
+167252002
+Urine pregnancy test
+ 
+ 
+ 
+UEC04INV1121111000
+Electrocardiogram
+29303009
+Electrocardiographic procedure
+ 
+ 
+ 
+UEC04INV1131111000
+Glucose
+104686004
+Glucose measurement, blood, test strip
+ 
+ 
+ 
+UEC04INV1141111000
+Peak expiratory flow
+29893006
+Peak expiratory flow measurement
+ 
+ 
+ 
+UEC04INV1151111000
+Venous blood gas
+61911006
+Blood gases, venous measurement
+ 
+ 
+ 
+UEC04INV1155111000
+Arterial / capillary blood gas
+60170009
+Analysis of arterial blood gases and pH
+ 
+ 
+ 
+UEC04INV1159111000
+Lactate
+270982000
+Serum lactate measurement
+ 
+ 
+ 
+UEC04INV1171111000
+Dementia screening test
+165320004
+Dementia test
+ 
+ 
+ 
+UEC04INV2111111000
+Urea & Electrolytes (U&Es)
+252167001
+Urea and electrolytes
+ 
+ 
+ 
+UEC04INV2113111000
+Liver function tests (LFTs)
+26958001
+Hepatic function panel
+ 
+ 
+ 
+UEC04INV2115111000
+Amylase
+89659001
+Amylase measurement, serum
+ 
+ 
+ 
+UEC04INV2116111000
+Lipase
+271232007
+Serum lipase measurement
+ 
+ 
+ 
+UEC04INV2121111000
+Troponin
+105000003
+Troponin measurement
+ 
+ 
+ 
+UEC04INV2125111000
+Cardiac enzymes
+74500006
+Cardiac enzymes/isoenzymes measurement
+ 
+ 
+ 
+UEC04INV2129111000
+Bone profile
+167036008
+Bone profile
+ 
+ 
+ 
+UEC04INV2131111000
+Toxicology
+269874008
+Serum paracetamol measurement
+ 
+ 
+ 
+UEC04INV2139111000
+Pregnancy test
+67900009
+Human chorionic gonadotropin measurement
+ 
+ 
+ 
+UEC04INV2141111000
+Lipid profile
+16254007
+Lipid panel
+ 
+ 
+ 
+UEC04INV2145111000
+Glycosolated haemoglobin (HbA1c)
+43396009
+Haemoglobin A1c measurement
+ 
+ 
+ 
+UEC04INV2151111000
+C reactive protein (CRP)
+55235003
+C-reactive protein measurement
+ 
+ 
+ 
+UEC04INV2155111000
+Creatine kinase
+397798009
+Creatine kinase measurement
+ 
+ 
+ 
+UEC04INV2161111000
+Thyroid function tests
+35650009
+Thyroid panel
+ 
+ 
+ 
+UEC04INV2181111000
+Immunology
+252375001
+Immunology profile
+ 
+ 
+ 
+UEC04INV2183111000
+Mast cell tryptase
+62847008
+Tryptase release from mast cell measurement
+ 
+ 
+ 
+UEC04INV2191111000
+Serology
+68793005
+Serologic test
+ 
+ 
+ 
+WEC04INV2211111000
+Biochemistry - magnesium
+271285000
+Blood magnesium measurement
+Welsh requirement
+ 
+ 
+WEC04INV2221111000
+Biochemistry - urate
+270984004
+Blood urate measurement
+Welsh requirement
+ 
+ 
+WEC04INV2231111000
+Biochemistry - procalcitonin
+64411004
+Hepatitis C antibody measurement
+Welsh requirement
+ 
+ 
+WEC04INV2241111000
+Biochemistry - cortisol
+62037009
+Cortisol measurement
+Welsh requirement
+ 
+ 
+WEC04INV2251111000
+Biochemistry - prolactin
+113083009
+Prolactin measurement
+Welsh requirement
+ 
+ 
+WEC04INV2226111000
+Serology - immunoglobulins, hormones
+42441008
+Immunoglobulin measurement
+Welsh requirement
+ 
+ 
+WEC04INV2271111000
+Cerebrospinal fluid - glucose
+69125006
+Glucose measurement, CSF
+Welsh requirement
+ 
+ 
+WEC04INV2281111000
+Cerebrospinal fluid protein
+74040009
+Protein measurement
+Welsh requirement
+ 
+ 
+WEC04INV2311111000
+Salicylate measurement
+36206007
+Salicylate measurement
+Welsh requirement
+ 
+ 
+WEC04INV2321111000
+Digoxin measurement
+25514001
+Digoxin measurement
+Welsh requirement
+ 
+ 
+WEC04INV2331111000
+Iron measurement
+42950004
+Iron measurement
+Welsh requirement
+ 
+ 
+WEC04INV2341111000
+Lithium measurement
+54392006
+Lithium measurement
+Welsh requirement
+ 
+ 
+WEC04INV2291111000
+Pleural fluid - protein, cells and glucose,
+168132005
+Microscopy, culture and sensitivities
+Welsh requirement
+ 
+ 
+UEC04INV4111111000
+Full blood count (FBC)
+26604007
+Full blood count
+ 
+ 
+ 
+UEC04INV4121111000
+Clotting studies
+3116009
+Blood coagulation panel
+ 
+ 
+ 
+UEC04INV4141111000
+Cross match blood / group and save serum for later cross match
+252316009
+Group and save
+ 
+ 
+ 
+UEC04INV4151111000
+D-dimer
+70648006
+D-dimer assay
+ 
+ 
+ 
+UEC04INV4181111000
+Erythrocyte sedimentation rate (ESR)
+416838001
+Erythrocyte sedimentation rate measurement
+ 
+ 
+ 
+UEC04INV4191111000
+Thromboelastography
+56027003
+Thromboelastography
+ 
+ 
+ 
+UEC04INV5111111000
+Bacteriology
+168338000
+Urine sent for culture
+ 
+ 
+ 
+UEC04INV5121111000
+Swab for culture and sensitivities
+401294003
+Wound microscopy, culture and sensitivities
+ 
+ 
+ 
+UEC04INV5131111000
+Blood culture
+30088009
+Blood culture
+ 
+ 
+ 
+WEC04INV5141111000
+Point of Care Testing for COVID
+1240471000000102
+Measurement of severe acute respiratory syndrome coronavirus 2 antigen
+Welsh requirement
+ 
+ 
+WEC04INV5151111000
+Malaria Testing
+408195004
+Thick film for malarial parasites
+Welsh requirement
+ 
+ 
+WEC04INV5161111000
+Malaria Testing
+408185006
+Malarial parasite screening test
+Welsh requirement
+ 
+ 
+WEC04INV5171111000
+Cerebrospinal fluid cells/microscopy
+168132005
+Microscopy, culture and sensitivities
+Welsh requirement
+ 
+ 
+WEC04INV5181111000
+Tuberculosis (TB) Pleural Fluid
+168132005
+Microscopy, culture and sensitivities
+Welsh requirement
+ 
+ 
+UEC04INV6111111000
+Visual acuity testing
+16830007
+Visual acuity testing
+ 
+ 
+ 
+UEC04INV6115111000
+Tonometry
+164729009
+Tonometry
+ 
+ 
+ 
+UEC04INV6121111000
+Refraction, orthoptic tests and computerised visual fields
+86944008
+Visual field study
+ 
+ 
+ 
+UEC04INV6151111000
+Intra-ocular fluid sampling
+363255004
+Paracentesis of eye
+ 
+ 
+ 
+UEC04INV6161111000
+Ocular coherence tomography
+392010000
+Optical coherence tomography
+ 
+ 
+ 
+UEC04INV6171111000
+Ocular photography
+282096008
+Retinal photography
+ 
+ 
+ 
+UEC04INV6181111000
+Dental investigation
+53115007
+Diagnostic dental procedure
+ 
+ 
+ 
+UEC04INV7111111000
+X-ray plain film
+168537006
+Plain radiography
+ 
+ 
+ 
+UEC04INV7121111000
+Ultrasound
+16310003
+Ultrasonography
+ 
+ 
+ 
+UEC04INV7125111000
+Echocardiography
+40701008
+Echocardiography
+ 
+ 
+ 
+UEC04INV7141111000
+Computerised Tomography
+77477000
+Computed tomography
+ 
+ 
+ 
+UEC04INV7151111000
+Magnetic Resonance Imaging
+113091000
+Magnetic resonance imaging
+ 
+ 
+ 
+UEC04INV7161111000
+Image intensifier
+179929004
+Examination of joint under image intensifier
+ 
+ 
+ 
+UEC04INV9911111000
+Investigation not indicated
+1088291000000100
+Clinical investigation not indicated
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,112 @@
+Coded Assessment Tool Type
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify an assessment tool.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Coded Assessment Tool Type
+ 
+SNOMED CT - Emergency care assessment tool observables simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes: Mapping
+Valid From
+Valid To
+UEC04CAT1111111000
+NEWS2 respiration rate score
+1104301000000104
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - respiration rate score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated with the appropriate observable entity (see tab 10.1)
+ 
+ 
+UEC04CAT1112111000
+NEWS2 oxygen saturation scale 1 score
+1104311000000102
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - oxygen saturation scale 1 score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated with the appropriate observable entity (see tab 10.1)
+ 
+ 
+UEC04CAT1113111000
+NEWS2 oxygen saturation scale 2 score
+1104321000000108
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - oxygen saturation scale 2 score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated with the appropriate observable entity (see tab 10.1)
+ 
+ 
+UEC04CAT1114111000
+NEWS2 air or oxygen score
+1104331000000105
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - air or oxygen score
+If this value is used then Person Score MUST be populated. 'Coding Finding' should be populated with the appropriate finding (see tab 11.1)
+ 
+ 
+UEC04CAT1115111000
+NEWS2 systolic blood pressure score
+1104341000000101
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - systolic blood pressure score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated with the appropriate observable entity (see tab 10.1)
+ 
+ 
+UEC04CAT1116111000
+NEWS2 pulse score
+1104351000000103
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - pulse score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated with the appropriate observable entity (see tab 10.1)
+ 
+ 
+UEC04CAT1117111000
+NEWS2 consciousness score
+1104361000000100
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - consciousness score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated
+ 
+ 
+UEC04CAT1118111000
+NEWS2 temperature score
+1104371000000107
+Royal College of Physicians NEWS2 (National Early Warning Score 2) - temperature score
+If this value is used then Person Score MUST be populated. 'Coded Observations' should be populated with the appropriate observable entity (see tab 10.1)
+ 
+ 
+UEC04CAT1119111000
+NEWS2 total score
+1104051000000101
+Royal College of Physicians NEWS2 (National Early Warning Score 2) total score
+If this value is used then Person Score MUST be populated
+ 
+ 
+UEC04CAT2111111000
+PAIN_WHO
+1144798005
+Verbal Rating Scale pain intensity score
+Based on the WHO pain score [0/1/2/3]
+ 
+ 
+UEC04CAT3111111000
+DELIRIUM_AT4
+1239211000000103
+4AT (4 A's Test) score
+Test for delirium (acute confusion) in the elderly : https://www.the4at.com
+ 
+ 
+UEC04CAT3121111000
+FRAILTY_CFS
+763264000
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale score
+The Clinical Frailty Score aka Rockwood Score
+ 
+ 
+ 
+
+

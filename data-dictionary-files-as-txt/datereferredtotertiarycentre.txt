@@ -1,0 +1,27 @@
+Date Referred to Tertiary Centre
+Change History
+ 
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+Date the patient was referred to a tertiary centre.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+ 
+
+

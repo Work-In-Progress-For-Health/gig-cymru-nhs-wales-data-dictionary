@@ -1,0 +1,75 @@
+Local Authority
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The Local Authority of the client, based on the postcode of their usual place of residence at assessment.
+ 
+In the event that the client presents with no fixed abode, the code should be that of the local authority in which the agency is located.
+ 
+Where tier 4 treatment is being provided, the code for the local authority responsible for the referral should be used.
+ 
+Format: 3 digit numeric.
+ 
+Value
+Meaning
+660
+Isle of Anglesey
+661
+Gwynedd
+662
+Conwy
+663
+Denbighshire
+664
+Flintshire
+665
+Wrexham
+666
+Powys
+667
+Ceredigion
+668
+Pembrokeshire
+669
+Carmarthenshire
+670
+Swansea
+671
+Neath Port Talbot
+672
+Bridgend
+673
+The Vale of Glamorgan
+674
+Rhondda Cynon Taf
+675
+Merthyr Tydfil
+676
+Caerphilly
+677
+Blaenau Gwent
+678
+Torfaen
+679
+Monmouthshire
+680
+Newport
+681
+Cardiff
+999
+Other – Outside Wales
+ 
+
+

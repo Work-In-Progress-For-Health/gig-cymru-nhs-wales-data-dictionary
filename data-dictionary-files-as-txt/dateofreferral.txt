@@ -1,0 +1,28 @@
+Date of Referral
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The date that the referral was received by the agency.
+ 
+For referrals by telephone, letter, email, online or fax, the date of referral should be recorded as the date the telephone call was made or the date the letter, email etc was received by the agency.
+ 
+Prison Referrals:
+ 
+If a referral is received for a client whilst in prison, the referral date will be the date the client is released from prison.
+If the agency begins working with a client before they are released the original referral date should be used as the date of referral.
+ 
+Format: CCYY-MM-DD
+ 
+
+

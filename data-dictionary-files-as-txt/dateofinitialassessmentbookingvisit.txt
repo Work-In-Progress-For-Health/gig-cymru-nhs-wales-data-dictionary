@@ -1,0 +1,16 @@
+Date of Initial Assessment / Booking Visit
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The date of the initial maternity assessment / booking visit where a full Health & Social Care Needs Assessment is undertaken and the antenatal sections of the maternity hand held record are completed.
+ 
+Format: ccyymmdd
+ 
+
+

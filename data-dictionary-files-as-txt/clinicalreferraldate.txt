@@ -1,0 +1,52 @@
+Clinical Referral Date
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2025 / 01
+Audiology Wait Times Data Set
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN 13/05 (W)
+Subject: Revising terminology to reflect 'A Guide to Good Practice – Elective Services'
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OPR ds
+1st July 2008
+ 
+AUD WT ds
+1st April 2025
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+(OP ds: up to the 31st March 2006, this data item was known as 'Referral Request Received Date')
+ 
+The Clinical Referral Date (CRD) is the clinically significant date marking the start of a period of waiting either for an initial outpatient consultation or for an episode of treatment such as elective surgery. The CRD is used to order pick lists used for booking patients, and it does not change under any circumstances. It is not used to calculate performance waiting times statistics.
+ 
+Outpatients
+The Clinical Referral Date (CRD) is the date that the referral of an outpatient appointment is received in the Local Health Board/Trust. All referrals should be date stamped on opening – this date stamp is the CRD. In addition, this CRD must be entered into PAS on the same day.
+ 
+If the referral request takes the form of a phone call followed by a letter, record the date when the letter arrives. If there is no following letter, the date of the verbal request should be recorded.
+ 
+Inpatient and Day case events
+The Clinical Referral Date (CRD) is the date that a decision was made by the clinician within the Local Health Board/Trust (or GP outside the Local Health Board/Trust in cases of direct access referrals) to list the patient for treatment. The CRD is used to order the waiting list selection of patients.
+Format: 8 digit numeric, CCYYMMDD
+ 
+Note: The Clinical Referral Date (CRD) never changes.
+ 
+
+

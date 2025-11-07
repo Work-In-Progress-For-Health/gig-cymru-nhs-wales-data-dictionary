@@ -1,0 +1,79 @@
+Source of Referral: Substance Misuse
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The source of referral of each client referral into a substance misuse agency.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+30
+Statutory Drug Service
+31
+Non-Statutory Drug Service
+32
+General Practitioner
+33
+Self-Referral
+34
+Prison / Counselling Assessment Referral Advice and Throughcare (CARAT) / Transitional Support Scheme
+35
+Youth Offending Team (YOT)
+36
+Probation Service to include Drug Rehabilitation Requirements
+37
+NHS Accident and Emergency Department
+38
+Needle / Syringe Exchange Scheme
+39
+Psychiatry
+40
+Community Care Assessment
+41
+Integrated Offender Interventions Service / Drug Interventions Programme / Arrest Referral Scheme
+42
+Social Services
+43
+Community Psychiatric Nurse (CPN) / Community Mental Health Team
+44
+Solicitor
+45
+Family / Friends
+46
+Police
+47
+Educational Establishment
+48
+Employment Service
+49
+Support Agencies e.g. Shelter
+50
+Domestic Abuse Suppport Service
+51
+Armed Forces
+52
+Court
+53
+Midwife
+54
+NHS (Hospital)
+55
+Peer Mentoring Scheme
+56
+Single Point of Engagement (SPOE) NB this is only to be used in specific cases; these circumstances will be by prior agreement with Welsh Government.
+ 
+
+

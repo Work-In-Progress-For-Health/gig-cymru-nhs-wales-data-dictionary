@@ -1,0 +1,24 @@
+Birth Date (Mother)
+Change History
+ 
+DSCN 2023 / 30
+Admitted Patient Care Data Set – Retirement of Maternity Tail Data Items
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds
+1st April 1999
+30th June 2023
+NCCHD
+ 
+ 
+ 
+Date of birth of the mother in a delivery record.
+For APC ds99, note that Birth Date Status (Mother) is associated with this data item and should be used to indicate whether Birth Date (mother) is supplied or not applicable.
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

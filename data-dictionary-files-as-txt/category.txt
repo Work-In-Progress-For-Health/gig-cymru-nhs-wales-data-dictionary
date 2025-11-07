@@ -1,0 +1,43 @@
+Category
+Change History
+ 
+DSCN 2023 / 01
+Pathways of Care Delays Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Pathways of Care Delays Dataset
+1st February 2023
+ 
+ 
+ 
+ 
+The status of a patient on admission after clinical assessment.
+ 
+Format:  Alphanumeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Awaiting transfer onto D2RA or to another pathway
+1st February 2023
+ 
+2
+Awaiting Discharge, not requiring D2RA Pathways
+1st February 2023
+ 
+3
+Awaiting transfer out of D2RA Pathways
+1st February 2023
+ 
+0
+None
+1st February 2023
+ 
+ 
+
+

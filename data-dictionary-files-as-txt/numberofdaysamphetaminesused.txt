@@ -1,0 +1,31 @@
+Number of Days Amphetamines Used
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The number of days the client has taken amphetamine in the last 28 days (4 weeks) prior to the TOP interview date, as stated by the client.
+ 
+Format: 2 character alpha-numeric.
+ 
+Value
+Meaning
+00
+No amphetamine taken.
+01 - 28
+Number of days on which the client has taken amphetamine.
+99
+The client declined to answer.
+ 
+
+

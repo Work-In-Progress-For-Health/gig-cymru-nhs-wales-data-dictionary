@@ -1,0 +1,123 @@
+Attendance Category
+Change History
+ 
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DSCN 2024 / 07
+Self-Management Pathway (Phase 2) – Attendance Category
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 10 (W)
+Recording and Reporting of Outpatient Pre-Operative Assessment Activity
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 2009
+ 
+EDDS
+1st April 2009
+ 
+WECDS
+1st August 2024
+ 
+(This data item was formerly known as ‘First Attendance’ with the new title and data definition taking effect from 1st April 2009)
+FOR WELSH EMERGENCY CARE DATA SET
+The category of Urgent and Emergency Care Attendance or Same Day Emergency Care Attendance which provides an indication of whether a patient is making a planned or un-planned attendance at the Urgent and Emergency Care Department.
+Code
+Category
+Valid From
+Valid To
+01
+Unplanned first Urgent and Emergency Care or Same Day Emergency Care Attendance for a new clinical condition (or deterioration of a chronic condition).
+ 
+
+02
+Unplanned follow up Urgent and Emergency Care or Same Day Emergency Care Attendance for the same or a related clinical condition and within 7 days of the first Urgent and Emergency Care or Same Day Emergency Care Attendance at this Urgent and Emergency Care service.
+ 
+ 
+03
+Unplanned follow-up Urgent and Emergency Care or Same Day Emergency Care Attendance for the same or a related clinical condition and within 7 days of the First Urgent and Emergency Care or Same Day Emergency Care Attendance at ANOTHER Urgent and Emergency Care service.
+ 
+ 
+04
+Planned follow-up Urgent and Emergency Care or Same Day Emergency Care Attendance within 7 days of the First Urgent and Emergency Care or Same Day Emergency Care Attendance at THIS Urgent and Emergency Care service.
+ 
+ 
+XX
+Not Applicable (Patient dead on arrival to Urgent and Emergency Care service.)
+ 
+ 
+Format: 2 digit alpha numeric
+FOR OUTPATIENTS
+(This data item was formerly known as ‘First Attendance’ with the new title and data definition taking effect from 1st April 2009)
+This categorises the type of attendance.
+The first attendance is the start of the Outpatient episode and is the first attendance in a series with the same Consultant or Independent Nurse following a referral.
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+New Attendance
+1st April 2004
+
+2
+Follow-up Attendance
+1st April 2004
+ 
+3
+Pre-Operative Assessment Attendance
+1st April 2009
+ 
+4
+Patient Initiated Follow Up
+1st September 2024
+ 
+5
+See on Symptom Follow Up
+1st September 2024
+ 
+6
+Remote Monitoring Triggered1
+1st September 2024
+ 
+ 
+1 Please note that Remote Monitoring Triggered appointments refer to patients who are managing their condition via a third-party system such as My Medical Record or Patient Knows best. For example, a clinician has reviewed the patients recent test results via the system and identifies the patient requires a follow up appointment.
+ 
+FOR EMERGENCY DEPARTMENT DATA SET:
+Accident and Emergency Attendance Category is an indication of whether a patient is making a first or follow-up attendance at the Accident and Emergency Department.
+New Attendance
+A new attendance is the first visit made by a patient to the Accident and Emergency Department for a particular injury or ailment. A new attendance can be the first in a series or one single attendance in an Accident and Emergency Department.
+Planned Follow-up Attendance
+A follow-up Accident and Emergency Attendance is a subsequent planned attendance at the same department, and for the same incident as the first attendance. A planned follow-up attendance is agreed or requested by a clinician.
+Unplanned Follow-up Attendance
+A patient returning to the Accident and Emergency Department with a conditional previously treated where they have not been asked to return by the clinician will be counted as an unplanned follow-up attendance.
+Please note: This definition of an Attendance Category applies to QS1 and EDDS Reporting. For SITREPS Reporting, Unplanned Follow-ups should be counted as 'New Attendances'.
+ 
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+New Attendance
+1st April 2009
+ 
+02
+Planned Follow-up
+1st April 2009
+ 
+03
+Unplanned Follow-up
+1st April 2009
+ 
+ 
+ 
+
+

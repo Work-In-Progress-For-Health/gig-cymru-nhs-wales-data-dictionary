@@ -1,0 +1,99 @@
+Site Code (of Treatment)
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2020 / 02
+Maternity Indicators Data Set (AMD)
+DSCN 2016 / 02
+Maternity Indicators Data Set
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN 04/06 (W)
+Revised definitions for Phase 2 of the Outpatient Data Quality Project
+DSCN 19/01 (W)
+Subject: Capturing data for NHS patients treated in private hospitals
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+CC ds
+1st April 2007
+ 
+EDDS
+1st April 2009
+ 
+PAP ds
+1st April 2013
+ 
+MI ds
+1st April 2016
+ 
+WECDS
+1st August 2024
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+The organisation code for the site where the patient will be or is treated.
+For RTT PTL data set: This refers to the site where the wait is managed for the current stage of the pathway at the time of reporting. If the site is unknown for a specific stage of the pathway, use the site where the referral was initially received.
+For MI ds (Birth): The organisation code for the site where the woman gave birth.  This may be the same as or different to where she may have been treated during labour.
+Format: 5 character alpha-numeric
+See ORGANISATION CODE
+Where the response for data item (Consultation method) is
+•     Virtual Clinical Appointment (Patient Contact) - Video, record the most relevant value for where the healthcare professional is when conducting the appointment.
+•     Virtual Clinical Appointment (Patient Contact) - Phone, record the most relevant value for where the healthcare professional is when conducting the appointment.
+•     Virtual Clinical Review (Non-Patient Contact), record the most relevant value for where the healthcare professional is when conducting the review 
+ 
+For outpatients and MI ds:
+Face to Face activity may take place outside the hospital, such as in the patient’s home; in such cases, raising a site code is impractical. The following default codes should be used when required:
+For MI ds:-
+Value
+Meaning
+Valid From
+Valid To
+R9998
+Not a hospital site
+1st April 2016
+ 
+ 
+For Outpatients:-
+Value
+Meaning
+Valid From
+Valid To
+R9998
+Not a hospital site
+1st April 2016
+ 
+89999
+Not applicable: Non-NHS providers where no site code has been requested and issued
+1st April 2002
+ 
+89997
+Not applicable: Non-UK provider
+21st January 2002
+ 
+Where treatment for an NHS patient is sub-commissioned to an overseas provider the default code 89997 is applicable.
+ 
+
+

@@ -1,0 +1,64 @@
+Urgent and Emergency Care Injury Activity Status
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The SNOMED CT concept ID which is used to identify the status of activity being undertaken by the patient when the injury occurred.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Injury Activity Status
+ 
+SNOMED CT Refset - Emergency care injury activity status simple reference set  
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04IJS1111111000
+Leisure
+1067601000000108
+Injury whilst engaged in leisure activity
+ 
+ 
+ 
+UEC04IJS2111111000
+Activity of daily living
+1080091000000109
+Injury whilst engaged in activity of daily living
+ 
+ 
+ 
+UEC04IJS3111111000
+Paid work
+1079831000000100
+Injury whilst engaged in paid work activity
+ 
+ 
+ 
+UEC04IJS4111111000
+Unpaid work
+1079841000000109
+Injury whilst engaged in unpaid work activity
+ 
+ 
+ 
+UEC04IJS5111111000
+Being educated
+1080071000000105
+Injury whilst engaged in education activity
+ 
+ 
+ 
+ 
+
+

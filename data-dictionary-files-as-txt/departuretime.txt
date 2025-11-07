@@ -1,0 +1,29 @@
+Departure Time
+Change History
+ 
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+This is the time that the patient left the department.
+Departure Time is when one of the following criteria is met;
+a.  The patient leaves the Emergency Department to continue their treatment elsewhere, wherever that might be, this is the point of clinical handover;
+b.  The patient is discharged and is medically fit to leave the department;
+c.  The patient self discharges;
+d.  The patient dies.
+ 
+Note: Leaving the Emergency Department for a diagnostic test or other treatment does not count as the Departure Time if the patient returns to the Emergency Department.
+ 
+Format: hh:mm:ss
+ 
+
+

@@ -1,0 +1,25 @@
+Urgent and Emergency Care Professional Discharge Responsibility Indicator
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+An indication of whether a Care Professional is responsible for discharge of the patient from an Urgent and Emergency Care service.
+ 
+Code
+Description
+Valid From
+Valid To
+Y
+Yes - the care professional is responsible for discharge of the patient
+ 
+ 
+N
+No - the care professional is not responsible for discharge of the patient
+ 
+ 
+ 
+Format: 1 character alphanumeric
+
+

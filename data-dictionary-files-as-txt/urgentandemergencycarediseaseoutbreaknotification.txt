@@ -1,0 +1,12 @@
+Urgent and Emergency Care Disease Outbreak Notification
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the SNOMED CT concept ID describing nationally notifiable outbreaks of disease which are identified in Urgent and Emergency Care Services.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+
+

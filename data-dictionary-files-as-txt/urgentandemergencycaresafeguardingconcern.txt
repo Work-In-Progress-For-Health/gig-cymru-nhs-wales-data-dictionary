@@ -1,0 +1,350 @@
+Urgent and Emergency Care Safeguarding Concern
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the SNOMED CT concept ID which is used to identify an unresolved issue or concern regarding adult and child safeguarding that requires communication to another organisation or care agency.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Safeguarding Concern
+ 
+SNOMED CT Refset- Safeguarding issues simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04SFG1111111000
+No safeguarding issues identified
+861931000000100
+No safeguarding issues identified
+ 
+ 
+ 
+UEC04SFG2211111000
+Frequent attender of Emergency Department
+826931000000104
+Frequent attender of accident and emergency department
+ 
+ 
+ 
+UEC04SFG2215111000
+Delay in seeking medical advice
+449889006
+Delay in seeking medical advice
+ 
+ 
+ 
+UEC04SFG2221111000
+Child is cause for safeguarding concern
+836881000000105
+Child is cause for safeguarding concern
+ 
+ 
+ 
+UEC04SFG2231111000
+Adult safeguarding concern
+766561000000109
+Adult safeguarding concern
+ 
+ 
+ 
+UEC04SFG2241111000
+Family is cause for concern
+300731000000106
+Family is cause for concern
+ 
+ 
+ 
+UEC04SFG2251111000
+Carer behaviour is cause for safeguarding concern
+1076171000000104
+Carer behaviour is cause for safeguarding concern
+ 
+ 
+ 
+UEC04SFG2261111000
+Unborn child is cause for safeguarding concern
+878111000000109
+Unborn child is cause for safeguarding concern
+ 
+ 
+ 
+UEC04SFG3111111000
+At risk for deliberate self harm
+401206008
+At risk for deliberate self harm
+ 
+ 
+ 
+UEC04SFG3121111000
+At risk of physical abuse
+416936003
+At risk of physical abuse
+ 
+ 
+ 
+UEC04SFG3123111000
+At risk for other-directed violence
+129707006
+At risk for other-directed violence
+ 
+ 
+ 
+UEC04SFG3131111000
+Child at risk
+160877008
+Child at risk
+ 
+ 
+ 
+UEC04SFG3133111000
+Vulnerable adult
+417430008
+Vulnerable adult
+ 
+ 
+ 
+UEC04SFG3151111000
+At risk of financial abuse
+761571000000106
+At risk of financial abuse
+ 
+ 
+ 
+UEC04SFG3155111000
+At risk of discriminatory abuse
+417427001
+At risk of discriminatory abuse
+ 
+ 
+ 
+UEC04SFG3161111000
+At risk of institutional abuse
+838481000000106
+At risk of institutional abuse
+ 
+ 
+ 
+UEC04SFG3171111000
+At risk of human trafficking
+1045861000000108
+At risk of human trafficking
+ 
+ 
+ 
+UEC04SFG3181111000
+Has child subject of child protection plan
+864491000000105
+Has child subject of child protection plan
+ 
+ 
+ 
+UEC04SFG3183111000
+Family member subject of child protection plan
+375041000000100
+Family member subject of child protection plan
+ 
+ 
+ 
+UEC04SFG3187111000
+Domestic abuse victim in household
+881081000000100
+Domestic abuse victim in household
+ 
+ 
+ 
+UEC04SFG3511111000
+At risk of domestic violence
+707087005
+At risk of domestic violence
+ 
+ 
+ 
+UEC04SFG3531111000
+At risk of sexual abuse
+417361000
+At risk of sexual abuse
+ 
+ 
+ 
+UEC04SFG3535111000
+At risk of sexual exploitation
+919461000000108
+At risk of sexual exploitation
+ 
+ 
+ 
+UEC04SFG3555111000
+At risk of radicalisation
+766969008
+At risk of radicalisation
+ 
+ 
+ 
+UEC04SFG3561111000
+At risk of female genital mutilation
+713201008
+At risk of female genital mutilation
+ 
+ 
+ 
+UEC04SFG3565111000
+At risk of honour based violence
+736792008
+At risk of honour based violence
+ 
+ 
+ 
+UEC04SFG3569111000
+At risk of forced marriage
+1054321000000107
+At risk of forced marriage
+ 
+ 
+ 
+UEC04SFG3571111000
+At risk of emotional abuse
+771984002
+At risk of emotional abuse
+ 
+ 
+ 
+UEC04SFG3575111000
+At risk of psychological abuse
+771983008
+At risk of psychological abuse
+ 
+ 
+ 
+UEC04SFG5111111000
+Suspected alcohol abuse
+415685003
+Suspected alcohol abuse
+ 
+ 
+ 
+UEC04SFG5115111000
+Family history of alcohol misuse
+293161000000103
+Family history of alcohol misuse
+ 
+ 
+ 
+UEC04SFG5121111000
+Suspected drug abuse
+162591001
+Suspected drug abuse
+ 
+ 
+ 
+UEC04SFG5125111000
+Family history of substance misuse
+287351000000105
+Family history of substance misuse
+ 
+ 
+ 
+UEC04SFG5141111000
+Suspected victim of child neglect
+702953007
+Suspected victim of child neglect
+ 
+ 
+ 
+UEC04SFG5151111000
+Self-neglect
+248054003
+Self-neglect
+ 
+ 
+ 
+UEC04SFG5511111000
+Suspected victim of emotional abuse
+697951004
+Suspected victim of emotional abuse
+ 
+ 
+ 
+UEC04SFG5521111000
+Suspected victim of sexual abuse
+702579009
+Suspected victim of sexual abuse
+ 
+ 
+ 
+UEC04SFG5522111000
+Suspected victim of child sexual abuse
+700254002
+Suspected victim of child sexual abuse
+ 
+ 
+ 
+UEC04SFG5525111000
+Suspected victim of sexual grooming
+700253008
+Suspected victim of sexual grooming
+ 
+ 
+ 
+UEC04SFG5551111000
+Alleged victim of sexual assault
+297591000000108
+Alleged victim of sexual assault
+ 
+ 
+ 
+UEC04SFG6611111000
+Suspected non-accidental injury to child
+700255001
+Suspected non-accidental injury to child
+ 
+ 
+ 
+UEC04SFG6615111000
+Suspected victim of child abuse
+162596006
+Suspected victim of child abuse
+ 
+ 
+ 
+UEC04SFG6631111000
+Suspected domestic abuse
+697950003
+Suspected domestic abuse
+ 
+ 
+ 
+UEC04SFG6651111000
+Suspected victim of physical abuse
+697949003
+Suspected victim of physical abuse
+ 
+ 
+ 
+UEC04SFG6655111000
+Suspected victim of bullying
+771385008
+Suspected victim of bullying
+ 
+ 
+ 
+UEC04SFG6691111000
+Alleged being subjected to abuse
+777996001
+Alleged being subjected to abuse
+ 
+ 
+ 
+ 
+
+

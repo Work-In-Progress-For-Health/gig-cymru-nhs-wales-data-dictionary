@@ -1,0 +1,182 @@
+Location Type Code
+Change History
+ 
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+This is a classification of location type.
+Where the response for data item (Consultation method) is
+ 
+•     Virtual Clinical Appointment (Patient Contact) - Video, record the most relevant value for where the healthcare professional is when conducting the appointment.
+•     Virtual Clinical Appointment (Patient Contact) - Phone, record the most relevant value for where the healthcare professional is when conducting the appointment.
+•     Virtual Clinical Review (Non-Patient Contact), record the most relevant value for where the healthcare professional is when conducting the review 
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Clients or patients home
+1st April 1999
+ 
+02
+Health Centre
+1st April 1999
+ 
+03
+Other GMP Premises
+1st April 1999
+ 
+04
+Ward or NHS Hospital Site
+1st April 1999
+ 
+06
+Hospice
+1st April 1999
+ 
+07
+Other Voluntary or Private Hospital or Nursing Home
+1st April 1999
+ 
+08
+Group Home managed by the NHS
+1st April 1999
+ 
+09
+Group Home managed by Local Authority
+1st April 1999
+ 
+10
+Group Home managed by Voluntary or Private Agents
+1st April 1999
+ 
+11
+Other Residential Care Homes managed by Local Authority
+1st April 1999
+ 
+12
+Other Residential Care Homes managed by Voluntary or Private Agents
+1st April 1999
+ 
+13
+NHS Day Care Facility on NHS Hospital Sites
+1st April 1999
+ 
+14
+NHS Day Care Facility on Other sites
+1st April 1999
+ 
+15
+Day Centre managed by Local Authority
+1st April 1999
+ 
+16
+Day Centre managed by Voluntary or Private Agents
+1st April 1999
+ 
+17
+NHS Consultant Clinic Premises on a NHS Hospital Site
+1st April 1999
+ 
+18
+NHS Consultant Clinic Premises off a NHS Hospital Site
+1st April 1999
+ 
+19
+Health Clinic managed by the NHS
+1st April 1999
+ 
+20
+Health Clinic managed by Voluntary or Private Agents
+1st April 1999
+ 
+21
+Resource Centre on NHS Hospital Site
+1st April 1999
+ 
+22
+Resource Centre managed by the NHS off NHS Hospital Site
+1st April 1999
+ 
+23
+Resource Centre managed by Local Authority
+1st April 1999
+ 
+24
+Resource Centre managed by Voluntary or Private Agents
+1st April 1999
+ 
+25
+Professional Staff Group Department on NHS Hospital Site
+1st April 1999
+ 
+26
+Professional Staff Group Department managed by the NHS off NHS Hospital Site
+1st April 1999
+ 
+27
+Professional Staff Group Department managed by Local Authority
+1st April 1999
+ 
+28
+Professional Staff Group Department managed by Voluntary or Private Agents
+1st April 1999
+ 
+29
+School Premises managed by Local Authority or Grant Maintained
+1st April 1999
+ 
+30
+School Premises managed by Voluntary or Private Agents
+1st April 1999
+ 
+31
+Other Health or Local Authority Facility on NHS Hospital Site
+1st April 1999
+ 
+32
+Other Health or Local Authority Site managed by the NHS off NHS Hospital Site
+1st April 1999
+ 
+33
+Other Health or Local Authority Site managed by Local Authority
+1st April 1999
+ 
+34
+Other Health or Local Authority Site managed by Voluntary or private Agents
+1st April 1999
+ 
+35
+Prison Department Establishments
+1st April 1999
+ 
+36
+Public Place or Street, or Police Station
+1st April 1999
+ 
+37
+Other locations not classified elsewhere
+1st April 1999
+ 
+38
+NHS Nursing Home
+1st April 1999
+ 
+39
+Other Residential Care Homes managed by the NHS
+1st April 1999
+ 
+ 
+ 
+
+

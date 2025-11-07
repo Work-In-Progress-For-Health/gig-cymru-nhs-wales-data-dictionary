@@ -1,0 +1,20 @@
+Actual Fractions
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+The total number of Fractions or hyper- fractions delivered as part of a Radiotherapy Prescription.
+Format: max 3 digit numeric
+ 
+
+

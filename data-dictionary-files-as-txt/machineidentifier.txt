@@ -1,0 +1,21 @@
+Machine Identifier
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+A unique identifier for a Radiotherapy Machine.
+Details of how this identifier is generated and used within the Radiotherapy Data Set can be found at the National Clinical Analysis and Specialised Applications Team website.
+Format: max 12 character alpha numeric
+ 
+
+

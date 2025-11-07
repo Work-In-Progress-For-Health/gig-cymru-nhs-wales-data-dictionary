@@ -1,0 +1,39 @@
+Critical Care Admission Source
+Change History
+ 
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is the primary organisation type that the patient has been admitted from prior to the start of the Critical Care Period.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Same NHS hospital site
+03
+Independent Hospital Provider in the UK
+04
+Non-hospital source within the UK (e.g. home)
+05
+Non UK source such as repatriation, military personnel or foreign national
+51
+Other NHS hospital site (same Local Health Board)
+52
+Other NHS hospital site (different Local Health Board)
+ 
+ 
+
+

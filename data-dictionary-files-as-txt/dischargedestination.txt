@@ -1,0 +1,170 @@
+Discharge Destination
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2019 / 04
+APC – Source of Admission / Discharge Destination
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2006) 08 (W)
+Data Standards: Source of Admission, Discharge Destination value of '51 and '55'
+DSCN 09/02 (W)
+Data Standards: Changes in High Security Psychiatric Services
+DSCN 30/01 (W)
+Data Standards: The implementation of new codes for Source of Admission and Discharge Destination to indicate admissions from the discharges to hospital providers in the same Trust. In line with the new definitions for Provider (Trust) Spell, Hospital Site Spell and Discharge
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+National Cancer Ds - Core
+ 
+ 
+ 
+The classification of where a patient is sent on completion of a hospital provider spell, or a note that the patient died or was a still birth.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+Valid From
+Valid To
+19
+Own home
+Pre 28th December 1995
+ 
+Amended 1st April 2019
+ 
+20
+Permanent residence at nursing home, residential care home
+1st April 2019
+ 
+21
+Temporary residence at nursing home, residential care home
+1st April 2019
+ 
+22
+No fixed abode
+1st April 2019
+ 
+23
+Hospice
+1st April 2019
+ 
+29
+Temporary place of residence when usually resident elsewhere (includes hotel, residential educational establishment)
+Pre 28th December 1995
+ 
+39
+Penal establishment, court or police station or police custody suite
+Pre 28th December 1995
+ 
+Amended 1st April 2019
+ 
+49
+Special Hospital
+Pre 28th December 1995
+31st December 2002
+51
+Patient transfer to another health board / trust
+Pre 28th December 1995
+Amended 28th February 2006
+Amended 1st October 2009
+ 
+Amended 1st April 2019
+ 
+52
+Other Local Health Board/Trust - ward for maternity patients or neonates
+Pre 28th December 1995
+Amended 1st October 2009
+31st March 2019
+53
+Other Local Health Board/Trust - ward for patients who are mentally ill or have learning disabilities
+Pre 28th December 1995
+Amended 1st October 2009
+31st March 2019
+54
+NHS run nursing home, group home or residential care home
+Pre 28th December 1995
+31st March 2019
+55
+Patient transfer within the same health board / trust
+1st September 2001
+Amended 28th February 2006
+Amended 1st October 2009
+ 
+Amended 1st April 2019
+ 
+56
+Hospital site within the same Local Health Board/Trust - ward for maternity patients or neonates
+1st September 2001
+Amended 1st October 2009
+31st March 2019
+57
+Hospital site within the same Local Health Board/Trust - ward for patients who are mentally ill or have learning disabilities
+1st September 2001
+Amended 1st October 2009
+31st March 2019
+65
+Local Authority Part 3 residential accommodation i.e. where care is provided
+Pre 28th December 1995
+ 
+66
+Local authority foster care but not in Part 3 residential accommodation
+Pre 28th December 1995
+ 
+69
+Under local authority care – residential or foster care
+Pre 28th December 1995
+31st March 2001
+79*
+Not Applicable - Patient died or stillbirth
+Pre 28th December 1995
+ 
+85
+Non-NHS (other than local authority) run residential care home
+Pre 28th December 1995
+31st March 2019
+86
+Non-NHS (other than local authority) run nursing home
+Pre 28th December 1995
+31st March 2019
+87
+Patient transfer to Non-NHS run hospital includes private hospitals e.g. BUPA
+Pre 28th December 1995
+ 
+Amended 1st April 2019
+ 
+88
+Non-NHS (other than Local Authority) run Hospice
+1st July 1997
+31st March 2019
+89
+Other non NHS Hospital, Nursing Home or Residential institution
+Pre 28th December 1995
+31st March 2001
+98
+Not applicable - hospital provider spell not finished at episode end (i.e. not discharged, or current episode unfinished)
+1st July 1997
+ 
+99
+Not Known
+1st July 1997
+20th January 2002
+Spaces
+Hospital provider spell not yet finished
+Pre 28th December 1995
+30th April 1998
+* Derived when Discharge Method = 4 or 5
+ 
+
+

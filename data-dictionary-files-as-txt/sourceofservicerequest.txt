@@ -1,0 +1,95 @@
+Source of Service Request
+Change History
+ 
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+The organisation from which the clinical advice was given to attend the Accident and Emergency Department.
+Format: 2 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Emergency Services
+1st April 2009
+ 
+02
+General Practice
+1st April 2009
+ 
+03
+Dental Practice
+1st April 2009
+ 
+04
+111 Services
+1st April 2009
+ 
+05
+Out of Hours Services (excluding 111 Services)
+1st April 2009
+ 
+06
+Community Midwife / Community Nurse
+1st April 2009
+ 
+07
+Clinic / Department / Ward / Unit within same Trust
+1st April 2009
+ 
+08
+Other Health Care Provider
+1st April 2009
+ 
+09
+Social Services
+1st April 2009
+ 
+10
+Educational Establishment
+1st April 2009
+ 
+11
+Police
+1st April 2009
+ 
+12
+Prison Service
+1st April 2009
+ 
+13
+Armed Forces
+1st April 2009
+ 
+14
+Nursing / Residential Home
+1st April 2009
+ 
+15
+Occupational Health
+1st April 2009
+ 
+16
+Planned Accident and Emergency Follow-Up
+1st April 2009
+ 
+98
+Not Applicable – Self Referral
+1st April 2009
+ 
+99
+Not Known
+1st April 2009
+ 
+
+

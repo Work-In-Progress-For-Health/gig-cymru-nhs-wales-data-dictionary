@@ -1,0 +1,21 @@
+Critical Care Discharge Ready Date
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The date on which the patient has been declared clinically ready for discharge or transfer from the Critical Care Period and a formal request has been made to the hospital bed management system (or appropriate staff with authority to admit at the intended destination) and the date and time of this status is recorded as such in the clinical record.
+Only to be completed if the patient has not died.
+Format: ccyymmdd
+ 
+
+

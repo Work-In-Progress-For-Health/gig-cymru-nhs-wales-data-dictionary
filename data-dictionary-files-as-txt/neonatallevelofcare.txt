@@ -1,0 +1,49 @@
+Neonatal Level of Care
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+For births, this is the highest level of care received by a neonate. This is recorded at the end of the episode.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+0
+Normal care: care given by the mother or mother substitute with medical and neonatal nursing advice if needed
+1st May 1998
+ 
+1
+Special care: care given in a special care nursery, transitional care ward or postnatal ward which provides care and treatment exceeding normal routine care. Some aspects of special care can be undertaken by a mother supervised by qualified nursing staff. Special nursing care includes support and education of the infants parent(s)
+1st May 1998
+ 
+2
+Level 2 intensive care (High dependency intensive care): care given in an intensive or special care nursery which provides continuous skilled supervision by qualified and specially trained nursing staff who may care for more babies than in Level 1 intensive care. Medical supervision is not so immediate as in Level 1 intensive care. Care includes support of the infants parent(s)
+1st May 1998
+ 
+3
+Level 1 intensive care (maximal intensive care): care given in an intensive care nursery which provides continuous skilled supervision by qualified and specially trained nursing and medical staff. Such care includes support of the infants parent(s)
+1st May 1998
+ 
+8
+Not applicable: the episode of care does not involve a neonate during all, or part, of the duration of the episode
+1st May 1998
+ 
+9
+Not known: the patient is a neonate but the information is not available. This constitutes a validation error.
+1st May 1998
+20th January 2002
+ 
+
+

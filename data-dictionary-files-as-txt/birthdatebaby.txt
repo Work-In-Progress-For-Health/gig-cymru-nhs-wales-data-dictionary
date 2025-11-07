@@ -1,0 +1,32 @@
+Birth Date (Baby)
+Change History
+ 
+DSCN 2023 / 30
+Admitted Patient Care Data Set – Retirement of Maternity Tail Data Items
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds
+1st April 1999
+30th June 2023
+NCCHD
+ 
+ 
+MI ds
+1st April 20016
+ 
+ 
+Date of birth of baby. Note that Date Status is not associated with this date; the provider must record this date and should always be able to supply it.
+If the Date of Birth is unknown; use the date '11/11/1811' (that is 18111111)
+Format: 8 digit numeric, CCYYMMDD
+Value
+Meaning
+18111111
+Date of Birth Unknown
+ 
+ 
+
+

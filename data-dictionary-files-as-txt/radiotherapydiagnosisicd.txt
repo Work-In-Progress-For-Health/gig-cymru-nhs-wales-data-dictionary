@@ -1,0 +1,25 @@
+Radiotherapy Diagnosis (ICD)
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+Radiotherapy Diagnosis (ICD) is the International Classification of Diseases (ICD) code for a patient receiving Radiotherapy.  
+•         For patients with cancer, Radiotherapy Diagnosis (ICD) is the primary tumour diagnosis code
+•         For non-cancer diagnoses, Radiotherapy Diagnosis is the main condition being treated during the Radiotherapy Episode
+NOTE: The definition of this data item is different from that of the Primary Diagnosis in this data set.
+Format: 6 character alpha-numeric
+ 
+Recommended list of ICD Codes for use in this field.
+ 
+
+

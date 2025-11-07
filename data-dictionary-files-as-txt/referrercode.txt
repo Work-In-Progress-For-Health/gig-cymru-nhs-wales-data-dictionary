@@ -1,0 +1,91 @@
+Referrer Code
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2008) 05 (W)
+Outpatient Referrals Data Set
+DSCN (2006) 04 (W)
+Revised definitions for Phase 2 of the Outpatient Data Quality Project
+DSCN (2006) 01 (W)
+To introduce Independent Nurse Activity in the Outpatient ds + QS1
+DSCN 18/04 (W)
+To correct the All Wales Data Dictionary entry for the data item 'Referrer Code'.
+DSCN 38/01 (W) Amnd
+Subject: The addition of new codes in Method of Admission, Referrer Code and Referring Organisation for emergency patients admitted via the NHS direct service
+DSCN 38/01 (W)
+Subject: The addition of new codes in Method of Admission, Referrer Code and Referring Organisation for emergency patients admitted via the NHS direct service
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OPR ds
+1st July 2008
+ 
+EDDS
+1st April 2009
+ 
+ 
+This is the nationally recognized code of the person making the referral. This may be a General Medical Practitioner (GMP), General Dental Practitioner (GDP), Consultant or Independent Nurse.
+If the referral is not from a GMP, GDP, Consultant or Independent Nurse use one of the default codes below:
+Format: 8 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+X9999998
+Not applicable or no code available (referrer not a GMP, GDP or Consultant)
+1st May 1998
+20th January 2002
+M9999998
+Midwife
+21st January 2002
+ 
+N9999997
+111 Services
+1st September 2001
+ 
+N9999998
+Nurse Referral
+1st September 2001
+31st March 2006
+S9999998
+Self Referral
+21st January 2002
+ 
+A9999998
+MOD doctor
+1st May 1998
+ 
+P9999981
+Prison doctor
+Pre 28th December 1995
+ 
+R9999981
+Referrer other than above
+Pre 28th December 1995
+ 
+ 
+See Consultant Code
+See GP Code
+See Independent Nurse
+ 
+
+

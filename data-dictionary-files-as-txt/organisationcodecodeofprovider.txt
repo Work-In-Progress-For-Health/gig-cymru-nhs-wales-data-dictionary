@@ -1,0 +1,143 @@
+Organisation Code (Code of Provider)
+Change History
+ 
+DSCN 2025 / 01
+Audiology Wait Times Data Set
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DSCN 2021 / 02
+Inpatient and Day Case Admissions and First Outpatient Appointments Waiting Times (PP01W) Data Set - Retirement
+DSCN 2021 / 01
+Single Cancer Pathway – Adjustments Data Set – Retirement
+DSCN 2020 / 28
+Single Cancer Pathway – Core (AMD)
+DSCN 2020 / 22
+Single Cancer Pathway - Adjustments
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+DSCN 2016 / 02
+Maternity Indicators Data Set
+DSCN 2015 / 03
+Radiotherapy Data Set
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DDCN 2011 / 02
+Angiogram Waiting Time & Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 12
+Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 08 (W)
+Referral to Treatment Patient Tracking Report
+DSCN (2008) 05 (W)
+Outpatient Referral Data Set
+DSCN (2006) 03 (W)
+Recording and Reporting of the 2nd Offer Scheme
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+CC ds
+1st April 2007
+ 
+OPR ds
+1st July 2008
+ 
+DATS
+ 
+ 
+RTT
+1st April 2007
+31st August 2011
+RTT-PTR
+1st September 2008
+30th September 2009
+PP01W
+ 
+8th February 2021
+EDDS
+1st April 2009
+ 
+RTT (Combined)
+1st September 2011
+ 
+PAP ds
+1st April 2013
+ 
+RTDS
+1st April 2014
+ 
+MI ds
+1st April 2016
+ 
+SCPC ds
+1st January 2021
+ 
+SCPA ds
+1st January 2021
+3rd February 2021
+WECDS
+1st August 2024
+ 
+AUD WT ds
+1st April 2025
+ 
+ 
+This is the organisation code of the health care provider. The provider code identifies the health care provider who is responsible for managing the treatment of the patient.
+ 
+Notes:
+1.  Healthcare providers may also act as commissioners when sub-contracting patient care services to other providers of health care.
+2.  Although the healthcare provider identified in this data item is responsible for managing the patient’s treatment, it may not necessarily be where the treatment is actually conducted. For example, where the treatment has been sub-contracted to another healthcare provider.
+3.  For OPR ds, the Organisation Code (Code of Provider) is that of the organisation receiving the referral. If the provider is a Local Health Board/Trust, use the 3 character Local Health Board/Trust code with 2 zeros placed in the 4th and 5th character position.
+4.  For Referral to Treatment Times (Combined), use the 3 character Local Health Board/Trust code.
+ 
+Format:
+For Patient Level Data Sets (APC, OP, CC, OPR, PAP, RTDS):-
+5 character alpha-numeric Local Health Board/Trust Code with 2 zeros placed in the 4th and 5th character position.
+For Aggregate Data Collections (DATS and RTT (Combined):-
+3 character alpha numeric Local Health Board/Trust Code
+ 
+Value
+Meaning
+XAABB
+The organisation code for the provider
+ 
+Default codes:
+ 
+Value
+Meaning
+Valid From
+Valid To
+89997
+Non-UK provider where no organisation code has been issued
+1st April 2004
+ 
+89999
+Non-NHS UK provider where no organisation code has been requested and  issued
+1st April 2002
+ 
+ 
+See ORGANISATION CODE
+
+
+

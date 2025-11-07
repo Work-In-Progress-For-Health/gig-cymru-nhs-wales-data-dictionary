@@ -1,0 +1,16 @@
+Serial Number
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+Part of a code used to produce a unique identifier for each health care arrangement (i.e. the Contract Identifier).
+Format: 6 character alpha-numeric agreed mutually by the Commissioner and Provider which uniquely defines the contract between the parties.
+See Commissioning Serial Number
+ 
+
+

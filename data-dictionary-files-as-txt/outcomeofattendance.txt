@@ -1,0 +1,120 @@
+Outcome of Attendance
+Change History
+ 
+DSCN 2012 / 02
+Outcome of Attendance
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN 2010 / 01
+Revisions to the Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2007) 01 (W)
+Referral to Treatment
+DSCN (2006) 01 (W)
+To introduce Independent Nurse Activity in the Outpatient ds + QS1
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP
+1st April 1999
+ 
+EDDS
+1st April 2009
+ 
+ 
+FOR OUTPATIENTS DATA SET:
+This records the outcome of the Outpatient Attendance:
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Discharged from Consultant care (last attendance) or Independent Nurse
+1st April 1999
+31st March 2007
+2
+Another appointment given
+1st April 1999
+31st March 2007
+3
+Appointment to be made at a later date
+1st April 1999
+31st March 2007
+4
+Referral to Treatment Period Start Point
+1st April 2007
+ 
+5
+Referral to Treatment Period Stop Point
+1st April 2007
+ 
+6
+Referral to Treatment Continuation of Status
+1st April 2007
+ 
+9
+Specialty Not Subject to Referral to Treatment Times Measurement
+1st April 2012
+ 
+ 
+The full definitions and implementation guidance for these new codes are the responsibility of the Access 2009 Project. Implementation guidelines can be found in WHC (2006) 081, with further guidance being issued under subsequent WHCs.
+FOR EMERGENCY DEPARTMENT DATA SET:
+This records the outcome of the Accident and Emergency Department Attendance.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Admitted to same Hospital within Local Health Board
+1st April 2009
+ 
+02
+Admitted to other Hospital within Local Health Board
+1st April 2009
+ 
+03
+Transferred to different Local Health Board
+1st April 2009
+ 
+04
+Referred to Outpatient Department
+1st April 2009
+ 
+05
+Referred to GP
+1st April 2009
+ 
+06
+Referred to Other Healthcare Professional
+1st April 2009
+ 
+07
+No Planned Follow-up
+1st April 2009
+ 
+08
+Planned Follow-up at Accident and Emergency Department
+1st April 2009
+ 
+09
+Patient Self Discharged without Clinical Consent
+1st April 2009
+ 
+10
+Died in Department
+1st April 2009
+ 
+11
+Patient Dead on Arrival
+1st February 2010
+ 
+ 
+Note: ‘11 – Dead on Arrival’ should only be recorded for patients who have been certified as dead on arrival by a clinician in the Accident and Emergency Department
+
+

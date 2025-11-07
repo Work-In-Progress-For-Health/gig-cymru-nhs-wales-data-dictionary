@@ -1,0 +1,20 @@
+Critical Care Start Date
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The date the patient first occupies a designated critical care bed. If there are repeated admissions to the same unit or transfers to different critical care areas within the same Hospital Provider, these should produce separate Critical Care Periods identified by different start dates.
+If there are repeated admissions to the same unit during the same calendar day, each period must record and be uniquely identified by the Critical Care Local Identifier.
+ 
+
+

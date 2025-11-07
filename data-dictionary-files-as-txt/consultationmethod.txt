@@ -1,0 +1,47 @@
+Consultation Method
+Change History
+ 
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP Ds
+01st October 2020
+ 
+OPR Ds
+01st October 2020
+ 
+ 
+For any Virtual Clinical Appointment (Patient Contact), record value must be 2 or 3.
+For any Virtual Clinical Review (Non-Patient Contact), record value must be 4.
+Format: 1 digit numeric
+ 
+Value
+Meaning
+Valid From
+Valid To
+1
+Face to Face Appointment
+01st October 2020
+ 
+2
+Virtual Clinical Appointment (Patient Contact) - Video
+01st October 2020
+ 
+3
+Virtual Clinical Appointment (Patient Contact) - Phone
+01st October 2020
+ 
+4
+Virtual Clinical Review (Non-Patient Contact)
+01st October 2020
+ 
+ 
+For definitions of these Values refer to Defining Outpatient Activity (Virtual Clinics) – Phase One (DSCN 2020 / 01)
+
+

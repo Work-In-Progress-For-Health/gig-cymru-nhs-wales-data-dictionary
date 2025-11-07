@@ -1,0 +1,41 @@
+Referrer Priority Type
+Change History
+ 
+DSCN 2024 / 11
+Planned Care Referral Dataset
+DSCN (2008) 05 (W)
+Outpatient Referrals Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+PCR ds
+1st July 2008
+ 
+ 
+This is the Referrer's assessment of the priority of a request for services. The value may be obtained from the text in the referral notification and is unaffected by the priority as assessed by the Consultant or Independent Nurse responsible for the outpatient appointment on review of the referral notification.
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Routine
+1st July 2008
+ 
+2
+Urgent
+1st July 2008
+ 
+3
+Suspected Cancer
+1st October 2024
+ 
+ 
+Note: If a patient self-refers, this field should be populated with the default value of 1.
+The 'routine' value is to be utilized as a default if no urgency or clinical priority is included within the referral notification. Where an urgency or clinical priority is included 'urgency' can be defined as per the extant guidance.
+ 
+
+

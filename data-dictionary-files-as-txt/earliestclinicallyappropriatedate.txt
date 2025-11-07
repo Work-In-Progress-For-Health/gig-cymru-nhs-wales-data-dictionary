@@ -1,0 +1,25 @@
+Earliest Clinically Appropriate Date
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+The earliest date that it was clinically appropriate to start radiotherapy treatment.
+For the Radiotherapy Data Set, Earliest clinically appropriate data is the:
+•         first date that the patient would have been clinically fit to start radiotherapy and
+•         same as the decision to treat date unless there was an elective delay, i.e. a clinical reason, such as the patient was not fit.
+ 
+Format: CCYY-MM-DD
+ 
+ 
+
+

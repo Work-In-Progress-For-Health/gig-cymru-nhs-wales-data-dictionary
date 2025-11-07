@@ -1,0 +1,20 @@
+Organ Support Maximum
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The maximum number of organ systems supported on any one day during a Critical Care Period. The duration of each organ system support is calculated using the date from which the organ support was effective and the date the organ support ended. Each organ system can only be counted once on any calendar day. Both basic and advanced categories cannot be counted at the same time. The range of values for Organ Support Maximum is from 0-7.
+Format: 2 digit numeric.
+ 
+
+

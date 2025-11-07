@@ -1,0 +1,25 @@
+Last DNA or Patient Cancelled Date
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+ 
+This derived item should only be recorded for the first attendance for outpatient treatment
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

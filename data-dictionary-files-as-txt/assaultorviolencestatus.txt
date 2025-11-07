@@ -1,0 +1,31 @@
+Assault or Violence Status
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has committed assault or violence over the last 28 days (4 weeks) prior to the TOP interview, as stated by the client.
+ 
+Format: 2 character alpha numeric.
+ 
+Value
+Meaning
+01
+Client has committed assault or violence
+02
+Client has not committed assault or violence
+99
+The client declined to answer.
+ 
+
+

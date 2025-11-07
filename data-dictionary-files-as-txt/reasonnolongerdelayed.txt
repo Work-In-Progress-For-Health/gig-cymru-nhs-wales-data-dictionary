@@ -1,0 +1,52 @@
+Reason no longer delayed
+Change History
+ 
+DSCN 2023 / 01
+Pathways of Care Delays Data Set
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Pathways of Care Delays Dataset
+1st February 2023
+ 
+ 
+This is the reason why the patient is no longer a Pathway of Care Delay
+ 
+Format:  1 Alphanumeric
+Value
+Meaning
+Valid From
+Valid To
+0
+Not Discharged still a delay
+1st February 2023
+ 
+1
+Discharge
+1st February 2023
+ 
+2
+Death
+1st February 2023
+ 
+3
+Transfer to another hospital within health Board
+1st February 2023
+ 
+4
+Transfer to another hospital outside health Board
+1st February 2023
+ 
+5
+Transfer other
+1st February 2023
+ 
+6
+No longer clinically fit for discharge
+1st February 2023
+ 
+ 
+
+

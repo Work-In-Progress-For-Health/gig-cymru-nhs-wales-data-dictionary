@@ -1,0 +1,16 @@
+Age of Mother at Birth
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+Is the biological mother's age at time of birth? Age derived from the Birth Date (Mother)
+If Birth Data (Mother) not present, Age of Mother at Birth will be given a null value.
+Format: 2 numeric denoting years
+ 
+
+

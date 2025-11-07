@@ -1,0 +1,33 @@
+Outcome of Investigations
+Change History
+ 
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The outcome for the investigation as agreed with the radiologist or clinical team.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Malignant
+2
+Suspected
+ 
+
+

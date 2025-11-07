@@ -1,0 +1,190 @@
+Data Reference
+Change History
+ 
+DSCN 2021 / 02
+Inpatient and Day Case Admissions and First Outpatient Appointments Waiting Times (PP01W) Data Set - Retirement
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DDCN 2011 / 02
+Angiogram Waiting Time & Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 12
+Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 04
+To discontinue the reporting of the Angiogram Waiting Times Return.
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update.
+DSCN (2009) 01 (W)
+Introduction of the Cardiac Referral to Treatment Data Collection to the NHS Wales Data Dictionary including Amendment to Existing Weeks Wait Time Band Structure
+DSCN (2008) 11 (W)
+To change the reporting requirements of Angiograms waits. To cease the reporting of Angioplasties.
+DSCN (2008) 10 (W)
+Recording and Reporting of Outpatient Pre-Operative Assessment Activity
+DSCN (2008) 08 (W)
+Referral to Treatment Patient Tracking Report
+DSCN (2007) 13 (W)
+To remove waits for certain diagnostic endoscopies from the waiting times data collection for inpatient and day case admissions and first outpatient appointments (PP01W).
+DSCN (2007) 12 (W)
+To increase the scope of the Diagnostic and Therapy Services Waiting Times data collection to include certain Diagnostic Endoscopy Procedures.
+DSCN (2007) 08 (W)
+To provide Guidance on the Reporting Structure for the Referral to Treatment Times Reporting Requirements.
+DSCN (2007) 04 (W)
+New Format for the Diagnostics & Therapies Services Monthly Data Collections.
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+DT Waiting Times
+ 
+ 
+RTT
+1st April 2007
+31st August 2011
+PP01W
+ 
+8th February 2021
+RTT-PTR
+1st September 2008
+30th September 2009
+CRTT
+1st April 2009
+31st August 2011
+Angiogram
+1st December 2008
+1st April 2010
+RTT (Combined)
+1st September 2011
+ 
+ 
+This defines the record type within a return.
+Must be one of the following:-
+ 
+For Diagnostic and Therapy Services Waiting Times: -
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+IE
+Inpatient Diagnostic Endoscopy
+ 
+ 
+DE
+Day Case Diagnostic Endoscopy
+ 
+ 
+OE
+Outpatient Diagnostic Endoscopy
+ 
+ 
+DT
+For all other specified Diagnostic and Therapy Services
+ 
+ 
+ 
+ 
+For Referral to Treatment Times (Retired): -
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+PO
+Open Pathway
+1st April 2007
+31st August 2011
+CA
+Closed Pathway Due to Admission
+1st April 2007
+31st August 2011
+CO
+Closed Pathway Due to Other Clock Stop Point
+1st April 2007
+31st August 2011
+ 
+For PP01W: (Retired)-
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+IP
+Inpatient Admission
+ 
+8th February 2021
+DC
+Day Case Admission
+ 
+8th February 2021
+OP
+First Outpatient Appointment
+ 
+8th February 2021
+ 
+ 
+For Referral to Treatment Patient Tracking Report (Retired):-
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+BU
+Patients on RTT pathways for whom a decision to admit or to commence treatment has not been made (i.e. Unknown)
+1st September 2008
+30th September 2009
+BD
+Patients on RTT pathways for whom a decision for treatment has been made but have an appointment date which is scheduled beyond their breach date.
+1st September 2008
+30th September 2009
+ 
+ 
+For Cardiac Referral to Treatment Times (Retired):-
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+OP
+Open Pathway
+1st April 2009
+31st August 2011
+CP
+Closed Pathway
+1st April 2009
+31st August 2011
+ 
+ 
+For Referral to Treatment Times (Combined):-
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+OP
+Open Pathway
+1st September 2011
+ 
+CP
+Closed Pathway
+1st September 2011
+ 
+ 
+ 
+For Angiogram (Retired): -
+Format: 2 character alpha
+Value
+Return Type
+Valid From
+Valid To
+IA
+Inpatient Admission
+1st December 2008
+1st April 2010
+DA
+Day Case Admission
+1st December 2008
+1st April 2010
+ 
+
+

@@ -1,0 +1,12 @@
+Clinical Trial Identifier
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+A unique identifier assigned to a Clinical Trial.
+Format: maximum 20 character alphanumeric
+ 
+
+

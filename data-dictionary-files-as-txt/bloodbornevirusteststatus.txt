@@ -1,0 +1,34 @@
+Blood Borne Virus Test Status
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has been offered testing for blood-borne virus (BBV) infection (Hepatitis B, Hepatitis C and HIV).
+ 
+Format: 2 character alpha numeric
+ 
+Value
+Meaning
+01
+The client has already been tested in the last 12 months or are currently being treated for BBV virus infection
+02
+Testing offered and accepted.
+03
+Testing offered and refused.
+04
+Testing not offered.
+ 
+ 
+
+

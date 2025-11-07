@@ -1,0 +1,25 @@
+Previous Caesarean Sections
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The number of previous caesarean sections performed on the woman.
+ 
+A caesarean section is an operation to deliver a baby. It involves making a cut in the front wall of a woman’s abdomen and womb. The operation can be a planned (elective) procedure – when a medical need for the operation becomes apparent during pregnancy or if it’s requested by the mother in advance.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+nn
+Number of previous caesarean sections
+99
+n/a - no previous caesarean sections
+ 
+
+

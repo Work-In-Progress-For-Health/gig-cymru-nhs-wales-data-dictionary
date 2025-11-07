@@ -1,0 +1,34 @@
+Children Living in Household
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The number of children under 18 that live in the same household as the client at least one night a week. The client does not necessarily need to have parental responsibility for the children.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+00
+No children live in same household as client at least one night a week.
+01-50
+The number of children under 18 that live in the same
+household as the client at least one night a week.
+99
+Client declined to answer.
+ 
+ 
+ 
+
+

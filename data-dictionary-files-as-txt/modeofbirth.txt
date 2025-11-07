@@ -1,0 +1,29 @@
+Mode of Birth
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The mode of birth of a baby. Note that this may be different for different foetuses in the same delivery.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Spontaneous Vaginal Birth
+2
+Ventouse
+3
+Forceps
+4
+Elective caesarean section - caesarean section before, or at onset of labour.
+5
+Emergency caesarean section.
+ 
+
+

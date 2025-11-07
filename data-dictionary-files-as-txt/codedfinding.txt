@@ -1,0 +1,126 @@
+Coded Finding
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify a Finding.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Coded Finding
+ 
+SNOMED CT Refset- Emergency care coded findings simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04CFG1111111000
+Patient on oxygen
+371825009
+Patient on oxygen
+ 
+ 
+ 
+UEC04CFG1121111000
+Breathing room air
+722742002
+Breathing room air
+ 
+ 
+ 
+UEC04CFG2111111000
+Clinical Frailty Scale level 1 - very fit
+1129331000000101
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 1 - very fit
+ 
+ 
+ 
+UEC04CFG2121111000
+Clinical Frailty Scale level 2 - well
+1129341000000105
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 2 - well
+ 
+ 
+ 
+UEC04CFG2131111000
+Clinical Frailty Scale level 3 - managing well
+1129351000000108
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 3 - managing well
+ 
+ 
+ 
+UEC04CFG2141111000
+Clinical Frailty Scale level 4 - vulnerable
+1129361000000106
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 4 - vulnerable
+ 
+ 
+ 
+UEC04CFG2151111000
+Clinical Frailty Scale level 5 - mildly frail
+1129371000000104
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 5 - mildly frail
+ 
+ 
+ 
+UEC04CFG2161111000
+Clinical Frailty Scale level 6 - moderately frail
+1129381000000102
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 6 - moderately frail
+ 
+ 
+ 
+UEC04CFG2171111000
+Clinical Frailty Scale level 7 - severely frail
+1129391000000100
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 7 - severely frail
+ 
+ 
+ 
+UEC04CFG2181111000
+Clinical Frailty Scale level 8 - very severely frail
+1129401000000102
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 8 - very severely frail
+ 
+ 
+ 
+UEC04CFG2191111000
+Clinical Frailty Scale level 9 - terminally ill
+1129411000000100
+CSHA (Canadian Study of Health and Aging) Clinical Frailty Scale level 9 - terminally ill
+ 
+ 
+ 
+UEC04CFG3111111000
+Pregnancy
+77386006
+Pregnancy
+ 
+ 
+ 
+UEC04CFG3121111000
+Not pregnant
+60001007
+Not pregnant
+ 
+ 
+ 
+UEC04CFG3131111000
+Pregnancy status unknown
+1382571000000100
+Pregnancy status unknown
+ 
+ 
+ 
+ 
+
+

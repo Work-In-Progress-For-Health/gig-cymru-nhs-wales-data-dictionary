@@ -1,0 +1,58 @@
+Count
+Change History
+ 
+DSCN 2021 / 02
+Inpatient and Day Case Admissions and First Outpatient Appointments Waiting Times (PP01W) Data Set - Retirement
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DDCN 2011 / 02
+Angiogram Waiting Time & Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 12
+Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 04
+To discontinue the reporting of the Angiogram Waiting Times Return.
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2008) 11 (W)
+To change the reporting requirements of Angiogram waits. To cease the reporting of Angioplasties.
+DSCN (2008) 08 (W)
+Referral to Treatment Patient Tracking Report
+DSCN (2007) 13 (W)
+To remove waits for certain diagnostic endoscopies from the waiting times data collection for inpatient and day case admissions and first outpatient appointments (PP01W).
+DSCN (2007) 08 (W)
+To provide Guidance on the Reporting Structure for the Referral to Treatment Times Reporting Requirements.
+DSCN 52/03 (W)
+Monthly Collection of Information on Waiting Times for Specified Diagnostic and Therapy Services
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+DT Waiting Times
+ 
+ 
+RTT
+1st April 2007
+31st August 2011
+PP01W
+ 
+8th February 2021
+RTT-PTR
+1st September 2008
+30th September 2009
+CRTT
+1st April 2009
+31st August 2011
+Angiogram
+1st December 2008
+1st April 2010
+RTT (Combined)
+1st September 2011
+ 
+ 
+This is the numeric field showing number of patients in each time band.
+For DT and RTT (Combined), see Weeks Wait
+ 
+
+

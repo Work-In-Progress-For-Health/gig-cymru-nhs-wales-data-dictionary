@@ -1,0 +1,71 @@
+Delivery Method
+Change History
+ 
+DSCN 2023 / 30
+Admitted Patient Care Data Set – Retirement of Maternity Tail Data Items
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+30th June 2023
+NCCHD
+ 
+ 
+ 
+This is the procedure by which a woman is delivered of a baby.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+0
+Spontaneous vertex - Normal vaginal delivery, occipitoanterior.
+Pre 28th December 1995
+ 
+1
+Spontaneous other cephalic - Cephalic vaginal delivery with abnormal presentation of head at delivery, without instruments, with or without manipulation.
+Pre 28th December 1995
+ 
+2
+Low forceps, not breech - e.g. forceps, low application, without manipulation. Includes forceps delivery not otherwise specified.
+Pre 28th December 1995
+ 
+3
+Other forceps, not breech - e.g. forceps delivery, with manipulation. Includes high forceps and mid forceps.
+Pre 28th December 1995
+ 
+4
+Ventouse, vacuum extraction
+Pre 28th December 1995
+ 
+5
+Breech - spontaneous delivery assisted or unspecified.  Includes partial breech extraction.
+Pre 28th December 1995
+ 
+6
+Breech extraction - not otherwise specified. Includes total breech extraction and version with breech extraction.
+Pre 28th December 1995
+ 
+7
+Elective caesarean section - caesarean section before, or at onset of labour.
+Pre 28th December 1995
+ 
+8
+Emergency caesarean section.
+Pre 28th December 1995
+ 
+9
+Other than those specified above - e.g. application of weight to leg in breech delivery. Includes destructive operation to facilitate delivery and other surgical or instrumental delivery.
+Pre 28th December 1995
+ 
+ 
+ 
+
+

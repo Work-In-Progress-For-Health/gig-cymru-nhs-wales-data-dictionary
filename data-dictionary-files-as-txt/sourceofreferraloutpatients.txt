@@ -1,0 +1,178 @@
+Source of Referral: Outpatients
+Change History
+ 
+DSCN 2024 / 11 (AMD)
+Planned Care Referral Dataset (AMD)
+DSCN 2024 / 11
+Planned Care Referral Dataset
+DSCN 2014 / 06
+Source of Referral: Outpatients
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN (2008) 05 (W)
+Outpatient Referral Data Set
+DSCN (2006) 01 (W)
+To introduce Independent Nurse Activity in the Outpatient ds + QS1
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+PCR ds
+1st July 2008
+ 
+ 
+This is a classification which is used to identify the source of referral of each Outpatient Episode or Outpatient Referral.
+ 
+Format: 2 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+Initiated by the Consultant or Independent Nurse responsible for the Outpatient episode
+01
+Following an emergency admission
+1st April 1999
+ 
+02
+Following a domiciliary visit
+1st April 1999
+ 
+10
+Following an A&E attendance
+1st April 1999
+ 
+11
+Other
+1st April 1999
+ 
+Not initiated by the Consultant or Independent Nurse responsible for the Outpatient episode
+03
+Referral from General Medical Practitioner
+1st April 1999
+ 
+04
+Referral from an A&E department
+1st April 1999
+ 
+05
+Referral from a Consultant or Independent Nurse, other than in an A&E department
+1st April 1999
+ 
+06
+Self-referral
+1st April 1999
+ 
+07
+Referral from Prosthetist
+1st April 1999
+30th September 2024
+08
+Other source of referral
+1st April 1999
+ 
+12
+Referral from an Allied Health Professional
+1st October 2024
+ 
+13
+Referral from a national screening programme
+1st October 2024
+ 
+14
+Referral from a Health Care Scientist
+1st October 2024
+ 
+15
+Referral from an Optometrist
+1st October 2014
+ 
+92
+General Dental Practitioner
+1st April 1999
+ 
+93
+Community Dental Service
+1st April 1999
+ 
+ 
+Note: The classification has been listed in logical sequence rather than numeric order. Please refer to the table below for the complete list of Health Professionals to be included under values 12 and 14.
+A list of Health Professionals that should be included under Source of Referral value, separated into Allied Health Professionals and Health Care Scientists:
+Professional Type
+Valid To
+Valid From
+Allied Health Professionals:
+Arts Therapists
+1st April 2025
+ 
+Dietitians
+1st April 2025
+ 
+Drama Therapists
+1st April 2025
+ 
+Music Therapists
+1st April 2025
+ 
+Occupational Therapists
+1st April 2025
+ 
+Orthoptists
+1st April 2025
+ 
+Orthotists
+1st April 2025
+ 
+Paramedics
+1st April 2025
+ 
+Physiotherapists
+1st April 2025
+ 
+Podiatrists
+1st April 2025
+ 
+Prosthetists
+1st April 2025
+ 
+Psychologists
+1st April 2025
+ 
+Speech and Language Therapists
+1st April 2025
+ 
+Health Care Scientist:
+Audiologist
+1st April 2025
+ 
+Biomedical Scientist
+1st April 2025
+ 
+Biomedical Scientist Specialist
+1st April 2025
+ 
+Chiropodist
+1st April 2025
+ 
+Clinical Scientists
+1st April 2025
+ 
+Hearing Dispenser
+1st April 2025
+ 
+Operating Department Practitioner
+1st April 2025
+ 
+Pharmacist
+1st April 2025
+ 
+Pharmacist Specialist
+1st April 2025
+ 
+ 
+
+

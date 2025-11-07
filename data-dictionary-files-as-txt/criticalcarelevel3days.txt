@@ -1,0 +1,38 @@
+Critical Care Level 3 Days
+Change History
+ 
+DDCN 2014 / 02
+Critical Care Data Set – Level 2 & 3 Days
+DDCN 2011 / 01
+Critical Care Data Set – Levels of Care
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The total number of days a patient received level 3 care during a Critical Care Period.
+It must be completed when the patient has been discharged from the Critical Care Unit or has died.
+There are five recognised levels of adult general critical care in Wales. Descriptions of the type of care captured under each level are set out in the document ‘Designed for Life: Quality Requirements for Adult Critical Care in Wales’: https://dhcw.nhs.wales/information-services/information-standards/data-standards/data-standards-files/quality-requirements-for-critical-care-pdf/
+ 
+Format: 3 digit numeric
+Value
+Meaning
+000
+Zero Level 3 Care Days
+001-997
+No. of days of Level 3 Care
+998
+998 or more days of Level 3 Care
+999
+Occurred but day count not known
+ 
+ 
+
+

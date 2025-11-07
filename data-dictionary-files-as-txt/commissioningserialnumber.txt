@@ -1,0 +1,30 @@
+Commissioning Serial Number
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 08/01 (W)
+Admitted Patient Care Data Set 99 (APC DS 99): Commissioning Serial Number
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+ 
+This is the health care commissioning serial number. The number is agreed mutually by the Commissioner and Provider.
+ 
+Format: 6 character alpha-numeric
+See Serial Number
+ 
+
+

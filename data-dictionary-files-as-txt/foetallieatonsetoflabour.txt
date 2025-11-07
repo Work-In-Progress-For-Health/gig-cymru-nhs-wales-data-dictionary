@@ -1,0 +1,32 @@
+Foetal Lie at Onset of Labour
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The lie of the foetus at onset of labour.
+ 
+A foetal lie of ‘Transverse’ is compatible with a foetal presentation of ’08 – Other’ or ’09 –Not Known’ only.  It must not be used if the presentation is cephalic or breech.
+ 
+Conversely, a foetal lie of ‘Oblique’ or ‘Longitudinal’ may only be used where the foetal presentation is ’01 – Cephalic’, ’02 – Breech’ or ’08 – Other’.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Transverse
+2
+Oblique
+3
+Longitudinal
+9
+Not known
+ 
+
+

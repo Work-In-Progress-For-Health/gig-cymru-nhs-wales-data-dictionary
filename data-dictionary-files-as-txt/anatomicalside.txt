@@ -1,0 +1,45 @@
+Anatomical Side
+Change History
+ 
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+An indication of the side of the human body
+Note: Anatomical Area has a 1-1 relationship with Anatomical Side, so that 'Anatomical Side 1' directly relates to the body part reported in 'Anatomical Area 1' e.g. Left Hand.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Left
+1st April 2009
+ 
+02
+Right
+1st April 2009
+ 
+03
+Bilateral
+1st April 2009
+ 
+98
+Not Applicable – Anatomical Side Not Relevant
+1st April 2009
+ 
+99
+Not Known
+1st April 2009
+ 
+ 
+
+

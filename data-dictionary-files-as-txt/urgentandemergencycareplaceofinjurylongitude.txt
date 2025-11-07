@@ -1,0 +1,11 @@
+Urgent and Emergency Care Place of Injury (Longitude)
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The longitude of the place of injury, expressed in decimal degrees.
+Format: maximum 3 character numeric.6 character numeric
+
+

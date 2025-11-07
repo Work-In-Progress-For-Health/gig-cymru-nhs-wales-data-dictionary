@@ -1,0 +1,65 @@
+Attendance Group
+Change History
+ 
+DSCN 2010 / 01
+Revisions to the Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+A general reason for an Accident and Emergency Department Attendance.
+ 
+Format: 2 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+Injury 
+11
+Accident
+1st April 2009
+ 
+12
+Assault
+1st April 2009
+ 
+13
+Deliberate Self-Harm
+1st April 2009
+ 
+14
+Not Known: Undetermined intent i.e. it is uncertain whether the injury was accidentally or deliberately inflicted and there is no means of knowing.
+1st April 2009
+ 
+15
+Not Given: The information to decide on intent is withheld i.e. deliberately not given.
+1st April 2009
+ 
+Non-Trauma
+20
+Non-trauma
+1st April 2009
+ 
+Other
+30
+Dead on Arrival
+1st April 2009
+ 
+99
+Not Known
+1st April 2009
+ 
+ 
+Note: ‘30 – Dead on Arrival’ should only be recorded for patients who have been certified as dead on arrival by a clinician in the Accident and Emergency Department
+ 
+ 
+
+

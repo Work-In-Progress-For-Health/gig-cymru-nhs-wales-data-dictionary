@@ -1,0 +1,20 @@
+Discharge Time (Hospital Provider Spell)
+Change History
+ 
+DSCN 2019 / 03
+APC Data Set – Time Fields
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st February 2019
+ 
+ 
+Time of discharge from the Hospital Provider Spell. The time on which a patient dies or is discharged from a continuous spell of care using the hospital bed(s) within a single hospital provider. Identical to the end time of the last consultant episode of care and ward stay within a hospital provider spell.
+ 
+Format: hh:mm:ss
+
+

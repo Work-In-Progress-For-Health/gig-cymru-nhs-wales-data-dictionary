@@ -1,0 +1,12 @@
+Urgent and Emergency Care Disease Outbreak Notification Description
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This supports the collection of nationally notifiable data relating to outbreaks of disease which are identified in Urgent and Emergency Care Services, where a SNOMED CT code is NOT available.
+Format: maximum 20 character alphanumeric
+ 
+
+

@@ -1,0 +1,87 @@
+Secondary OPCS Code
+Change History
+ 
+DSCN 2023 / 08
+The Office of Population Censuses and Surveys Classification of Interventions and Procedures (OPCS) Version 4.10
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2020 / 04
+The Office of Population Censuses and Surveys Classification of Interventions and Procedures (OPCS) Version 4.9
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2017 / 02
+Introduction of OPCS 4.8
+DDCN 2014 / 06
+OPCS Version Release History
+DDCN 2013 / 17
+Appendix H – OPCS Reference Codes List
+DSCN 2011 / 02
+Introduction of OPCS 4.6
+DSCN (2009) 04 (W)
+Implementation of OPCS 4.5
+DSCN (2007) 14 (W)
+Introduction of OPCS 4.4
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+National Cancer Ds - Core
+ 
+ 
+ 
+The secondary intervention / procedure performed on a patient at a particular time, up to 12 operative procedures per episode.
+Different versions of OPCS-4 apply dependant on the episode end date (Admitted Patient Care data set) or attendance date (outpatient data set) of the submitted record. The valid versions of OPCS-4 allowable in Wales are as follows:
+ 
+OPCS Version
+ Valid From
+ Valid To
+OPCS 4.2
+ 
+31st March 2006
+OPCS 4.3
+1st April 2006
+30th September 2007
+OPCS 4.4
+1st October 2007
+31st March 2009
+OPCS 4.5
+1st April 2009
+31st March 2011
+OPCS 4.6
+1st April 2011
+31st March 2012
+OPCS 4.7
+1st April 2014
+31st March 2017
+OPCS 4.8
+1st April 2017
+31st March 2020
+OPCS 4.9
+1st April 2020
+31st March 2023
+OPCS 4.10
+1st April 2023
+ 
+ 
+Format: 4 character alpha-numeric
+ 
+Value
+Meaning
+ANNN
+See OPCS Classification of Interventions and Procedures, Fourth Revision (Version 4).
+Spaces
+No procedure performed or episode not coded.
+ 
+Listing of all current OPCS codes and descriptions can be found from the Reference Data site via the following link:
+Welsh Reference Data - Home (sharepoint.com) (NHS Wales Users Only)
+ 
+
+

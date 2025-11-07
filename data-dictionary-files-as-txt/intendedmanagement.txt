@@ -1,0 +1,64 @@
+Intended Management
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+The intended pattern of bed use for a patient, decided when the decision is made to admit, and only applies to patients on the Elective Admission List. This categorization describes what is intended to happen to the patient. Occasionally the patient’s treatment does not go exactly to plan. For example, a patient admitted as a day case may develop complications and have to be kept in overnight. Therefore another data item, patient classification, is used to describe what actually happens to the patient.
+For RTT PTL data set: This is only applicable where the stage of pathway = 4. In cases where the pathway is in stages 1, 2, or 3, the field should remain blank.
+Format: 1 digit numeric
+Value
+Meaning
+Valid To
+Valid From
+1
+Patient to stay in hospital for at least one night
+Pre 28th December 1995
+ 
+2
+Patient not to stay in hospital overnight
+Pre 28th December 1995
+ 
+3
+Patient to be admitted for a planned sequence of admissions each involving at least one overnight stay.
+Pre 28th December 1995
+ 
+4
+Patient to be admitted for a planned sequence of admissions which do not involve an overnight stay
+Pre 28th December 1995
+ 
+5
+Patient to be admitted regularly for a planned sequence of nights who returns home for the remainder of the 24-hour period
+Pre 28th December 1995
+ 
+8
+Not applicable – emergency admission
+Pre 28th December 1995
+ 
+9
+Not known
+1st May 1998
+20th January 2002
+ 
+ 
+
+

@@ -1,0 +1,60 @@
+Attended or Did not Attend
+Change History
+ 
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN 13/05 (W)
+Subject: Revising terminology to reflect ' A Guide to Good Practice – Elective Services'
+DSCN 62/02 (W)
+Data Standards: Change to Attended or Did Not Attend
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+ 
+This indicates whether a person or patient attended for an appointment. If the patient did not attend, it also indicates whether or not advanced warning was given.
+Where the response for data item Consultation Method is Virtual Clinical Appointment (Patient Contact) - Video or Virtual Clinical Appointment (Patient Contact) – Phone the recording of data item Attended or Did Not Attend may differ according to the individual scenario.  Please refer to the guidance document for further information.
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+5
+Patient arrived on time or, if late, before the relevant health care professional was ready to see them and was seen.
+1st April 1999
+ 
+6
+Patient arrived late, after the relevant health care professional was first ready to see them, but was seen
+1st April 1999
+ 
+7
+Patient arrived late and could not be seen
+1st April 1999
+ 
+8
+Did not Phone
+1st April 2006
+ 
+2
+Appointment cancelled by, or on behalf of the patient
+1st April 1999
+ 
+3
+Did not attend - no advanced warning given
+1st April 1999
+ 
+4
+Appointment cancelled or postponed by the health care provider
+1st April 1999
+ 
+Note: The classification has been listed in logical sequence rather than in numeric order.
+ 
+
+

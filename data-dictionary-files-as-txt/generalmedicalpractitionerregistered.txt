@@ -1,0 +1,46 @@
+General Medical Practitioner (Registered)
+Change History
+ 
+DSCN 2025 / 01
+Audiology Wait Times Data Set
+DDCN 2013 / 10
+Redundant Data Items
+DSCN 2012 / 05
+GP Practice Code
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+AUD WT ds
+1st April 2025
+ 
+ 
+This is the code of the GMP with whom the patient is registered.
+ 
+Format: 8 character alpha-numeric
+Value
+Meaning
+GNNNNNNN
+A code issued by the Department of Health (DH) for practising GP's in Wales and England. The codes can be viewed on the Health Reference Data Web Pages on HOWIS.
+G9999981
+No registered GP
+ 
+Note 1: MOD and prison doctors are not GMPs and should not be recorded as Registered GMPs. In this instance use the default code of G9999981' is to be used.
+Note 2: When a locum refers, use the code of the GP for whom the locum is acting.
+ 
+See GP Code
+See Referrer Code
+ 
+
+

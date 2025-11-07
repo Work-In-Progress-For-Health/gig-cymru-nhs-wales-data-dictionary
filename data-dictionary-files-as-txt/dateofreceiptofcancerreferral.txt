@@ -1,0 +1,32 @@
+Date of Receipt of Cancer Referral
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+National Cancer Ds - Core
+ 
+ 
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The date that the referral request is received by the provider. This is a key measurement point for the 62-day pathway. For guidance on the provider and accountability for monitoring and reporting, see https://gov.wales/sites/default/files/publications/2019-09/consolidated-rules-for-managing-cancer-waiting-times.pdf
+ 
+Format: 8 digit numeric, CCYYMMDD
+
+

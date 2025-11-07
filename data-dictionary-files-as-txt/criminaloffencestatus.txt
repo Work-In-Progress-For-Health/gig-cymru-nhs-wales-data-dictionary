@@ -1,0 +1,31 @@
+Criminal Offence Status
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has committed theft from or of a vehicle, other property theft, burglary, fraud, forgery or handled stolen goods over the last 28 days (4 weeks) prior to the TOP interview, as stated by the client.
+ 
+Format: 2 character alpha-numeric.
+ 
+Value
+Meaning
+01
+Client has committed theft, burglary, fraud, forgery or handled stolen goods.
+02
+Client has not committed theft, burglary, fraud, forgery or handled stolen goods.
+99
+The client declined to answer.
+ 
+
+

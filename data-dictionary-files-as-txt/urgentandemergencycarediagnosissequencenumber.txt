@@ -1,0 +1,14 @@
+Urgent and Emergency Care Diagnosis Sequence Number
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The sequence number of an ‘Urgent and Emergency Care Diagnosis’, recorded to enable correct sequential processing of data.
+ 
+Format: minimum 1 digit numeric maximum 5 digit numeric
+ 
+
+

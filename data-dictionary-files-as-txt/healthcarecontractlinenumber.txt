@@ -1,0 +1,21 @@
+Health Care Contract Line Number
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+01/04/1999
+21st November 2012
+OP ds
+01/04/1999
+ 
+ 
+This is a number (alphanumeric) to provide a unique identifier for a sub-division of a Health Care Contract. The health care contract line number may be used to identify a specific contract reference where the main contract identifier refers to a general omnibus (block) contract.
+Format: 10 character alpha-numeric
+ 
+
+

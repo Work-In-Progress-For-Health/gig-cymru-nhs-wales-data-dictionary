@@ -1,0 +1,40 @@
+Clinical Start Time
+Change History
+ 
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+8th November 2019
+ 
+ 
+ 
+ 
+Clinical Start Time is the time, that the patient is seen by a clinical decision maker to diagnose the problem and arrange or start definite treatment as necessary.
+ 
+Format: hh:mm:ss
+ 
+ 
+Term - Clinical Exception
+A Clinical Exception is the term used to identify the following cohort of patients being
+treated within an Emergency Department:
+These patients are broken down into two broad categories:
+1.  Those who need the facilities of the main emergency department, often the  resuscitation room:
+•    Patients in the resuscitation room undergoing active resuscitation whose clinical condition would be jeopardized by the transfer to another area;
+•     Patients who unexpectedly deteriorate and need the continued care of emergency department specialists.
+•    Patients who, despite the efforts of the emergency department team are expected to die imminently and should not be moved.
+2.  Those who are cared for by Emergency Medicine specialists but do not need the
+specific facilities of the main emergency department (i.e. best cared for in a ward environment, for example an observation area or clinical decision unit that is  adjacent to the main department):
+•    Patients needing a short period of intensive investigation to rule out serious illness who are liable to go home e.g. patients with chest pain who need tests several hours after onset of the pain (examples included patients awaiting Troponin T Test);
+•    Patients needing a period of a few hours recovery e.g. following sedation to enable a dislocation to be treated, after alcohol /drug ingestion, self-harm patients etc.;
+•    Patients requiring a period of brief treatment with the expectation of going home e.g. a person with mild dehydration who is given some fluids over a few hours;
+•    Patients requiring observation, e.g. minor head injury, patients after a seizure to ensure full recovery and no further fits or after possible ingestion of excessive amounts of drugs.
+ 
+ 
+
+

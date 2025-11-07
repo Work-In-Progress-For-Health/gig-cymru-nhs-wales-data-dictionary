@@ -1,0 +1,47 @@
+Critical Care Source Location
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The type of location the patient was in prior to the start of the Critical Care Period.
+ 
+Format: 2 character alpha-numeric
+Value
+Meaning
+01
+Theatre and Recovery (following surgical and/ or anaesthetic procedure)
+02
+Recovery only (when used to provide temporary critical care facility)
+03
+Other Ward (not critical care)
+04
+Imaging department
+05
+Accident and Emergency
+06
+Other intermediate care or specialist treatment areas including endoscopy units and catheter suites
+07
+Obstetrics area
+08
+Clinic
+09
+Home or other residence (including nursing home, HM Prison or other residential care)
+10
+Adult level three critical care bed (ICU bed)
+11
+Adult level two critical care bed (HDU bed)
+12
+Paediatric critical care area.
+ 
+
+

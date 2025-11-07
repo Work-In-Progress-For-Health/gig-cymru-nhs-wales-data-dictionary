@@ -1,0 +1,401 @@
+Service Heading
+Change History
+ 
+DSCN 2025 / 06
+Diagnostic and Therapy Services (DATs) Waiting Times Return – Exclusion of Audiology services
+DSCN 2019 / 06
+Diagnostic & Therapy Services and Referral to Treatment Waiting Times Returns – Sleep Disordered Breathing
+DSCN 2018 / 02
+Diagnostic and Therapy Services Waiting Times Return
+DSCN 2017 / 01
+Diagnostic and Therapy Services Waiting Times Return - reinstate a pilot to collect additional diagnostic tests related to cardiology services for a time limited period
+DSCN (2007) 12 (W)
+To increase the scope of the Diagnostic and Therapy Services Waiting Times data collection to include certain Diagnostic Endoscopy Procedures.
+DSCN (2007) 07 (W)
+Proposal for the increase in scope to the Diagnostic and Therapy Services Waiting Times
+DSCN (2007) 04 (W)
+New Format for the Diagnostics & Therapies Services Monthly Data Collections.
+DSCN 52/03 (W)
+Monthly Collection of Information on Waiting Times for Specified Diagnostic and Therapy Services
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+DT Waiting Times
+ 
+ 
+ 
+Name of specified diagnostic and therapy services included in the monthly collection of Waiting Times data.
+Specified services and therapies are: -
+Arts Therapies
+Cardiology
+Diagnostic Endoscopy
+Dietetics
+Imaging
+Neurophysiology
+Occupational Therapy
+Physiological measurement
+Physiotherapy
+Podiatry
+Radiology – GP Referral
+Radiology – Consultant Referral
+Speech & Language
+These are sub-divided into Service Sub Headings
+ 
+Service
+Service Sub Heading
+Additional Information
+Valid From
+Valid To
+ 
+ 
+ 
+ 
+ 
+Arts Therapies
+Learning Disabilities
+Waiting time from waiting list date until the census date.
+ 
+Patients are removed from the waiting list on the Date of Commencement of Episode Care (Diagnostic and Therapy Services.)
+1st April 2004
+ 
+Mental Health
+1st April 2004
+ 
+Audiology
+(Adult Hearing Aids)
+Consultant
+A hearing aid is described as an externally worn electrical listening device.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date their hearing aid is fitted.
+1st April 2004
+1st April 2025
+GP
+1st April 2004
+1st April 2025
+Cardiology
+Stress Test / Exercise Tolerance Test
+A stress test is a non-invasive procedure to record the heart's electrical activity during exercise.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st April 2004
+ 
+Echo Cardiogram
+An echo cardiogram is a non-invasive ultrasound procedure used to diagnose cardiovascular disease.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st April 2004
+ 
+24 Hour Blood Pressure Monitoring
+A non-invasive method of obtaining blood pressure readings over a 24 hour period.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+ 
+31st July 2015*
+1st April 2017**
+31st March 2018**
+Blood Pressure Monitoring
+A recording over 24 hours or more of patient’s blood pressure readings by the fitting of a monitor.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st April 2018
+ 
+24 Hour Tape / Holter
+A 24 hour tape or holter continuously records the hearts rhythms over a 24 hour period.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+1st April 2017**
+31st March 2018**
+Heart Rhythm Recording
+Any recording of heart rhythm made over a period of 24 hours or more requiring a patient to be fitted or implanted with a recorder and a period of analysis and reporting to be undertaken.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+ 
+1st April 2018
+ 
+Cardiac Computed Tomography (Cardiac CT)
+Cardiac computed tomography is a non-invasive test that uses an x-ray machine to take clear, detailed pictures of the heart.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+1st April 2017**
+31st March 2018**
+Cardiac computed tomography is an investigation undertaken using a high resolution fast acquisition ECG gated CT scanner to image the heart especially the coronary arteries
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+ 
+1st April 2018
+ 
+Cardiac Magnetic Resonance Imaging (Cardiac MRI)
+Heart magnetic resonance imaging (MRI) is an imaging method that uses powerful magnets and radio waves to create pictures of the heart. It does not use radiation (x-rays).
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+1st April 2017**
+ 
+31st March 2018**
+1st April 2018
+ 
+Doppler Stress Echocardiogram (DSE)
+A stress echo test uses ultrasound technology to assess the flow of blood through vessels in the heart.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015
+31st July 2015
+1st April 2017**
+31st March 2018**
+Dobutamine Stress Echocardiogram (DSE)
+ 
+A dobutamine stress echo is an ultrasound imaging technique used to assess the heart when myocardial oxygen demand is increased using either physical or pharmacological stress. 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+ 
+1st April 2018
+ 
+Myocardial Perfusion Scanning
+A myocardial perfusion scan uses a small amount of a radioactive chemical to see how well blood flows to the muscles of the heart (the myocardium)
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+1st April 2017**
+31st March 2018**
+A myocardial perfusion scan uses a gamma camera to image the heart using a small amount of radioactive isotope to assess how well blood flows to the muscle of the heart (the myocardium)
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+ 
+1st April 2018
+ 
+Diagnostic Angiography
+Angiography is a medical imaging technique used to visualize the inside, or lumen, of blood vessels and organs of the body, with particular interest in the arteries, veins, and the heart chambers.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+1st April 2017**
+31st March 2018**
+ 
+Angiography is an x-ray guided medical imaging technique used to visualize the inside, or lumen, of blood vessels and organs of the body, with particular interest in the arteries, veins, and the heart chambers.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+ 
+1st April 2018
+ 
+Diagnostic Electrophysiology (EP Study)
+An electrophysiology study is a minimally invasive procedure that tests the electrical conduction system of the heart to assess the electrical activity and conduction pathways of the heart.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+1st April 2017**
+31st March 2018**
+An electrophysiology study is an x-ray guided procedure that investigates the electrical conduction system of the heart to assess the electrical activity and conduction pathways.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+ 
+1st April 2018
+ 
+Trans Oesophageal Echocardiogram (TOE)
+A trans oesophageal test is a type of echocardiogram test in which the ultrasound transducer, positioned on an endoscope, is guided down the patient's throat into the oesophagus.
+ 
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st February 2015*
+31st July 2015*
+ 
+1st April 2017**
+31st March 2018**
+ 
+A trans oesophageal echocardiogram is a type of echocardiogram in which the ultrasound transducer, is guided down the patient's throat into the oesophagus and stomach to allow for clearer imaging of certain cardiac and surrounding structures.
+Waiting times from waiting list date until the census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they have been referred is carried out.
+1st April 2018
+ 
+Diagnostic Endoscopy
+Gastroscopy
+Endoscopy is the direct visual examination of any part of the interior of the body by means of an optical viewing instrument.
+Waiting time from waiting list date until census date.
+1st September 2007
+ 
+Flexible Sigmoidoscopy
+1st September 2007
+ 
+Colonoscopy
+1st September 2007
+ 
+Cystoscopy
+1st September 2007
+ 
+Bronchoscopy
+1st September 2007
+ 
+Dietetics 
+Adults
+Waiting time from waiting list date until the census date.
+Patients are removed from the waiting list on the Date of Commencement of Episode Care (Diagnostic and Therapy Services.)
+1st April 2004
+ 
+Paediatrics
+1st April 2004
+ 
+Imaging
+Fluoroscopy
+Waiting time from waiting list date until census date.
+Fluoroscopy is an imaging technique commonly used by physicians to obtain real-time images of the internal structures of a patient through the use of a fluoroscope.
+1st April 2007
+ 
+Neurophysiology
+Electromyography
+Electromyography (EMG) is a diagnostic procedure that measures the electrical activity of the muscle to gather information about the muscular system.
+Waiting time from waiting list date until census date.
+1st April 2007
+ 
+Nerve conduction studies
+Nerve Conduction Studies (NCS) measure the function of the peripheral nervous system, i.e. nerves and muscles.
+Waiting time from waiting list date until census date.
+1st April 2007
+ 
+Occupational Therapy
+Adults
+Waiting time from waiting list date until the census date.
+Patients are removed from the waiting list on the Date of Commencement of Episode Care (Diagnostic and Therapy Services.)
+1st April 2004
+ 
+Paediatrics
+1st April 2004
+ 
+Learning Disabilities
+1st April 2004
+ 
+Mental Health
+1st April 2004
+ 
+Physiological measurement
+Limited Channel Cardio-respiratory Sleep Study (Polygraphy)
+ 
+1st June 2019
+31st May 2020
+Overnight Pulse Oximetry
+ 
+1st June 2019
+31st May 2020
+Urodynamic tests
+Urodynamics is an umbrella term describing physiological measurements of the bladder and urethra's ability to fulfil these functions, including pressures & flows.
+Waiting time from waiting list date until census date.
+1st April 2007
+ 
+Vascular technology
+Used to detect abnormalities within the vascular system, assisting a physician's diagnosis and decisions to treat surgically or otherwise.
+Waiting time from waiting list date until census date.
+1st April 2007
+ 
+Physiotherapy
+Adults
+Waiting time from waiting list date until the census date.
+Patients are removed from the waiting list on the Date of Commencement of Episode Care (Diagnostic and Therapy Services.)
+1st April 2004
+ 
+Paediatrics
+1st April 2004
+ 
+Podiatry
+Urgent
+Waiting time from waiting list date until the census date.
+Patients are removed from the waiting list on the Date of Commencement of Episode Care (Diagnostic and Therapy Services.)
+1st April 2004
+ 
+Routine
+1st April 2004
+ 
+Radiology –    GP Referral
+Barium Enema
+Waiting time from waiting list date until census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they are waiting is carried out
+1st April 2004
+ 
+Computed Tomography
+1st April 2004
+21st March 2018
+Non Cardiac Computed Tomography
+1st April 2018
+ 
+Magnetic Resonance Imaging (MRI)
+1st April 2004
+31st March 2018
+Non Cardiac Resonance Imaging (MRI)
+1st April 2018
+ 
+Non-Obstetric Ultrasound
+1st April 2004
+ 
+Nuclear Medicine
+1st April 2004
+31st March 2018
+ 
+Non Cardiac Nuclear Medicine
+1st April 2018
+ 
+Radiology – Consultant Referral
+Barium Enema
+Waiting time from waiting list date until census date.
+Patients are removed from the waiting list on the date the diagnostic test for which they are waiting is carried out
+1st April 2004
+ 
+Computed Tomography
+1st April 2004
+31st March 2018
+Non Cardiac Computed Tomography
+1st April 2018
+ 
+Magnetic Resonance Imaging (MRI)
+1st April 2004
+31st March 2018
+Non Cardiac Magnetic Resonance Imaging
+1st April 2018
+ 
+Non-Obstetric Ultrasound
+1st April 2004
+ 
+Nuclear Medicine
+1st April 2004
+31st March 2018
+ 
+Non Cardiac Nuclear Medicine
+ 
+1st April 2018
+ 
+Speech & Language
+Adults
+Waiting time from waiting list date until the census date.
+Patients are removed from the waiting list on the Date of Commencement of Episode Care (Diagnostic and Therapy Services.)
+1st September 2004
+ 
+Paediatrics
+1st September 2004
+ 
+Learning Disabilities
+1st September 2004
+ 
+Mental Health
+1st September 2004
+ 
+* Pilot period for additional cardiology diagnostic tests.
+** Further pilot for additional cardiology diagnostic tests.
+ 
+
+

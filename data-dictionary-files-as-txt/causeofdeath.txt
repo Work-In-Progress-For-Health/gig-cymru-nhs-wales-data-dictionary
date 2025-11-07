@@ -1,0 +1,20 @@
+Cause of Death
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+As recorded on the death certificate. The cause of death for Cancer dataset will be provided by Cancer Registry if death did not take place in the hospital.
+ICD10 code of death
+Format: 4 alpha-numeric character
+For NCCHD, see Cause of Death
+See Primary ICD Diagnostic Code
+See Secondary ICD Diagnostic Code
+See Subsidiary ICD Diagnostic Code
+ 
+
+

@@ -1,0 +1,13 @@
+Organisation Code (Conveying Ambulance Trust)
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The Organisation Identifier of an Ambulance Service which conveys a patient on a patient transfer journey.
+Format: minimum 3 character alphanumeric maximum 5 character alphanumeric
+ 
+
+

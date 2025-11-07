@@ -1,0 +1,23 @@
+Start Time (Hospital Provider Spell)
+ 
+Change History
+ 
+DSCN 2019 / 03
+APC data set – Time Fields
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st February 2019
+ 
+ 
+This is the start time of a hospital provider spell, or the time of admission. The consultant has assumed responsibility for care following the decision to admit the patient. This may be before formal admission procedures have been completed and the patient is transferred to a ward.
+ 
+Format: hh:mm:ss
+ 
+ 
+
+

@@ -1,0 +1,22 @@
+Start Time (Consultant Episode)
+ 
+Change History
+ 
+DSCN 2019 / 03
+APC data set – Time Fields
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st February 2019
+ 
+ 
+ 
+This is the start time of the consultant episode. The provider must record this time and should always be able to supply it.
+ 
+Format: hh:mm:ss
+ 
+
+

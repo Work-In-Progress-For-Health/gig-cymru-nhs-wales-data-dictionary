@@ -1,0 +1,25 @@
+Validated By (Health)
+Change History
+ 
+DSCN 2023 /01
+Pathways of Care Delays Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Pathways of Care Delays Dataset
+1st February 2023
+ 
+ 
+Name of Authorised Person
+ 
+Format:  35 Character
+ 
+Free text
+1st February 2023
+ 
+ 
+
+

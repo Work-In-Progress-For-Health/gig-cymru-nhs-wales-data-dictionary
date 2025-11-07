@@ -1,0 +1,18 @@
+Secondary Read Procedure Code
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+ 
+It is a classification for patient procedures using codes maintained by the NHS Centre for Coding and Classification, up to 12 operative procedures per episode.
+Format: 7 character alpha-numeric
+ 
+
+

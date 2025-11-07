@@ -1,0 +1,38 @@
+Employment Status
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The current employment status of the client.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+The client is in regular employment.
+02
+The client is a registered pupil / student.
+03
+Economically inactive (long term sick / disabled, homemaker, retired from paid work).
+04
+Unemployed and not seeking work.
+05
+Unemployed and seeking work
+99
+The client declined to answer.
+ 
+ 
+
+

@@ -1,0 +1,60 @@
+Number of Babies
+Change History
+ 
+DCSN 2023 / 30
+Admitted Patient Care Data Set – Retirement of Maternity Tail Data Items
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+30th June 2023
+NCCHD
+ 
+ 
+ 
+(This data item was formerly known as 'Number of Registerable Births' with the new title and updated definition taking effect from 1st May 1998)
+ 
+This is the number of births (live or still born) at a particular delivery.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+One
+Pre 28th December 1995
+ 
+2
+Two
+Pre 28th December 1995
+ 
+3
+Three
+Pre 28th December 1995
+ 
+4
+Four
+Pre 28th December 1995
+ 
+5
+Five
+Pre 28th December 1995
+ 
+6
+Six or more
+Pre 28th December 1995
+ 
+9
+Not known: a validation error
+1st May 1998
+20th January 2002
+ 
+
+

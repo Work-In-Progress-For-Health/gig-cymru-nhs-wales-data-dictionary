@@ -1,0 +1,32 @@
+Existing Mental Health Condition
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The woman reports that she has one of the following mental health conditions:
+ 
+•     Puerperal psychosis (severe postnatal depression)
+•     Bi-polar effective disorder/manic depression
+•     Psychosis
+•     Psychotic depression
+•     Schizophrenia
+•     Other
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Woman reports that she has existing mental health condition
+2
+Woman reports that she does not have an existing mental health condition
+9
+Not Known / Not Asked / Declined to answer
+ 
+
+

@@ -1,0 +1,44 @@
+Operation Status
+Change History
+ 
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+ 
+Operation status should be used once for each record to record states of knowledge regarding the operative procedure.
+Where the response for data item (Consultation method) is
+•     Virtual Clinical Appointment (Patient Contact) – Video, N/A - Record a value of 8 - Not applicable i.e. no operative procedures performed or intended or leave blank.
+•     Virtual Clinical Appointment (Patient Contact) – Phone, N/A - Record a value of 8 - Not applicable i.e. no operative procedures performed or intended or leave blank.
+•     Virtual Clinical Review (Non-Patient Contact), N/A - Record a value of 8 - Not applicable i.e. no operative procedures performed or intended or leave blank.
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+One or more operative procedure carried out
+1st May 1998
+ 
+8
+Not applicable i.e. no operative procedures performed or intended
+1st May 1998
+ 
+9
+Not known i.e. finished episode / outpatient attendance but no data entered or the episode is unfinished and no data needs to be present. This would be a validation error only for a finished episode
+1st May 1998
+20th January 2002
+ 
+
+

@@ -1,0 +1,25 @@
+Cancellation Date
+Change History
+ 
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+PAP ds
+1st April 2013
+ 
+ 
+This is the date that the Local Health Board / Trust cancelled the intended event or that the patient notified the Local Health Board / Trust that they did not want the event to occur on the intended date.
+ 
+For the Postponed Admitted Procedure Data Set an event is an elective inpatient or day case admitted procedure.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

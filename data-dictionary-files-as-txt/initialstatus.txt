@@ -1,0 +1,34 @@
+Initial Status
+Change History
+ 
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+Item made up of a status indicator to signify why the record was initially created and the date the record was created.
+This is used to record the level of Local Health Board births, transfers in, transfers out, and movements in.
+ 
+Values of Status:-
+0
+Local Health Board Birth
+1
+Transfer In
+2
+Transfer Out
+3
+Movement In
+8
+Living outside, treated inside
+ 
+Format: 1 numeric + 8 numeric
+ 
+
+

@@ -1,0 +1,15 @@
+Start Date (Consultant Episode)
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the start date of the consultant episode. The provider must record this date and should always be able to supply it.
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

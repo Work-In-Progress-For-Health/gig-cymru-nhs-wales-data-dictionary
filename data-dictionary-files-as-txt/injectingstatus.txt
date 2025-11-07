@@ -1,0 +1,33 @@
+Injecting Status
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The injecting status of the client.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+The client is currently injecting (i.e. up to and including the last 28 days)
+02
+The client has previously injected (i.e. greater than 28 days).
+03
+The client has never injected.
+99
+The client declined to answer.
+ 
+
+

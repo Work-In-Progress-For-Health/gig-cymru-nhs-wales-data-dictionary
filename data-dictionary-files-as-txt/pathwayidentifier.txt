@@ -1,0 +1,28 @@
+Pathway Identifier
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+PAP ds
+1st April 2013
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+An identifier which together with the Organisation Code (Code of Provider), uniquely identifies a Patient Pathway.
+ 
+20 character alpha numeric
+ 
+
+

@@ -1,0 +1,22 @@
+Active Wait
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+AUD WT ds
+1st April 2025
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+Active Wait is the number of days a pathway is currently waiting, which takes into account any clock resets due to Could Not Attends (CNAs), Did Not Attends (DNAs) and any suspensions e.g social suspensions as per the Referral to Treatment (RTT) guidelines. This will allow us to capture/calculate when adjustments to a pathway have been made (i.e. short-term medical condition & social reasons)   Format: Max 5 digit numeric   (For example, if the value is only 1 day, it will it be formatted as 1)
+ 
+
+

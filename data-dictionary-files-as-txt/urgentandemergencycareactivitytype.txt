@@ -1,0 +1,56 @@
+Urgent and Emergency Care Activity Type
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The type of Urgent and Emergency Care activity.
+ 
+Format: 2 character alphanumeric
+ 
+Value
+Activity Type
+Description
+Definition
+Valid From
+Valid To
+01
+Major Emergency Care Department
+Emergency Care Attendance at an Emergency Care Department Type 'Major Emergency Care Department'
+A Major Emergency Care Department is Consultant led and must be a 24 hour, seven day service, with full resuscitation facilities and designated accommodation for the reception of patients requiring emergency care, including those arriving by emergency ambulance.
+ 
+ 
+02
+Mono-specialty Emergency Care Department
+Emergency Care Attendance at an Emergency Care Department Type 'Mono-specialty Emergency Care Department'
+A Mono-specialty Emergency Care Department is a Consultant led mono-specialty (for example Ophthalmology, Dentistry) Emergency Care service, with designated accommodation for the reception of patients requiring emergency care. This may include Patients arriving by emergency ambulance, depending on local arrangements.
+ 
+ 
+03
+Minor Injury Unit
+Emergency Care Attendance at an Emergency Care Department Type 'Minor Injury Unit’
+A Minor Injury Unit is defined as all other Emergency Departments and Minor Injury Unit's which have designated accommodation for the reception of Urgent and Emergency Care patients and can be routinely accessed with or without appointment, but which do not meet the criteria above for a Major Emergency Care Department.
+ 
+ 
+05
+Same Day Emergency Care
+Emergency Care Attendance at an Emergency Care Department Type 'Same Day Emergency Care'
+NHS Wales describes Same Day Emergency Care as the provision of same day acute care for patients who would otherwise be admitted to hospital. Under this care model, patients presenting at hospital with relevant conditions can be rapidly assessed, diagnosed and treated (in a designated area) without being admitted, and if clinically safe to do so, will go home the same day their care is provided. Same Day Emergency Care is the provision of care to a patient by clinicians within an Urgent and Emergency Care Service. Same Day Emergency Care is provided within 24 hours of the 'Urgent and Emergency Care Initial Assessment Timestamp', following formal initial clinical assessment (either virtual or face to face) and referral taking place. Same Day Emergency Care is intended to provide an alternative to an Admitted Care Episode.
+ 
+ 
+06
+Urgent & Emergency Care Extended Care Episode
+ 
+Emergency Care Attendance at an Emergency Care Department Type 'Extended Care Episode'
+ 
+An Urgent and Emergency Care Extended Care Episode is an episode of clinical care for a patient under the responsibility of a named Care Professional in an Urgent and Emergency Care Service, which occurs following initial assessment by a Care Professional qualified for independent practice in Urgent and Emergency Care.
+ 
+ 
+ 
+ 
+ 
+ 
+
+

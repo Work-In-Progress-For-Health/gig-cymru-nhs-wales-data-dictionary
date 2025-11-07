@@ -1,0 +1,33 @@
+Hepatitis B Vaccination Status
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has been offered information AND immunisation against Hepatitis B.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+The client is already fully vaccinated against Hepatitis B.A client is only considered fully immunized against Hepatitis B when they have received a course of 4 injections
+02
+Vaccination offered and accepted (this will include clients who are part way through vaccination programme)
+03
+Vaccination offered and refused.
+04
+Vaccination not offered.
+ 
+
+

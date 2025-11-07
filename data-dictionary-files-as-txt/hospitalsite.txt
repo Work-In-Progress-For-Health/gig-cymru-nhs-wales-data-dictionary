@@ -1,0 +1,21 @@
+Hospital Site
+Change History
+ 
+DSCN (2007) 04 (W)
+New Format for the Diagnostics & Therapies Services Monthly Data Collections.
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+DT Waiting Times
+ 
+ 
+ 
+This is the hospital site where the diagnostic and therapy services are carried out.
+It must match a hospital site as contained in the Site Table.
+Format: max. 50 alpha numeric characters.
+ 
+
+

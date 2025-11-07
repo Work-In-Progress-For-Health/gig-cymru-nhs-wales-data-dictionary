@@ -1,0 +1,19 @@
+Geographical Ward Code
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+The Geographical Ward Code is derived from the Postcode, and is used for geographical analysis at a small level without comprising patient confidentiality.
+The code can be made up of any combination of the following: -
+Electoral Ward Code
+Previous Census Ward Code
+Current Census Ward Code
+Format: 2 – 6 numeric characters
+ 
+
+

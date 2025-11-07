@@ -1,0 +1,45 @@
+Critical Care Discharge Status
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The discharge status of a patient who is discharged from a Ward Stay where they were receiving care as part of a Critical Care Period and the discharge ends the Critical Care Period.
+It must be completed when the Critical Care Discharge Date is recorded.
+ 
+Value
+Meaning
+01
+Fully ready for discharge
+02
+Discharge for palliative care
+03
+Early discharge due to shortage of critical care beds
+04
+Delayed discharge due to shortage of other ward beds
+05
+Current level of care continuing in another location
+06
+More specialised care in another location
+07
+Self discharge against medical advice
+08
+Patient died (no organs donated)
+09
+Patient died and became heart beating donor for heart, lungs, kidney, liver or other solid internal organ.
+10
+Patient died and provided cadaveric tissue donation
+ 
+Format: 2 character alpha-numeric
+ 
+
+

@@ -1,0 +1,61 @@
+Source of Suspicion
+Change History
+ 
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+This is a classification used to identify the source of referral according to the point of suspicion. See Definitions document for pathway start date definitions http://www.walescanet.wales.nhs.uk/scp-key-documents.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Referral from GP
+02
+Out Patient Upgrade
+03
+Referral Following Diagnostic – Endoscopy
+04
+Referral Following Diagnostic – Imaging
+05
+Referral Following Diagnostic – Other
+06
+Eye Care Services
+07
+Dentist
+08
+A&E/Medical Assessment/Emergency Admission
+09
+Screening Referral – Breast Test Wales
+10
+Screening Referral – Bowel Screening Wales
+11
+Screening Referral – Cervical Screening Service
+12
+Other Screening Service (NOT breast, bowel, or cervical)
+13
+Ward
+14
+Consultant Internal
+15
+Consultant External
+16
+Other Healthcare Professional
+ 
+
+

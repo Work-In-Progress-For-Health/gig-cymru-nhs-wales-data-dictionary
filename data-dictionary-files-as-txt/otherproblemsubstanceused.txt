@@ -1,0 +1,33 @@
+Other Problem Substance Used
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+This should be completed if the client has used any other substance within the last 28 days (4 weeks) prior to the TOP interview date other than alcohol, opiates, crack, cocaine, amphetamines and cannabis).
+ 
+If the client has used more than one ‘other problem substance’ in the last 28 days (4 weeks) the most predominant substance should be recorded.
+ 
+Format: 4 character alpha-numeric
+ 
+Value
+Meaning
+0000
+Not used
+1000 - 8888
+[INSERT SUBSTANCE CLASSIFICATION]
+9999
+Not disclosed or not answered
+ 
+
+

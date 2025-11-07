@@ -1,0 +1,61 @@
+Primary Cancer Site Description
+Change History
+ 
+DSCN 2023 / 45
+Suspected Cancer Pathway – Core
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The site of the primary cancer for which the patient is receiving care.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Head and Neck
+02
+Upper GI
+03
+Lower GI
+04
+Lung
+05
+Sarcoma
+06
+Skin (exc BCC)
+07
+Brain/CNS
+08
+Breast
+09
+Gynaecological
+10
+Urological
+11
+Haematological (exc Acute Leukaemia)
+12
+Acute Leukaemia
+13
+Children’s
+14
+Unknown Primary
+98
+Other
+ 
+
+

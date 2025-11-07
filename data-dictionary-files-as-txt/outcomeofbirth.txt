@@ -1,0 +1,23 @@
+Outcome of Birth
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+An indicator of whether the birth was a live or a stillbirth (a birth on or after a gestation of 24 weeks (168 days) where the baby shows no identifiable signs of life at delivery).
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Live birth
+2
+Still birth
+ 
+
+

@@ -1,0 +1,35 @@
+Current Status
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This is made up of a Status Indicator to denote why the child has reached its current status, and the date of status.
+Used to record the level of transfers in, transfers out, movements in, movements out, and deaths
+ 
+Values of Status:-
+0
+Trust Birth
+1
+Transfer In
+2
+Transfer Out
+3
+Movement In
+4
+Movement Out
+5
+Died
+7
+Stillbirth
+8
+Living outside, treated inside
+ 
+Format: 1 numeric + 8 numeric
+ 
+
+

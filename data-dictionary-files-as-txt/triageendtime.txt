@@ -1,0 +1,21 @@
+Triage End Time
+Change History
+ 
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+8th November 2019
+ 
+ 
+Triage End Time is the time, that the clinical professional has finished the triage of a patient.
+ 
+Format: hh:mm:ss
+ 
+
+

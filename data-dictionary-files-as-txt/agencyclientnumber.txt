@@ -1,0 +1,22 @@
+Agency Client Number
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+This is a system generated number allocated to a client within a Treatment Provider (Agency). NB: this should be a technical item, and should not hold or be composed of attributers, which might identify the individual.
+ 
+Format: 15 character alpha-numeric
+ 
+
+

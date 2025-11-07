@@ -1,0 +1,59 @@
+Pathway Type
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+AUD WT ds
+1st April 2025
+ 
+ 
+This identifies which clinical pathway the waiting time refers to.
+ 
+Format: 3 character alpha-numeric
+ 
+Value
+Meaning
+Valid From
+Valid To
+AHN
+Adult Hearing New. Any NEW patient for assessment and intervention for hearing intervention regardless of referral route.
+1st April 2025
+
+AHE 
+Adult Hearing existing. Any adult patient that we consider to be an existing patient whether they wear a hearing aid at all i.e. they would have been included in the New Adult Hearing pathway at some point. 
+1st April 2025
+ 
+ATN 
+Adult Tinnitus New. Any NEW patient for tinnitus assessment and intervention. New to this pathway.
+1st April 2025
+ 
+ATE
+Adult Tinnitus existing. Any patient that has accessed a tinnitus pathway previously. 
+1st April 2025
+ 
+ABN
+Adult Balance New. Any patient referred for balance assessment and intervention whose pathway is being managed by audiology i.e. not on ENT list, may include BPPV.
+1st April 2025
+ 
+ABE
+Adult Balance Existing. Any patient that has accessed a balance pathway previously and contacts us directly regarding same condition. New consultant referrals due to a change in condition may be considered a new referral. 
+1st April 2025
+ 
+PAN
+Paediatric Assessment New. New referrals for assessment (including balance and tinnitus) excluding referrals from NBHSW. 
+1st April 2025
+ 
+PIN
+Referrals for any intervention ie hearing aids, tinnitus therapy etc. Referral start is the decision to treat date. Decision to treat could be made by an audiologist, ENT surgeon etc. 
+1st April 2025
+ 
+DAV
+Diagnostic Audio Vestibular. Patients for assessment to inform a pathway managed by others; these patients will be waiting on an ENT/ Neurology pathway for example. Plus patients being managed by Audiology but who require additional advanced assessment e.g. patients requiring electrophysiology or non-organic assessment.   
+1st April 2025
+ 
+ 
+ 
+ 
+
+

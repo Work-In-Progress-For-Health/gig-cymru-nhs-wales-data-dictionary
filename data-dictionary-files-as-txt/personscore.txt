@@ -1,0 +1,15 @@
+Person Score
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The score taken from an assessment tool.
+ 
+This could be for an individual element of, or question within, an assessment tool, a subtotal or total score.
+ 
+Format: maximum 5 character alphanumeric
+
+

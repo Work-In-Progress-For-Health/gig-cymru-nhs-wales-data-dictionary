@@ -1,0 +1,37 @@
+Decision to Admit Date
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2010 / 07
+Admitted Patient Care Minimum Data Set (APC MDS) Data Validity Standards
+DSCN 13/05 (W)
+Subject: Revising terminology to reflect ' A Guide to Good Practice – Elective Services'
+DSCN 11/01 (W)
+Subject: Changes to the definition of Day Case, Bed, Out Patient Attendance, Out Patient Discharge and Date Decided to Admit
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+ 
+(This data item was formerly known as ‘Decided to Admit Date’ with the new title and updated definition taking effect from 1st April 2006)
+ 
+This is the date upon which the clinician makes the decision to admit the patient. An elective admission is an admission, which the treatment provider has known about for at least 24 hours in advance.
+Where the Admission Method is for an emergency, maternity or other admission the Decision to Admit Date will equal the admission date.
+Where the Admission Method indicates an elective admission from a waiting list, the Decision to Admit Date should equal the date the clinician decided to place the patient on the waiting list. A patient is placed on the waiting list, when the facilities to carry out the treatment are not currently available and a bed cannot be booked at that time.
+Where the Admission Method indicates a booked elective admission, the Decision to Admit Date should equal the date the patient was informed by the consultant of the intention to book a bed for the patient admission. A patient is a booked admission, when the date for admission is given at the time of consultation and the bed is booked at the same time for the patient.
+Where the Admission Method indicates a planned admission, the Decision to Admit Date is equal to the date the clinician confirms the patient is for medical reasons now able to receive the further planned treatment. This method is used following a first elective treatment, or an emergency treatment, if further planned elective treatment is required e.g. check cystoscopies, check endoscopies, laser treatments.
+Decision to Admit Date Status is associated with this data item and should be used to indicate whether Decision to Admit Date is supplied or not applicable.
+Format: 8 digit numeric, CCYYMMDD
+See Admission Method
+ 
+
+

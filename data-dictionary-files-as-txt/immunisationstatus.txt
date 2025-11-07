@@ -1,0 +1,35 @@
+Immunisation Status
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+Immunisations are offered to all children.
+The giving of a vaccine or group of vaccines aimed at developing antibodies within the individual such that they are protected from the disease as part of a national programme.
+Immunisation Statuses of the following Immunisation Primary Courses will be extracted:-
+Meningococcal C
+MMR1
+MMR2
+Pre-school booster
+School Leaver Booster
+Hepatitis B
+BCG
+The following details are extracted:-
+ 
+Item
+Value or Description
+Course ID
+4 alphanumeric reference
+Date of Course
+CCMMYYDD
+Batch No
+11 alphanumeric reference to record the Manufacturer's Batch Number of Vaccine
+ 
+See Immunisation Status
+ 
+
+

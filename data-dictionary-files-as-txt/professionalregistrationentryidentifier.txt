@@ -1,0 +1,13 @@
+Professional Registration Entry Identifier
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The registration identifier allocated by a Professional Registration Body.
+ 
+Format: minimum 1 character alphanumeric maximum 32 character alphanumeric
+
+

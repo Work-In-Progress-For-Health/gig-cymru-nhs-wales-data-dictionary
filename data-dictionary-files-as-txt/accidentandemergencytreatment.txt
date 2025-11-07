@@ -1,0 +1,147 @@
+Accident and Emergency Treatment
+Change History
+ 
+DSCN 2010 / 09
+Revisions to Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+A broad list of types of treatment or guidance which may be provided to a patient as a result of an Accident and Emergency Attendance.
+Notes:
+•     The treatment fields do not directly relate to any of the diagnosis fields, but record any treatments that have taken place.
+•     Up to 6 treatments can be reported in this section of the Data Set
+ 
+ Format: 3 character alpha numeric
+Value
+Meaning
+Valid From
+Valid To
+ 
+Dressing
+ 
+ 
+01Z
+Dressing
+1st April 2009
+ 
+ 
+Bandage / Support
+ 
+ 
+02Z
+Bandage / Support
+1st April 2009
+ 
+ 
+Wound Closure
+ 
+ 
+03Z
+Wound Closure
+1st April 2009
+ 
+ 
+Removal Foreign Body
+ 
+ 
+04Z
+Removal Foreign Body,
+1st April 2009
+ 
+ 
+Resuscitation
+ 
+ 
+05A
+Cardiac Resuscitation
+1st July 2010
+ 
+05B
+Respiratory Resuscitation
+1st July 2010
+ 
+05Z
+Resuscitation, Other or Unspecified
+1st April 2009
+ 
+ 
+Manipulation
+ 
+ 
+06Z
+Manipulation
+1st April 2009
+ 
+ 
+Physiotherapy
+ 
+ 
+07Z
+Physiotherapy
+1st April 2009
+ 
+ 
+Incision and Drainage
+ 
+ 
+08Z
+Incision and Drainage
+1st April 2009
+ 
+ 
+Drug Administration
+ 
+ 
+09Z
+Drug Administration
+1st April 2009
+ 
+ 
+Surgery
+ 
+ 
+10Z
+Surgery
+1st April 2009
+ 
+ 
+Guidance/ Advice Only
+ 
+ 
+11A
+Guidance/ Advice Only
+1st April 2009
+ 
+ 
+Observation
+ 
+ 
+12Z
+Observation
+1st April 2009
+ 
+ 
+ 
+ 
+ 
+99A
+No Treatment Required
+1st April 2009
+ 
+99Z
+Treatment Not Otherwise Stated
+1st April 2009
+ 
+ 
+ 
+
+

@@ -1,0 +1,27 @@
+Care Need Type
+Change History
+ 
+DSCN 21/02 (W)
+Data Standards: Psychiatric Census
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Psychiatric Census
+ 
+ 
+ 
+Patients with a learning disability only i.e. for those with specialty = 700. The type of care required as at the Census date i.e. continuing health care or acute assessment.
+ 
+Codes: -
+0
+Not applicable (i.e. patients who are not learning    disability specialty)
+1
+Continuing health care The continuing periods of health care provided after the acute assessment phase is complete and the treatment is directly related to the diagnosis of the acute assessment phase
+2
+Acute assessment This is the initial/first phase when the disability is assessed and diagnosed. This may involve a short hospital stay.
+ 
+
+

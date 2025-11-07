@@ -1,0 +1,20 @@
+Clinic Purpose
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+ 
+This is the function of an outpatient clinic e.g. psychogeriatric, obstetric. No national classification of functions for outpatient clinics has been developed, so function titles must be decided locally. Certain specialty sub-divisions such as:
+a. Obstetric antenatal
+b. Obstetric postnatal
+c. Gynaecology
+Must however be shown
+Format: 15 character alpha-numeric
+ 
+ 
+
+

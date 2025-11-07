@@ -1,0 +1,46 @@
+Stage of Pathway
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTT (Combined)
+1st September 2011
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+Along an entire patient pathway, ‘Stage of Pathway’ is used to identify the point at which a patient is currently waiting in respect of their overall diagnosis and treatment.
+ 
+Whilst in the majority of patient pathways patients move from one stage to the next in sequence, there is no expectation that this must always be the case. Changes in clinical practice may introduce more variation over time. Therefore, these stages are not intended to be seen in chronological order only, as patients may commence their pathway at any one of the stages listed below.
+ 
+Format: 1 digit numeric
+ 
+Stage of the Pathway
+Stage of the Pathway
+1
+Waiting for a new outpatient appointment. A new Outpatient Appointment may come from any referral source. A patient will be at Stage 1 only once.
+2
+Waiting for a diagnostic or Allied Health Professional (AHP) test, intervention or result. For relevant diagnostic and AHP services, see Treatment Function Code.
+3
+Waiting for a follow-up outpatient appointment or waiting for a decision following:
+1)  An outpatient appointment.
+2)  A diagnostic or AHP intervention result.
+3)  Or where the patient is waiting and the stage is uncertain/unknown.
+4
+Waiting for an admitted diagnostic or therapeutic intervention (i.e. treatment) only.
+9
+Not applicable – e.g. closed pathway.
+ 
+See Diagnostic Intervention
+See Therapeutic Intervention
+See Treatment Function Code
+ 
+
+

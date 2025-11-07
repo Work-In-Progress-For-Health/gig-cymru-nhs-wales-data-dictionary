@@ -1,0 +1,28 @@
+Epidural Status
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+Epidural administered for pain relief.
+ 
+An Epidural is an injection of a local anaesthetic into the space outside the dura mater of the spinal cord in the lower back region to produce a loss of sensation especially in the abdomen or pelvic region.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Epidural administered
+2
+Epidural not administered
+9
+Not Known
+ 
+ 
+
+

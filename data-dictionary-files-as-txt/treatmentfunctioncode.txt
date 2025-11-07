@@ -1,0 +1,1023 @@
+Treatment Function Code
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2025 / 01
+Audiology Wait Times Data Set
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DDCN 2024 / 01
+Retired Treatment Function Codes list standardisation
+DSCN 2022 / 05
+Treatment Function Code (AMD)
+DSCN 2014 / 08 (AMD)
+Treatment Function Code
+DDCN 2014 / 05
+Cancelled Admitted Procedures (Postponed Admitted Procedures) Data Set
+DDCN 2013 / 14
+Appendix A – Specialty Codes
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DSCN 2010 / 07
+Admitted Patient Care Minimum Data Set (APC MDS) Data Validity Standards
+DSCN (2008) 05 (W)
+Outpatient Referral Data Set
+DSCN (2006) 05 (W)
+Rename Data Item 'Consultant Specialty Function Code' and Specialty Function Code'
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+CC ds
+1st April 2007
+ 
+OPR ds
+1st July 2008
+ 
+RTT (Combined)
+1st September 2011
+ 
+PAP ds
+1st April 2013
+ 
+WECDS
+1st August 2024
+ 
+AUD WT ds
+1st April 2025
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+(This data item was formerly known as ‘Consultant Specialty Function Code’ with the new title being implemented from 15th May 2006)
+This is the specialty under which the patient will be or is treated. This may either be the same as the specialty function recorded as the consultant's main specialty or a different specialty function which will be the consultant's interest specialty function. Note that both the main specialty function and the interest specialty function should be based on one of the Royal College specialties.
+For RTT PTL data set not all Treatment Function Codes are applicable, therefore please refer to the Welsh Government RTT guidance for the complete list.
+For the Welsh Emergency Care Data Set (WECDS):
+This is the Treatment Function Code of the service to which a patient is to be admitted following an attendance at an Urgent and Emergency Care service.
+ 
+For Referral to Treatment Times (RTT) (Combined):
+ 
+Diagnostic Services
+ 
+o  For pre-consultant referrals to a diagnostic service specified in the table below, a ‘pseudo’ Treatment Function Code of 998 (Diagnostic Services) should be used.
+ 
+o  Following a consultant referral, the wait for a patient referred to any diagnostic service should be captured using the Treatment Function Code of the referring specialty.
+ 
+Allied Health Professional (AHP) Services
+ 
+o  For pre-consultant referrals to an Allied Health Professional (AHP) service specified in the table below, a ‘pseudo’ Treatment Function Codes of 999 (Allied Health Professional Services) should be used.
+ 
+o  Following a consultant referral:
+ 
+§ Should clinical responsibility remain with the referring consultant, the Treatment Function Code should be that of the referring specialty.
+ 
+§ Should clinical responsibility for patient care transfer to an AHP service specified in the table below a Treatment Function Code of 999 should be used.
+ 
+Consultant Referrals
+ 
+o  For consultant referrals, a ‘pseudo’ Treatment Function Code should not be used.
+ 
+o   As per current RTT rules, the Treatment Function Codes above are not to be used for the reporting of Mental Health and Learning Disabilities Referral to Treatment Times.
+ 
+Diagnostic & Allied Health Professional (AHP) Services
+ 
+Service
+Service Sub Heading
+Diagnostic or Allied Health Professional (AHP) Service
+Audiology
+(Adult Hearing Aids)
+Consultant
+GP
+Diagnostic Service
+Cardiology
+Stress Test
+Echo Cardiogram
+Diagnostic Service
+Diagnostic Endoscopy
+Gastroscopy
+Flexible Sigmoidoscopy
+Colonoscopy
+Cystoscopy
+Bronchoscopy
+Diagnostic Service
+Dietetics
+Adults
+Paediatrics
+AHP Service
+Imaging
+Fluoroscopy
+ 
+Neurophysiology
+Electromyography
+Nerve conduction studies
+Diagnostic Service
+Occupational Therapy
+Adults
+Paediatrics
+AHP Service
+Physiological measurement
+Urodynamic tests
+Vascular technology
+Diagnostic Service
+Physiotherapy
+Adults
+Paediatrics
+AHP Service
+Podiatry
+Urgent
+Routine
+AHP Service
+Radiology – GP Referral
+ 
+ 
+Barium Enema
+C.T.
+M.R.
+Diagnostic Service
+Radiology – Consultant Referral
+Non-Obstetric Ultrasound
+Nuclear Medicine
+Diagnostic Service
+Speech & Language
+Adults
+Paediatrics
+AHP Service
+ 
+Format: 3 digit numeric
+ 
+Code
+Treatment Function Title
+Valid From
+Comments
+Surgical Specialties
+100
+General Surgery Service
+Pre 28th December 1995
+Services delivering surgical activity not covered by other subspecialty areas. The majority of elective procedures, about 80 per cent, fall outside subspecialty areas. For further information, see: Royal College of Surgeons - Surgical Specialties
+101
+Urology Service
+Pre 28th December 1995
+Surgical services for the treatment of disorders of the urinary system and male reproductive system. This includes surgery for gender dysphoria. For further information, see: Royal College of Surgeons - Urology
+102
+Transplant Surgery Service
+1st April 2015
+Services for pre- and post-operative care for major organ transplants except heart and lung. Excludes Cardiothoracic Transplantation Service - see Treatment Function Code 174, corneal grafts carried out by Ophthalmology Service - see Treatment Function Code 130 and Blood and Bone Marrow Transplantation Service - see Treatment Function Code 308. For further information, see: Royal College of Surgeons - General Surgery
+103
+Breast Surgery Service
+1st April 2015
+Services which include surgical treatment for cancer, suspected neoplasms, indeterminate breast lesions, benign breast lumps, disorders of the nipple-areolar complex, cysts, and post-cancer reconstructive, revision and symmetrising surgery. Includes breast surgery for gender dysphoria. Excludes cosmetic surgery. For further information, see: Association of Breast Surgery
+104
+Colorectal Surgery Service
+1st April 2015
+Services for the surgical treatment of disorders of the lower intestine (colon, anus, and rectum)
+105
+Hepatobiliary and Pancreatic Surgery Service
+1st April 2015
+Specialist surgical services for hepatobiliary and pancreatic (HPB) disorders. To be used by recognised specialist units and associated outreach services only. Excludes Transplant Surgery Service - see Treatment Function Code 102.
+106
+Upper Gastrointestinal Surgery Service
+1st April 2015
+Services for surgical treatment of disorders of the upper parts of the gastrointestinal tract. For further information, see: Royal College of Surgeons - General Surgery
+107
+Vascular Surgery Service
+1st April 2015
+Services for surgical treatment of diseases of the vascular system. For further information, see Royal College of Surgeons - Vascular Surgery
+108
+Spinal Surgery Service
+1st April 2015
+Surgery concentrating on specialised and complex treatment of issues of the back and spine. To be used by recognised specialist units and associated outreach services only. Excludes Trauma and Orthopaedic Service - see Treatment Function Code 110, Orthopaedic Service - see Treatment Function Code 111, Trauma Surgery Service - see Treatment Function Code 115 and Spinal Injuries Service - see Treatment Function Code 323. For further information, see: British Association of Spine Surgeons
+109
+Bariatric Surgery Service
+24th January 2022
+Services assessing, managing, and treating obesity, and specifically consideration of bariatric (weight loss) surgery. It includes patients who are obese and have, or are at risk of, other medical conditions. It does not cover preventing a person from becoming overweight or obese, or lifestyle weight management programmes for a person who is overweight or obese. For further information, see: National Institute for Health and Care Excellence - Obesity
+110
+Trauma and Orthopaedic Service
+Pre 28th December 1995
+Services to treat injuries, congenital and acquired disorders of the bones, joints, and their associated soft tissues, including ligaments, nerves, and muscles. Excludes Orthopaedic Surgery Service – Treatment Function Code 111 and Spinal Surgery Service- see Treatment Function Code 108. For major trauma centres use Trauma Surgery Service - see Treatment Function Code 115. For further information, see: Royal College of Surgeons - Major Trauma Surgery and Royal College of Surgeons - Orthopaedic Surgery
+111
+Orthopaedic Service
+24th January 2022
+Services for the elective or planned surgical assessment or treatment of the musculoskeletal system. Excludes Trauma Surgery Service - see Treatment Function Code 115. Where there is no dedicated Orthopaedic Service use Trauma and Orthopaedic Service – see Treatment Function Code 110. For further information, see: Royal College of Surgeons - Orthopaedic Surgery
+113
+Endocrine Surgery Service
+24th January 2022
+Services for the surgical treatment of diseases of the thyroid and/or other endocrine glands. For further information, see: Royal College of Surgeons - General Surgery
+115
+Trauma Surgery Service
+24th January 2022
+Major trauma specialist services at a designated unit, with the specific exclusion of Spinal Surgery Service – see Treatment Function Code 108. Excludes elective or planned Orthopaedic Surgery Service - see Treatment Function Code 111. Where there is no major trauma centre use Trauma and Orthopaedics Service - see Treatment Function Code 110. For further information, see: Royal College of Surgeons - Major Trauma Surgery
+120
+Ear Nose and Throat Service
+Pre 28th December 1995
+Formerly known as ENT. Surgical services for the assessment, diagnosis, management and treatment of ear, nose and/or throat issues. Excludes Audiology Service - see Treatment Function Code 840. For further information, see: Royal College of Surgeons - Ear, Nose & Throat (ENT).
+130
+Ophthalmology Service
+Pre 28th December 1995
+The surgical treatment of disorders and diseases of the eye. Excludes Medical Ophthalmology Service – see Treatment Function Code 460 and Ophthalmic and Vision Science Service - see Treatment Function Code 461. For further information, see: Royal College of Ophthalmologists.
+140
+Oral Surgery Service
+Pre 28th December 1995
+Services for the diagnosis and surgical treatment of diseases, injuries, and defects of hard and soft tissues of the mouth. Excludes departments delivering a service where oral surgery and maxillofacial services are mixed (i.e., an outpatient clinic accepting oral surgery and maxillofacial surgery patients) - see Treatment Function Code 145. For further information, see: British Association of Oral Surgeons Specialty Training Curriculum - Oral Surgery
+141
+Restorative Dentistry Service
+Pre 28th December 1995
+Services providing examination and treatment of diseases of the oral cavity, the teeth, and their supporting structures. Restorative Dentistry includes the dental specialties of Endodontics, Periodontics and Prosthodontics (including implantology), and its foundation is based upon how these interact in the management of cases requiring multifaceted care. For further information, see: British Society for Restorative Dentistry
+143
+Orthodontic Service
+Pre 28th December 1995
+Services for the treatment of malocclusions (improper bites). Orthodontic treatment can focus on dental displacement only or can deal with the control and modification of facial growth. For further information, see British Orthodontic Society
+144
+Maxillofacial Surgery Service
+1st April 2016
+Professional recommendation is to use Oral and Maxillofacial Surgery Service where this service is combined with oral surgery - see Treatment Function Code 145. Alternatively, for oral surgery services only see Treatment Function Code 140. This code has been retained for existing services which only provide maxillofacial surgery.
+145
+Oral and Maxillofacial Surgery Service
+24th January 2022
+Combined services providing diagnosis and surgical treatment of diseases, injuries and defects involving hard and soft tissues of the mouth, jaws, and neck. These services may have formerly been categorised as Treatment Function Code 140 (Oral Surgery Service) or Treatment Function Code 144 (Maxillofacial Surgery Service). For further information, see: British Association of Oral & Maxillofacial Surgeons
+150
+Neurosurgical Service
+Pre 28th December 1995
+Surgical services for the treatment of disorders of the nervous system including the including the brain, spinal cord, peripheral nerves, and extra-cranial cerebrovascular system. Excludes Spinal Surgery Service - see Treatment Function Code 108. For major trauma centres use Trauma Surgery Service - see Treatment Function Code 115. For further information, see: Royal College of Surgeons - Neurosurgery
+160
+Plastic Surgery Service
+Pre 28th December 1995
+Services to correct or restore form and function. In addition to cosmetic or aesthetic surgery, plastic surgery includes many types of reconstructive surgery, and the treatment of burns. For care given within specialist burn services, use Burns Care Service - see Treatment Function Code 161. Excludes breast surgery for gender dysphoria, use Breast Surgery Service - see Treatment Function Code 103. For further information, see: Royal College of Surgeons - Plastic and Reconstructive
+161
+Burns Care Service
+ 
+ 
+1st April 2016
+Services for the surgical and non-surgical treatment of burns within recognised specialist burns units and associated outreach services only. For further information, see: British Burn Association
+170
+Cardiothoracic Surgery Service
+Pre 28th December 1995
+Services delivering surgical treatment of diseases affecting the heart and organs inside the thorax (the chest). Should only be used where there are no separate services for Cardiac Surgery and Thoracic Surgery. For further information, see: Royal College of Surgeons - Cardiothoracic Surgery
+172
+Cardiac Surgery Service
+1st April 2016
+Services delivering surgical treatment of diseases affecting the heart. Procedures are often lengthy and complex, requiring support from advanced forms of technology during surgery. For further information, see: Royal College of Surgeons - Cardiothoracic Surgery
+173
+Thoracic Surgery Service
+1st April 2016
+Services providing surgical treatment of diseases affecting organs inside the thorax (the chest). Generally, treatment of conditions of the lungs, chest wall, and diaphragm. Predominantly this is surgical treatment of malignant disease or its effects. For further information, see: Royal College of Surgeons - Cardiothoracic Surgery
+174
+Cardiothoracic Transplantation Service
+1st April 2016
+Services for pre- and post-operative care for heart and lung transplants. To be used by recognised specialist units and associated outreach services only. For further information, see: Royal College of Surgeons - Cardiothoracic Surgery
+Other Children's Specialist Services – The Paediatric TREATMENT FUNCTION CODES represent CLINICS OR FACILITIES intended to provide dedicated SERVICES to children with appropriate facilities and support staff, i.e., they are designed for children only. If a CLINIC OR FACILITY provides this but also treats adult PATIENTS as part of the SERVICE, then a Paediatric TREATMENT FUNCTION CODE may not be appropriate. The age of the PATIENT attending does not initiate a change to the TREATMENT FUNCTION CODE for the ACTIVITY.
+1421
+Paediatric Dentistry Service
+Pre 28th December 1995
+Dedicated children's services for dentistry with appropriate facilities and support staff. For further information, see: The British Society of Paediatric Dentistry
+1711
+Paediatric Surgery Service
+Pre 28th December 1995
+Dedicated children's services for general surgery. For further information, see: Royal College of Surgeons - Paediatric Surgery
+211
+Paediatric Urology Service
+1st April 2016
+Dedicated children's services for surgical treatment of disorders of the urinary system and male reproductive system. For further information, see: British Association of Paediatric Surgeons - Urology
+212
+Paediatric Transplantation Surgery Service
+1st April 2016
+Dedicated children's services for pre- and post-operative care for major organ transplants except heart and lung. Excludes Paediatric Cardiac Surgery Service - see Treatment Function Code 221, Paediatric Thoracic Surgery Service - see Treatment Function Code 222, corneal grafts carried out by Paediatric Ophthalmology Service - see Treatment Function Code 216 and Blood and Bone Marrow Transplantation Service - see Treatment Function Code 308. For further information, see: Royal College of Surgeons - General Surgery
+213
+Paediatric Gastrointestinal Surgery Service
+1st April 2016
+Dedicated children's services for surgical treatment of disorders of the gastrointestinal tract. For further information, see: British Association of Paediatric Surgeons - Gastrointestinal
+214
+Paediatric Trauma and Orthopaedic Service
+1st April 2016
+Dedicated children's services to treat injuries, congenital and acquired disorders of the bones, joints, and their associated soft tissues, including ligaments, nerves, and muscles. Excludes Trauma Surgery Service - see Treatment Function Code 115 and Spinal Surgery Service - see Treatment Function Code 108. For further information, see: British Society for Children's Orthopaedic Surgery (BSCOS)
+215
+Paediatric Ear Nose and Throat Service
+1st April 2016
+Dedicated children's surgical services for the assessment, diagnosis, management and treatment of ear, nose and/or throat issues. Excludes Audiology Service - see Treatment Function Code 840. For further information, see: British Association for Paediatric Otolaryngology
+216
+Paediatric Ophthalmology Service
+1st April 2016
+Dedicated children's services for the surgical treatment of disorders and diseases of the eye. For further information, see: British & Irish Paediatric Ophthalmology and Strabismus Association
+217
+Paediatric Oral and Maxillofacial Surgery Service
+1st April 2016
+Dedicated children's services providing diagnosis and surgical treatment of diseases, injuries and defects involving hard and soft tissues of the mouth, jaws, and neck. Excludes Paediatric Dentistry Services – see Treatment Function Code 142. For further information, see: British Association of Oral & Maxillofacial Surgeons
+218
+Paediatric Neurosurgery Service
+1st April 2016
+Dedicated children's services for the surgical treatment of disorders which affect any portion of the nervous system including the brain, spinal cord, peripheral nerves, and extra-cranial cerebrovascular system. For further information, see: Royal College of Surgeons - Neurosurgery
+219
+Paediatric Plastic Surgery Service
+1st April 2016
+Dedicated children's services for correction or to restore form and function. In addition to cosmetic or aesthetic surgery, plastic surgery includes many types of reconstructive surgery, and the treatment of burns. For care given within specialist paediatric burn services, use Paediatric Burns Care Service - see Treatment Function Code 220.
+220
+Paediatric Burns Care Service
+1st April 2016
+Dedicated children's services for the surgical and non-surgical treatment of burns within recognised specialist burns units and associated outreach services only. For further information, see: British Burn Association
+221
+Paediatric Cardiac Surgery Service
+1st April 2016
+Dedicated children's services for the surgical treatment of the heart or great vessels.
+222
+Paediatric Thoracic Surgery Service
+1st April 2016
+Dedicated children's services for the surgical treatment of diseases affecting organs inside the thorax (the chest). Generally, treatment of conditions of the lungs, chest wall, and diaphragm. For further information, see: British Association of Paediatric Surgeons - Thoracic
+223
+Paediatric Epilepsy Service
+1st April 2016
+Dedicated children's services by consultant paediatrician with expertise in epilepsy supported by specialist staff. For further information, see: Royal College of Paediatrics and Child Health - Epilepsy
+230
+Paediatric Clinical Pharmacology Service
+24th January 2022
+Dedicated children's services providing advice and support locally and nationally regarding the introduction of new medicines, adverse drug reactions, poisoning and toxicity, and prescribing policies. For further information, see: Royal College of Paediatrics and Child Health - Drugs and medicines
+240
+Paediatric Palliative Medicine Service
+24th January 2022
+Dedicated children's services improving the quality of life of patients and their families facing the problems associated with life-limiting illness. Prevention and relief of suffering by means of early identification, assessment and treatment of pain and other problems, physical, psychosocial, and spiritual. For further information, see: Royal College of Paediatrics and Child Health - Palliative care
+241
+Paediatric Pain Management Service
+1st April 2016
+Dedicated children's services for complex pain disorders requiring diagnosis and treatment by a specialist Multidisciplinary Team. For further information, see: Royal College of Paediatrics and Child Health - Pain management
+242
+Paediatric Intensive Care Service
+1st April 2016
+Dedicated children's services only to be used by designated Paediatric Intensive Care Units. For further information, see: Royal College of Paediatrics and Child Health - Intensive care medicine
+250
+Paediatric Hepatology Service
+24th January 2022
+Dedicated children's services for the treatment of disease of the liver. For further information, see: Royal College of Paediatrics and Child Health - Hepatology
+251
+Paediatric Gastroenterology Service
+1st April 2016
+Dedicated children's services for the treatment of disorders of the digestive system. For further information, see: Royal College of Paediatrics and Child Health - Gastroenterology
+252
+Paediatric Endocrinology Service
+1st April 2016
+Dedicated children's services for the treatment of disorders of the endocrine system. Excludes Paediatric Diabetes Service - see Treatment Function Code 263. For further information, see: British Society for Paediatric Endocrinology and Diabetes
+253
+Paediatric Clinical Haematology Service
+1st April 2016
+Dedicated children's services contributing to the diagnosis and management of diseases of the blood and bone marrow. May be consultative in other specialties including intensive care. Excludes Anticoagulant Service - see Treatment Function Code 324.
+254
+Paediatric Audio Vestibular Medicine Service
+1st April 2016
+Dedicated children's services for the investigation, diagnosis, and management of patients with disorders of balance, hearing, tinnitus, and auditory communication. Excludes Audiology Service - see Treatment Function Code 840. For further information, see: British Association of Paediatricians in Audiology
+255
+Paediatric Clinical Immunology and Allergy Service
+1st April 2016
+Dedicated children's services for the treatment of disorders of the immune system and allergic disease. For further information, see: Royal College of Paediatrics and Child Health - Paediatric allergy, immunology, and infectious diseases - sub-specialty
+256
+Paediatric Infectious Diseases Service
+1st April 2016
+Dedicated children's services for the diagnosis and treatment of contagious or communicable diseases. For further information, see: Royal College of Paediatrics and Child Health - Paediatric allergy, immunology, and infectious diseases - sub-specialty
+257
+Paediatric Dermatology Service
+1st April 2016
+Dedicated children's services for the treatment of diseases of the skin. For further information, see: The British Society for Paediatric Dermatology (BSPD)
+258
+Paediatric Respiratory Medicine Service
+1st April 2016
+Dedicated children's services for the diagnosis and treatment of respiratory conditions. Also known as Thoracic Medicine and Pulmonary Medicine. For further information, see: Royal College of Paediatrics and Child Health - Paediatric respiratory medicine - sub-specialty
+259
+Paediatric Nephrology Service
+1st April 2016
+Dedicated children's services for the diagnosis and treatment of kidney conditions and abnormalities. Also known as Renal Medicine. For further information, see: Royal College of Paediatrics and Child Health - Nephrology
+260
+Paediatric Medical Oncology Service
+1st April 2016
+Dedicated children's services for the diagnosis and treatment, typically with Chemotherapy, of patients with cancer. For further information, see: Royal College of Paediatrics and Child Health - Oncology
+261
+Paediatric Inherited Metabolic Medicine Service
+1st April 2016
+Formerly known as Paediatric Metabolic Disease. Dedicated children's services for the diagnosis and management of inherited metabolic conditions utilising biochemistry and metabolic characteristics requiring the expertise of both the physician and chemical pathologist. For further information, see: Royal College of Paediatrics and Child Health - Inherited metabolic medicine
+262
+Paediatric Rheumatology Service
+1st April 2016
+Dedicated children's services incorporating the investigation, multidisciplinary holistic management, and rehabilitation of patients with a wide spectrum of disorders of the musculoskeletal system encompassing the locomotor apparatus, bone and connective tissues and blood vessels. For further information, see: Royal College of Paediatrics and Child Health - Rheumatology
+263
+Paediatric Diabetes Service
+1st April 2016
+Formerly known as Paediatric Diabetes Medicine. Dedicated children's services for the diagnosis, treatment, and support of patients with diabetes. For further information, see: Royal College of Paediatrics and Child Health - Diabetes
+264
+Paediatric Cystic Fibrosis Service
+1st April 2016
+Dedicated multidisciplinary children's services concerned with the diagnosis, assessment, and management of patients with cystic fibrosis. This Treatment Function Code should be used by recognised specialist centres only.
+270
+Paediatric Emergency Medicine Service
+24th January 2022
+Dedicated children's services to care for patients with urgent problems delivered as part of an Accident and Emergency Attendance.  Excludes Trauma Surgery Service - see Treatment Function Code 115. For further information, see: Royal College of Paediatrics and Child Health - Emergency Medicine
+280
+Paediatric Interventional Radiology Service
+1st April 2016
+Dedicated children's services for the diagnosis and treatment of diseases utilising minimally invasive image-guided procedures. Not to be used for Diagnostic Imaging - see Treatment Function Code 812. For further information, see: British Society of Interventional Radiology - What is Interventional Radiology
+290
+Community Paediatric Service
+1st April 2016
+Services providing assessment and care to vulnerable children, including those with developmental disorders and disabilities, complex behavioural presentations, and those at risk of abuse or are being abused. Excludes Paediatric Neurodisability Service - see Treatment Function Code 291. For further information, see: Royal College of Paediatrics and Child Health - Community child health - sub-specialty
+291
+Paediatric Neurodisability Service
+1st April 2016
+Dedicated Children’s services for the diagnosis and treatment of Cerebral Palsy and non-progressive handicapping neurological conditions, with or without Learning Disability / Intellectual Disability. For further information, see: Royal College of Paediatrics and Child Health - Neurodisability
+3211
+Paediatric Cardiology Service
+1st April 2016
+Dedicated children's services for diseases and abnormalities of the heart. Excludes Congenital Heart Disease Service - see Treatment Function Code 331. For further information, see: Joint Royal Colleges of Physicians Training Board - Paediatric Cardiology
+4211
+Paediatric Neurology Service
+Pre 28th December 1995
+Dedicated children’s services for diagnosis, management and medical treatment of conditions and diseases of the central nervous system, with appropriate facilities and support staff. Excludes Paediatric Epilepsy Service - see Treatment Function Code 223. For further information, see: Royal College of Paediatrics and Child Health - Neurology
+Medical Specialties
+1801
+Emergency Medicine Service
+Pre 28th December 1995
+Formerly known as Accident & Emergency. Services to care for patients with urgent problems delivered as part of an Accident and Emergency Attendance or admission at an Accident and Emergency Department. Excludes Trauma Surgery Service - see Treatment Function Code 115. For further information, see: The Royal College of Emergency Medicine
+190
+Anaesthetic Service
+Pre 28th December 1995
+Services for patients being assessed for anaesthesia, as well as the provision of sedation and anaesthesia for patients undergoing interventional radiology and radiotherapy. This can be used in outpatients only. Pain Management Service should be recorded in Treatment Function Code 191. Intensive Care Medicine Service should be recorded in Treatment Function Code 192. For further information, see: Royal college of Anaesthetists - Anaesthetists
+1911
+Pain Management Service
+Pre 28th December 1995
+Services for complex pain disorders requiring diagnosis and treatment by a specialist Multi-disciplinary Team.
+192
+Intensive Care Medicine Service
+1st April 2016
+Formerly known as Critical Care Medicine. Services using a body of specialist knowledge and practice concerned with the treatment of patients, with, at risk of, or recovering from potentially life-threatening failure of one or more of the body's organ systems. It includes the provision of organ system support, the investigation, diagnosis, and treatment of acute illness, systems management and patient safety, ethics, end-of-life care, and the support of families. For further information, see: Faculty of Intensive Care Medicine
+200
+Aviation and Space Medicine Service
+24th January 2022
+Also known as Aerospace Medicine Services.
+Aviation and Space Medicine services study all factors affecting the person in flight. This may include pre-flight preparation and checks as well as inflight care to minimise the potentially harmful effects of their abnormal environment. For further information, see: Royal College of Physicians - Aviation and Space Medicine
+300
+General Internal Medicine Service
+Pre 28th December 1995
+Formerly known as General Medicine. Services include adults admitted as emergencies with acute medical problems, including multiple disorders. Patients with problems that are not clearly within the remit of a particular medical specialty are referred for the opinion of a general physician. For further information, see: Joint Royal Colleges of Physicians Training Board - General Internal Medicine (GIM)
+301
+Gastroenterology Service
+Pre 28th December 1995
+Screening, diagnostic, and therapeutic endoscopy services including upper and lower gastrointestinal (GI) endoscopy and hepatobiliary endoscopy. Excludes Hepatology Service - see Treatment Function Code 306.
+302
+Endocrinology Service
+Pre 28th December 1995
+The treatment of disorders of the endocrine system, excluding specific Diabetes Services - see Treatment Function Code 307. For further information, see: Joint Royal Colleges of Physicians Training Board - Endocrinology and Diabetes Mellitus
+303
+Clinical Haematology Service
+Pre 28th December 1995
+Services contributing to the diagnosis and management of diseases of the blood and bone marrow. May be consultative in other specialties including intensive care. Excludes Anticoagulant Service - see Treatment Function Code 324. For further information, see: Joint Royal Colleges of Physicians Training Board - Haematology
+304
+Clinical Physiology Service
+Pre 28th December 1995
+Physiological measurement. Excludes Clinical Neurophysiology Service - see Treatment Function Code 401, Audiology Service - see Treatment Function Code 840, Respiratory Physiology Service - see Treatment Function Code 341, Cardiac Physiology Service - see Treatment Function Code 675, Gastrointestinal Physiology Service - see Treatment Function Code 677, Urological Physiology Service - see Treatment Function Code 670, Vascular Physiology Service - see Treatment Function Code 673 and Ophthalmic and Vision Science - see Treatment Function Code 461. For further information, see: The Registration Council for Clinical Physiologists
+305
+Clinical Pharmacology Service
+Pre 28th December 1995
+Services undertaking and interpreting clinical investigations including clinical trials; optimising the therapeutic use of drugs; detection and analysis of adverse drug effects; contribution to medicines evaluation and management of poisoning. For further information, see: Joint Royal Colleges of Physicians Training Board - Clinical Pharmacology and Therapeutics (CPT)
+306
+Hepatology Service
+1st April 2016
+Medical services for the diagnosis and treatment of liver disease. Also known as liver medicine. For hepatobiliary endoscopy, use Gastroenterology Service - see Treatment Function Code 301
+307
+Diabetes Service
+1st April 2016
+Formerly known as Diabetes Medicine. Services to diagnose, treat and support Patients with diabetes. For further information, see: Joint Royal Colleges of Physicians Training Board - Endocrinology and Diabetes Mellitus
+308
+Blood and Marrow Transplantation Service
+1st April 2016
+Services recognised as specialist units and associated outreach services only. Includes pre- and post-operative specialised services for autologous, allogeneic, or syngeneic Blood and Marrow Transplantation. For further information, see: British Society of Blood and Marrow Transplantation
+309
+Haemophilia Service
+1st April 2016
+Specialist services for the diagnosis, treatment, and management of haemophilia.
+310
+Audio Vestibular Medicine Service
+Pre 28th December 1995
+Formerly known as Audiological Medicine. Services concerned with the diagnosis and management of hearing and balance disorders, for example tinnitus, dysacusis and communication disorders. Rehabilitative/habilitative care is delivered by Multidisciplinary Teams and is aimed at improving the well-being and quality of life of the patient concerned. Excludes Audiology Service - see Treatment Function Code 840. For further information, see: Joint Royal College of Physicians Training Board - Audio vestibular Medicine
+311
+Clinical Genetics Service
+Pre 28th December 1995
+Services for the diagnosis and management of genetic disorders affecting individuals and their families. For further information, see: Clinical Genetics
+313
+Clinical Immunology and Allergy Service
+Pre 28th December 1995
+Services for the diagnosis and management of patients with diseases resulting from disordered immunological mechanisms, and allergic disease (abnormal immune responses to external substances). Should only be used where there are no separate services for Clinical Immunology and Allergy. For separate services - See Clinical Immunology Service – Treatment Function Code 316 and Allergy Service - Treatment Function Code 317. For further information, see: Welcome to the British Society for Allergy & Clinical Immunology (BSACI)
+314
+Rehabilitation Medicine Service
+Pre 28th December 1995
+Formerly known as Rehabilitation Service. Services for the prevention, diagnosis, treatment, and rehabilitation management of disabling conditions. Rehabilitation medicine is broadly divided into neurological rehabilitation, spinal cord injury, limb loss and prosthetics and/or musculoskeletal rehabilitation. Excludes Mental Health Recovery and Rehabilitation Service - see Treatment Function Code 725, Cardiac Rehabilitation Service - see Treatment Function Code 327, Pulmonary Rehabilitation Service - see Treatment Function Code 342, Orthotics Service - See Treatment Function Code 658 or Prosthetics Service - see Treatment Function Code 657. For further information, see: Joint Royal Colleges of Physicians Training Board - Rehabilitation medicine
+315
+Palliative Medicine Service
+Pre 28th December 1995
+Services improving the quality of life of patients and their families facing the problems associated with life-limiting illness and end of life care. Prevention and relief of suffering by means of early identification, assessment and treatment of pain and other physical, psychosocial, and spiritual problems. For further information, see: Joint Royal College of Physicians - Specialty spotlight - palliative medicine
+316
+Clinical Immunology Service
+1st April 2016
+Services for the diagnosis and management of patients with diseases resulting from disordered immunological mechanisms, and conditions in which immunological manipulations form an important part of therapy. Allergy services should be recorded against Allergy Service - see Treatment Function Code 317. For further information, see: Joint Royal College of Physicians Training Board - Immunology
+317
+Allergy Service
+1st April 2016
+Services for the diagnosis and management of allergic disease (abnormal immune responses to external substances) and the exclusion of allergic causes in other conditions. For further information, see: Joint Royal College of Physicians Training Board - Allergy
+318
+Intermediate Care Service
+1st April 2016
+Services encompassing a range of multidisciplinary approaches, designed to safeguard independence by maximising rehabilitation and recovery after illness or injury. For further information, see: National Institute for Health and Care Excellence - Understanding intermediate care, including reablement
+319
+Respite Care Service
+1st April 2016
+Services providing temporary care of a dependant person, providing relief for their usual caregivers
+320
+Cardiology Service
+Pre 28th December 1995
+Services for patients with heart disease covering a wide range of clinical activities. Management can involve interventional treatment, cardiac imaging, preventative, and therapeutic options. This includes both diagnostic and interventional procedures in the cardiac catheterisation laboratory. For further information, see: Royal College of Physicians - Cardiology
+322
+Clinical Microbiology Service
+1st April 2016
+Services for the diagnosis, management, and treatment of patients with diseases caused by bacteria, viruses, fungi, and parasites.
+323
+Spinal Injuries Service
+1st April 2016
+Services for non-surgical management of issues of the back and spine. To be used by recognised specialist units and associated outreach services only. Excludes Spinal Surgery Service - see Treatment Function Code 108
+324
+Anticoagulant Service
+1st April 2016
+Services providing the monitoring and control of anticoagulant therapy including the initiation and/or supervision of oral anticoagulant therapy and the determination of anticoagulant dosage. This can be used in outpatients only.
+325
+Sport and Exercise Medicine Service
+1st April 2016
+Specific services providing diagnosis and management of medical problems caused by physical activity, the prevention of related injury and disease and the role of exercise in disease treatment. Excludes Trauma and Orthopaedic Service - see Treatment Function Code 110, Orthopaedic Surgery Service - see Treatment Function Code 111, and Trauma Surgery Service - see Treatment Function Code 115. For further information, see: Joint Royal Colleges of Physicians Training Board - Sport and Exercise Medicine
+326
+Acute Internal Medicine Service
+24th January 2022
+Services concerned with the assessment, diagnosis and management of adults presenting to secondary care with acute medical illness. For further information, see: Acute Internal Medicine
+327
+Cardiac Rehabilitation Service
+1st April 2016
+Services for patients recovering from heart-related conditions such as heart attacks or procedures such as coronary artery bypass surgery to ensure that they achieve their full potential in terms of physical and psychological health
+328
+Stroke Medicine Service
+1st April 2016
+Services for diagnosis, investigation, treatment, and care of stroke patients. Excludes outpatients for Transient Ischaemic Attack Service - see Treatment Function Code 329. For further information, see: Joint Royal Colleges of Physicians Training Board - Stroke Medicine (sub-specialty)
+329
+Transient Ischaemic Attack Service
+1st April 2016
+A multidisciplinary outpatient service for rapid diagnosis and treatment of patients presenting with suspected Transient Ischaemic Attack and mini strokes to minimise the chance of a full stroke occurring and maximise the chances of independent living after a stroke. For further information, see: National Institute for Health and Care Excellence - Stroke and transient ischaemic attack
+330
+Dermatology Service
+Pre 28th December 1995
+Services for the treatment of diseases of the skin. For further information, see: Joint Royal Colleges of Physicians Training Board - Dermatology
+331
+Congenital Heart Disease Service
+1st April 2016
+The management and treatment of congenital heart disease, this includes the ongoing care of children into adulthood. For further information, see: Joint Royal Colleges of Physicians Training Board - Paediatric cardiology
+333
+Rare Disease Service
+24th January 2022
+Services for rare diseases, many of which are present at birth and are either caused by a genetic problem or deficiencies or exposures to substances around the time of conception or during pregnancy. This Treatment Function Code should be used by designated specialist centres only. For further information, see: National Congenital Anomaly and Rare Disease Registration Service
+335
+Inherited Metabolic Medicine Service
+24th January 2022
+Services for the diagnosis and management of inherited metabolic conditions utilising biochemistry and metabolic characteristics requiring the expertise of both the physician and chemical pathologist. For further information, see: Joint Royal Colleges of Physicians Training Board - Metabolic Medicine
+340
+Respiratory Medicine Service
+Pre 28th December 1995
+Respiratory Medicine is also known as Thoracic Medicine and Pulmonary Medicine. Services for the investigation, diagnosis, management, and treatment of patients with respiratory complaints. Excludes acute respiratory failure and adult respiratory distress syndrome (ARDS) - see Intensive Care Medicine Service Treatment Function Code 192 and Respiratory Physiology Service - see Treatment Function Code 341. For further information, see: Joint Royal Colleges of Physicians Training Board - Respiratory Medicine
+341
+Respiratory Physiology Service
+1st April 2016
+Services for the physiological measurement of the function of the respiratory system. Excludes Sleep Medicine Service - see Treatment Function Code 347. For further information, see: Association for Respiratory Technology & Physiology
+342
+Pulmonary Rehabilitation Service
+1st April 2016
+Formerly known as Programmed Pulmonary Rehabilitation. A multidisciplinary programme of care for patients with chronic respiratory impairment.
+343
+Adult Cystic Fibrosis Service
+1st April 2016
+Multidisciplinary service concerned with the diagnosis, assessment, and management of patients with cystic fibrosis. This Treatment Function Code should be used by designated specialist centres only.
+347
+Sleep Medicine Service
+24th January 2022
+Services providing diagnosis and management of sleep disorders including parasomnias, excessive daytime sleepiness, and sleep apnoea. For further information, see: Royal Society of Medicine - Sleep Medicine Section
+348
+Post-COVID-19 Syndrome Service
+24th January 2022
+Multidisciplinary services for patients experiencing long-term health effects following COVID-19 infection, whether or not this was diagnosed at the time of acute illness or the patient was initially asymptomatic. Post-COVID-19 syndrome has also been known as 'long COVID'. For further information, see: National Institute for Health and Care Excellence - COVID-19 guideline: management of the long-term effects of COVID-19.
+350
+Infectious Diseases Service
+Pre 28th December 1995
+Services for the diagnosis, management, and treatment of infectious diseases. Excludes Tropical Medicine Service - see Treatment Function Code 352.  For further information, see: Joint Royal Colleges of Physicians Training Board - Infectious Diseases
+352
+Tropical Medicine Service
+1st April 2016
+Services for the diagnosis, management and treatment of diseases that are found most often in tropical or sub-tropical regions. This Treatment Function Code should be used by designated specialist centres only. Excludes Infectious Diseases Service - see Treatment Function Code 350. For further information, see: Joint Royal Colleges of Physicians Training Board - Infectious Diseases and Tropical Medicine
+360
+Genitourinary Medicine Service
+Pre 28th December 1995
+Services for the investigation and management of sexually transmitted infections and HIV. For further information, see: Joint Royal Colleges of Physicians Training Board - Genitourinary Medicine (GUM)
+361
+Renal Medicine Service
+Pre 28th December 1995
+Formerly known as Nephrology. Services for patients with acute renal failure and chronic kidney disease requiring long term care with the help of a Multidisciplinary Team. Most general medical problems in patients with kidney disease are managed by the Renal Medicine Service. Excludes acute renal replacement therapy in the critical care setting, see Intensive Care Medicine Service – Treatment Function Code 192. For further information, see: Joint Royal Colleges of Physicians Training Board - Renal Medicine
+370
+Medical Oncology Service
+Pre 28th December 1995
+Services for the specialised assessment and management of patients with cancer using chemotherapy. Includes treatment option discussions with patients, supervision of therapy and management of any complications of disease and/or treatment that may arise. For further information, see: Joint Royal Colleges of Physicians Training Board - Medical Oncology
+371
+Nuclear Medicine Service
+Pre 28th December 1995
+Services responsible for administration of unsealed radioactive substances to patients for the purposes of diagnosis, therapy, or research. For further information, see: Joint Royal Colleges of Physicians Training Board - Nuclear Medicine
+400
+Neurology Service
+Pre 28th December 1995
+Services for the diagnosis, management, and medical treatment of neurological conditions. Excludes Stroke Medicine Service – Treatment Function Code 328, outpatients for Transient Ischaemic Attack Service - see Treatment Function Code 329. For further information, see: Joint Royal Colleges of Physicians Training Board - Neurology
+401
+Clinical Neurophysiology Service
+Pre 28th December 1995
+Primarily diagnostic service concerned with recording electrical activity from the nervous system to aid diagnosis, classification, and management of neurological disease. Includes Electroencephalogram (EEG) and Electromyography (EMG). For further information, see: Joint Royal College of Physicians - Clinical Neurophysiology
+410
+Rheumatology Service
+Pre 28th December 1995
+Services incorporating the investigation, holistic management, and rehabilitation of patients with a wide spectrum of disorders of the musculoskeletal system encompassing the locomotor apparatus, bone and connective tissues and blood vessels. For further information, see: Joint Royal College of Physicians - Rheumatology
+420
+Paediatric Service
+Pre 28th December 1995
+Dedicated children's services for the treatment of patients typically aged 0 to 18 for medical conditions, however the environments and other members of the multidisciplinary service are likely to care for surgical patients too. For further information, see: Royal College of Paediatrics and Child Health - General paediatrics - level 3 training
+422
+Neonatal Critical Care Service
+1st April 2016
+Formerly known as Neonatology. Services providing care for all babies that require on-going, enhanced medical care following birth. Neonatal critical care services are provided in a variety of settings dependent upon the interventions required for the baby and with dedicated transport services to support babies being transferred to and from neonatal care units. Use when Neonatal Level of Care = 1, 2 or 3. Includes Special Care Baby Units (SCBU), Local Neonatal Units (LNU) and Neonatal Intensive Care Units (NICU). Any readmission would be to Paediatric Service - see Treatment Function Code 420, or Paediatric Intensive Care Service - see Treatment Function Code 242. For further information, see: Royal College of Paediatrics and Child Health - Neonatal medicine - sub-specialty.
+424
+Well Baby Service
+1st April 2016
+Services for healthy infants born and referenced by the Maternity record who do not require any intervention other than health screening and prophylactic healthcare. General care given by the mother/substitute with healthcare education if needed. Use when Neonatal Level of Care = 0 - Normal Care: Care given by the mother/substitute with medical and neonatal nursing advice if needed. Excludes Neonatal Critical Care Service - see Treatment Function Code 422
+430
+Elderly Medicine Service
+Pre 28th December 1995
+Formerly known as Geriatric Medicine. Services to treat diseases and disabilities in older adults, particularly those with multiple morbidities. There is no set age at which patients may be under the care of Geriatric Medicine, this decision should be determined by the individual patient’s needs. For further information, see: Joint Royal Colleges of Physicians Training Board - Geriatric Medicine
+431
+Orthogeriatric Medicine Service
+24th January 2022
+Multidisciplinary services addressing clinical and social needs in the management of patients with fragility fractures, including hip fractures. The care provided aims to be holistic and to include secondary prevention of fractures as well as acute care. For further information, see: GM - Orthogeriatrics
+450
+Dental Medicine Service
+Pre 28th December 1995
+Services for dental treatment carried out in a hospital setting. Includes Oral Medicine. For further information, see: British Dental Association.
+451
+Special Care Dentistry Service
+24th January 2022
+Services concerned with the improvement of the oral health of patients and groups in society who have a physical, sensory, intellectual, mental, medical, emotional, or social impairment or disability or, more often, a combination of these factors. The specialty focuses on adolescents and adults only and includes the important period of transition as the adolescent moves into adulthood. For further information, see: Special Care Dentistry Association (SCDA)
+460
+Medical Ophthalmology Service
+Pre 28th December 1995
+Medically-led services including assessment, investigation, diagnosis, and management of inflammatory, vascular, and neurological disorders affecting vision. May include public health screening, for example diabetic retinopathy screening. For further information, see: Joint Royal Colleges of Physicians Training Board - Medical Ophthalmology
+461
+Ophthalmic and Vision Science Service
+24th January 2022
+Services providing physiological measurement of the function of the eye and vision. Includes diagnostic electrophysiology of vision, imaging, and biometry.
+501
+Obstetrics Service
+Pre 28th December 1995
+Services managing high risk pregnancy including miscarriages and still births but specifically excluding planned terminations. Excludes Midwifery Service - see Treatment Function Code 560. For further information, see: Royal College of Obstetricians & Gynaecologists - Obstetrics and Gynaecology
+502
+Gynaecology Service
+Pre 28th December 1995
+Services for the diagnosis, management, and treatment of disorders of the female reproductive system. Includes planned terminations of pregnancy. For further information, see: Royal College of Obstetricians & Gynaecologists - Obstetrics and Gynaecology
+503
+Gynaecological Oncology Service
+1st April 2016
+Services to treat cancers of the female reproductive system, principally involving surgical members of the Multidisciplinary Team. For further information, see: British Gynaecological Cancer Society
+504
+Community Sexual and Reproductive Health Service
+24th January 2022
+Services supporting people to have a positive and respectful approach to sexuality and sexual relationships and to have pleasurable and safe sexual experiences, free of infection, coercion, discrimination, and violence. The service also provides access to contraception and signposts Maternity Services to support pregnancy and childbirth. Excludes Genitourinary Medicine Service - see Treatment Function Code 360 and Midwifery Service - see Treatment Function Code 560. For further information, see: Faculty of Sexual and Reproductive Healthcare (FSRH)
+505
+Fetal Medicine Service
+24th January 2022
+Services providing specialist care at a designated centre for the fetus or fetuses and mother. This includes assessment of fetal growth and wellbeing; the diagnosis and management of identified fetal disorders (including fetal abnormalities); prenatal fetal intervention and surgery; and counselling and support for parents. Excludes routine maternity screening activities - see Midwifery Service Treatment Function Code 560.
+8341
+Medical Virology Service
+1st April 2016
+Clinical services for the diagnosis and management and prevention of blood-borne and/or airborne viral infections. For further information, see: Royal College of Pathologists - Medical Virology
+Mental Health Services
+6561
+Clinical Psychology Service
+1st April 2016
+Mental Health Services for the assessment, management and treatment of problems including addiction, anxiety, depression, behavioural difficulties, and relationship issues. Methods of assessment include psychometric tests, interviews, and direct observation of behaviour. Assessment may lead to advice, counselling, or therapy. For further information, see: The British Psychological Society
+700
+Learning Disability Service
+Pre 28th December 1995
+Also known as Intellectual Disability Service. Mental Health Services provided to patients with a Learning Disability. For further information, see: Royal College of Psychiatrists - Faculty of the Psychiatry of Intellectual Disability and British Institute of Learning Disabilities
+710
+Adult Mental Illness Service
+Pre 28th December 1995
+Mental Health Services provided to adult patients for the assessment, diagnosis and treatment of mental illness and maintenance of mental health. For further information, see: Royal College of Psychiatrists - Faculty of General Adult Psychiatry
+711
+Child and Adolescent Psychiatry Service
+Pre 28th December 1995
+Mental Health Services for children and young people with somatisation and complex presentations, behavioural challenges, eating disorders, mood disorders, anxiety, and other mental health presentations. Excludes Paediatric Neurodisability Service - see Treatment Function Code 291 and specialist Eating Disorders Service - see Treatment Function Code 720. For further information, see: Royal College of Psychiatrists - Faculty of Child and Adolescent Psychiatry
+712
+Forensic Psychiatry Service
+Pre 28th December 1995
+Mental Health Services for the assessment, management and treatment of patients who are being held in high, medium, and low secure units or prisons. This includes prevention of further harm in the community or to the individual themselves. For further information, see: Royal College of Psychiatrists - Faculty of Forensic Psychiatry
+713
+Medical Psychotherapy Service
+Pre 28th December 1995
+Formerly known as Psychotherapy. Multidisciplinary Mental Health Services to assess, manage and treat children and adults with mental health problems using talking therapies and other psychotherapeutic techniques. For further information, see: Faculty of Medical Psychotherapy
+715
+Old Age Psychiatry Service
+Pre 28th December 1995
+Mental Health Services providing the specialised assessment, treatment and continuing care for older adults suffering a range of mental illnesses, including dementia, depression, or schizophrenia. Excludes specific Dementia Assessment Service - see Treatment Function Code 727. For further information, see: Royal College of Psychiatrists - Faculty of Old Age Psychiatry
+720
+Eating Disorders Service
+1st April 2016
+A specialist service for the diagnosis and treatment of eating disorders including anorexia, bulimia, and compulsive overeating. This is usually a multidisciplinary service which needs to consider both physical and mental health aspects of the patient’s care. For further information, see: Royal College of Psychiatrists - Faculty of Eating Disorders Psychiatry
+721
+Addiction Service
+1st April 2016
+Mental Health Services for the treatment of addictive behaviour, including substance misuse, drugs, alcohol, tobacco, and gambling. Excludes patients with both severe mental illness and problematic substance misuse, see Mental Health Dual Diagnosis Service – Treatment Function Code 726. For further information, see: Royal College of Psychiatrists - Faculty of Addictions Psychiatry
+722
+Liaison Psychiatry Service
+1st April 2016
+Mental Health Services for the provision of psychiatric treatment to patients attending acute hospitals including outpatient clinics, emergency care departments and admission to wards. Deals with the interface between physical and psychological health. For further information, see: Royal College of Psychiatrists - Faculty of Liaison Psychiatry
+723
+Psychiatric Intensive Care Service
+1st April 2016
+Mental Health Services provided to vulnerable individuals with severe disturbances who are admitted to Psychiatric Intensive Care Units from open acute wards and forensic settings. For further information, see: Royal College of Psychiatrists - Quality Network for Psychiatric Intensive Care Units
+724
+Perinatal Mental Health Service
+1st April 2016
+Formerly known as Perinatal Psychiatry. Specialist Mental Health Services for the assessment, management, and treatment of pre-existing or new mental health issues during pregnancy or after delivery. For further information, see: Royal College of Psychiatrists - Faculty of Perinatal Psychiatry
+725
+Mental Health Recovery and Rehabilitation Service
+1st April 2016
+Mental Health Services provided to support recovery from mental illness that maximises the patient's quality of life and social inclusion by encouraging their skills, promoting independence and autonomy. For further information, see: Faculty of Rehabilitation and Social Psychiatry
+726
+Mental Health Dual Diagnosis Service
+1st April 2016
+Mental Health Services to provide support to patients with both severe mental illness and substance misuse problems. For further information, see: Mind: Recreational drugs and alcohol
+727
+Dementia Assessment Service
+1st April 2016
+Designated Mental Health Services for the assessment of patients who have or are suspected to have dementia. Dementia complicates care giving and can occur at any stage of the illness and at any age. In addition to memory impairment, dementia may include behavioural and psychological problems. For non-specific Old Age Psychiatry Service - see Treatment Function Code 715. For further information, see: Royal College of Psychiatrists - Dementia pathway
+730
+Neuropsychiatry Service
+24th January 2022
+Mental Health Services for brain disorders and integration of psychiatry within clinical neurosciences. For further information, see: Royal College of Psychiatrists - Faculty of Neuropsychiatry
+Other Services
+5601
+Midwifery Service
+Pre 28th December 1995
+Services for managing for managing antenatal and perinatal care during pregnancy, and postnatal care following delivery, provided under the direct care of a Midwife. Excludes Obstetrics Service - see Treatment Function Code 501. For further information, see: Royal College of Midwives
+6501
+Physiotherapy Service
+1st April 2016
+Services helping patients affected by injury, illness or disability through movement and exercise, manual therapy, education, and advice to manage pain and prevent disease. To encourage development and facilitate recovery, enabling maintenance of work and independence for as long as possible. For further information, see: Chartered Society of Physiotherapy (CSP) - Physiotherapy
+6511
+Occupational Therapy Service
+1st April 2016
+Services using specific activities to limit the effects of disability and promote independence in all aspects of daily life
+6521
+Speech and Language Therapy Service
+1st April 2016
+Services providing assessment management and treatment of speech, language, communication, and swallowing issues in patients of all ages. For further information, see: Royal College of Speech & Language Therapists - Speech and language therapy
+6531
+Podiatry Service
+1st April 2016
+Also known as Chiropody. Services for the diagnosis and treatment of disorders, diseases, and deformities of the feet. Excludes Podiatric Surgery - see Treatment Function Code 663. For further information, see: The College of Podiatry
+6541
+Dietetics Service
+1st April 2016
+Services applying the science of nutrition to improve health and treat diseases/conditions by educating and giving practical, personalised advice to patients, patient proxies and other members of the Multidisciplinary Team. They advise on and help to maintain nutritional status during dietary interventions such as exclusion diets and to recommend nutritional supplements. For further information, see: British Dietetic Association
+6551
+Orthoptics Service
+1st April 2016
+Services providing the diagnosis and treatment of visual problems involving eye movement and alignment. For further information, see: British and Irish Orthoptic Society
+6571
+Prosthetics Service
+1st April 2016
+Services providing gait analysis and engineering solutions to patients with limb loss. They design and provide prostheses that replicate the structural or functional characteristics of the patients absent limb. They often work autonomously or part of Multidisciplinary Teams working closely with Physiotherapists and Occupational Therapists as part of multidisciplinary amputee rehabilitation teams. For further information, see: British Association of Prosthetists and Orthotists (BAPO) - Prosthetists
+6581
+Orthotics Service
+1st April 2016
+Services providing gait analysis and engineering solutions to patients with needs of the neuro, muscular and skeletal systems. They design and provide orthoses that modify the structural or functional characteristics of the patient’s neuro-muscular and skeletal systems enabling patients to mobilise, eliminate gait deviations, reduce falls, reduce pain, prevent, and facilitate healing of ulcers. They often work autonomously or part of Multidisciplinary Teams such as within the diabetic foot team or neuro-rehabilitation team. For further information, see: The British Association of Prosthetists and Orthotists (BAPO) - Orthotists
+6591
+Dramatherapy Service
+1st April 2016
+Services providing dramatherapy which is a form of psychological therapy focussing on the use of performance arts within the therapeutic relationship. For further information, see: British Association of Dramatherapists
+6601
+Art Therapy Service
+1st April 2016
+Services delivering a form of psychotherapy that uses art media as its primary mode of expression and communication. Within this context, art is not used as diagnostic tool but as a medium to address emotional issues which may be confusing and distressing. For further information, see: British Association of Art Therapists
+6611
+Music Therapy Service
+1st April 2016
+Services delivering a form of psychotherapy that uses music to support psychological, emotional, cognitive, physical, communicative and/or social needs. For further information, see: British Association for Music Therapy
+6621
+Optometry Service
+1st April 2016
+Services providing the diagnosis and non-surgical treatment of disorders of the eye and vision care
+6631
+Podiatric Surgery Service
+1st April 2016
+Services involved in the complex management of the foot and ankle involving surgery under both local and general anaesthetic. Excludes Podiatry Service - see Treatment Function Code 653. For further information, see: The College of Podiatry
+670
+Urological Physiology Service
+24th January 2022
+Diagnostic services for the study of erectile, upper, and lower urinary tract function, including urodynamics. For further information, see: The British Association of Urological Surgeons
+673
+Vascular Physiology Service
+24th January 2022
+Diagnostic services for the study of arterial and venous circulation primarily using Doppler ultrasound but including tests such as pressure measurement and plethysmography. Excludes Cardiac Physiology Service – see Treatment Function Code 675. For further information, see: The Society for Vascular Technology
+675
+Cardiac Physiology Service
+24th January 2022
+Services providing physiological measurements of the heart structure/function and response to therapeutic/surgical intervention through the means of a wide spectrum of non-invasive and invasive cardiac diagnostic testing. Examples include echocardiography, cardiac device management. For further information, see: Society for Cardiological Science and Technology (SCST)
+677
+Gastrointestinal Physiology Service
+24th January 2022
+Services providing physiological measurement of the gastrointestinal tract. This includes standard catheter based oesophageal pH studies, oesophageal pH impedance, oesophageal manometry, ano-rectal manometry, wireless capsule studies. Excludes Gastroenterology Service – see Treatment Function Code 301. For further information, see: AGIP - Association of GI Physiologists
+8001
+Clinical Oncology Service
+Pre 28th December 1995
+Formerly known as Radiotherapy. The diagnosis and treatment, typically with Radiotherapy, of patients with cancer. For further information, see: Royal College of Radiologists - Clinical oncology
+8111
+Interventional Radiology Service
+1st April 2016
+Services delivering a range of techniques using radiological image guidance including X-ray fluoroscopy, ultrasound, Computerised Tomography Scan (CT), or Magnetic Resonance Imaging Scan (MRI) to precisely target therapy. Excludes Interventional Cardiology - see Cardiology Service Treatment Function Code 320, and Diagnostic Imaging Service - see Treatment Function Code 812. For further information, see: British Society of Interventional Radiology - What is Interventional Radiology
+8121
+Diagnostic Imaging Service
+1st April 2016
+Services providing medical imaging, especially X-ray based examinations, Ultrasound scan, MRI Scan, PET Scan or CT Scan. Diagnostic imaging is used to confirm, assess, and document diseases, as well as to assess responses to treatment. For further information, see: WHO: Diagnostic imaging
+8221
+Chemical Pathology Service
+Pre 28th December 1995
+Services interpreting biochemical investigation results to assess, diagnose and treat diseases. To be used for the clinical management of patients by chemical pathology only. For further information, see: Royal College of Pathologists – Chemical Pathology
+8401
+Audiology Service
+1st April 2016
+Services providing physiological measurement and diagnosis of hearing disorders, and the rehabilitation of patients with hearing loss. Include hearing services activity, such as hearing tests and the fitting of hearing aids. For further information, see: British Society of Audiology
+920
+Diabetic Education Service
+1st April 2016
+Services providing dedicated small group education courses regarding self-management for diabetic patients
+998
+Diagnostic*
+14th September 2011
+ 
+999
+Allied Health Professional (AHP) Services*
+14th September 2011
+ 
+
+
+
+
+
+ 
+ 
+Notes:
+ 
+* ‘998’ and ‘999’ are not Treatment Function Codes. They are ‘pseudo’ Treatment Function Codes and are only to be used for the reporting of RTT (Combined) data for diagnostic and Allied Health Professional (AHP) services.
+ 
+ 
+1 Treatment Function Codes which have changed sections within the Treatment Function Code table.
+ 
+ 
+Retired
+ 
+Code
+Treatment Function Title
+Valid From
+Valid To
+Comments
+199
+Non-UK provider: specialty function not know, treatment mainly surgical (only applicable for overseas providers)
+Pre 28th December 1995
+31st March 2016
+ 
+312
+Clinical Cytogenetics and Molecular Genetics
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+344
+Complex Specialised Rehabilitation Service
+1st April 2016
+April 2022
+This Treatment Function Code will be removed from use from April 2022. No new services should use this code in submissions. However, the previous definition has been retained below for reference: Complex specialised rehabilitation service which meets the NHS Specialised Services Rehabilitation Services' criteria and is registered as a Level 1 service
+345
+Specialist Rehabilitation Service
+ 
+1st April 2016
+April 2022
+This Treatment Function Code will be removed from use from April 2022. No new services should use this code in submissions. However, the previous definition has been retained below for reference: Specialist rehabilitation Service which meets the NHS Specialised Services Rehabilitation Services' criteria and is registered as a Level 2a service.
+346
+Local Specialist Rehabilitation Service
+1st April 2016
+April 2022
+This Treatment Function Code will be removed from use from April 2022. No new services should use this code in submissions. However, the previous definition has been retained below for reference: Local Specialist rehabilitation service which meets the NHS Specialised Services Rehabilitation Services' criteria and is registered as a Level 2b service.
+499
+Non-UK provider; specialty function not known, treatment mainly medical (only applicable for overseas providers)
+Pre 28th December 1995
+31st March 2016
+ 
+510
+Obstetrics – AN (outpatients)
+Pre 28th December 1995
+31st March 2016
+Record as Obstetrics, antenatal clinic can be used as a local sub-specialty if required
+520
+Obstetrics - PN (outpatients)
+Pre 28th December 1995
+31st March 2016
+Record as Obstetrics, postnatal clinic can be used as a local sub-specialty if required
+610
+GP Maternity
+Pre 28th December 1995
+31st March 2016
+Record as Obstetrics
+620
+GP Other
+Pre 28th December 1995
+31st March 2016
+Use the appropriate function under which the patient is treated
+810
+Radiology
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+820
+General Pathology
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+821
+Blood Transfusion
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+823
+Haematology (non-clinical)
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+See Clinical Haematology (303)
+824
+Histopathology
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+830
+Immunopathology
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+See Clinical Immunology (316)
+831
+Medical Microbiology
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+See Clinical Microbiology (322)
+832
+Neuropathology
+Pre 28th December 1995
+31st March 2016
+ 
+900
+Community Medicine
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+901
+Occupational Medicine
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+950
+Nursing
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+Use the appropriate function under which the patient is treated
+990
+Joint Consultant Clinics
+Pre 28th December 1995
+31st March 2016
+Not a Treatment Function
+ 
+
+

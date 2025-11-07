@@ -1,0 +1,385 @@
+Urgent and Emergency Care Place of Injury
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify the type of location at which the person was present when the injury occurred.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Place of Injury
+ 
+SNOMED CT Refset - Emergency care place of injury type simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04IJP1111111000
+Living room
+1064991000000101
+Place of occurrence of injury is living room in home environment
+ 
+ 
+ 
+UEC04IJP1115111000
+Kitchen
+1065001000000108
+Place of occurrence of injury is kitchen in home environment
+ 
+ 
+ 
+UEC04IJP1121111000
+Garage
+1065011000000105
+Place of occurrence of injury is garage in home environment
+ 
+ 
+ 
+UEC04IJP1125111000
+Hallway
+1065021000000104
+Place of occurrence of injury is hallway in home environment
+ 
+ 
+ 
+UEC04IJP1131111000
+Stairway
+1065031000000102
+Place of occurrence of injury is stairway in home environment
+ 
+ 
+ 
+UEC04IJP1135111000
+Bathroom
+1065041000000106
+Place of occurrence of injury is bathroom in home environment
+ 
+ 
+ 
+UEC04IJP1141111000
+Bedroom
+1065051000000109
+Place of occurrence of injury is bedroom in home environment
+ 
+ 
+ 
+UEC04IJP1145111000
+Utility room
+1065061000000107
+Place of occurrence of injury is utility room in home environment
+ 
+ 
+ 
+UEC04IJP1151111000
+Study
+1065071000000100
+Place of occurrence of injury is study in home environment
+ 
+ 
+ 
+UEC04IJP1155111000
+Dining room
+1065081000000103
+Place of occurrence of injury is dining room in home environment
+ 
+ 
+ 
+UEC04IJP1161111000
+Home gym
+1065091000000101
+Place of occurrence of injury is gym in home environment
+ 
+ 
+ 
+UEC04IJP1165111000
+Conservatory
+1065101000000109
+Place of occurrence of injury is conservatory in home environment
+ 
+ 
+ 
+UEC04IJP1175111000
+Garden
+1065411000000104
+Place of occurrence of injury is garden in home environment
+ 
+ 
+ 
+UEC04IJP1185111000
+Outbuilding / shed
+1065121000000100
+Place of occurrence of injury is outbuilding in home environment
+ 
+ 
+ 
+UEC04IJP1191111000
+Swimming pool
+1065111000000106
+Place of occurrence of injury is swimming pool in home environment
+ 
+ 
+ 
+UEC04IJP1192111000
+Pond
+1065131000000103
+Place of occurrence of injury is garden pond in home environment
+ 
+ 
+ 
+UEC04IJP2111111000
+Residential / nursing home
+244291000000107
+Place of occurrence of injury is residential home environment
+ 
+ 
+ 
+UEC04IJP2121111000
+Hotel / bed and breakfast
+1079571000000100
+Place of occurrence of injury is hotel
+ 
+ 
+ 
+UEC04IJP2141111000
+Student accommodation
+1079581000000103
+Place of occurrence of injury is student accommodation
+ 
+ 
+ 
+UEC04IJP2161111000
+Hostel homeless
+1079661000000106
+Place of occurrence of injury is hostel for the homeless
+ 
+ 
+ 
+UEC04IJP3131111000
+Inside licensed premises : pub club bar
+1079551000000109
+Place of occurrence of injury is inside licensed premises
+ 
+ 
+ 
+UEC04IJP3132111000
+Outside licensed premises : pub club bar
+1079561000000107
+Place of occurrence of injury is outside licensed premises
+ 
+ 
+ 
+UEC04IJP3151111000
+Music venue e.g. nightclub
+1079641000000105
+Place of occurrence of injury is music venue
+ 
+ 
+ 
+UEC04IJP3153111000
+Live music venue e.g. concert hall
+1079651000000108
+Place of occurrence of injury is live music venue
+ 
+ 
+ 
+UEC04IJP3155111000
+Music festival site
+1079601000000107
+Place of occurrence of injury is festival site
+ 
+ 
+ 
+UEC04IJP3161111000
+Cinema
+1079691000000100
+Place of occurrence of injury is cinema
+ 
+ 
+ 
+UEC04IJP3162111000
+Theatre
+1079681000000102
+Place of occurrence of injury is theatre
+ 
+ 
+ 
+UEC04IJP4111111000
+Educational establishment
+244211000000103
+Place of occurrence of injury is educational establishment
+ 
+ 
+ 
+UEC04IJP4121111000
+Retail service area e.g. shop or unlicensed premises
+981021000000108
+Place of occurrence of injury is trade or service environment
+ 
+ 
+ 
+UEC04IJP4131111000
+Workplace
+244321000000102
+Place of occurrence of injury is workplace environment
+ 
+ 
+ 
+UEC04IJP4161111000
+Public building
+244281000000105
+Place of occurrence of injury is public building environment
+ 
+ 
+ 
+UEC04IJP4171111000
+Sports facility
+244301000000106
+Place of occurrence of injury is sports facility
+ 
+ 
+ 
+UEC04IJP4191111000
+Medical / clinical area
+244251000000104
+Place of occurrence of injury is hospital environment
+ 
+ 
+ 
+UEC04IJP5111111000
+Private vehicle
+1083191000000104
+Place of occurrence of injury is in private vehicle
+ 
+ 
+ 
+UEC04IJP5121111000
+Private hire vehicle / taxi
+1083181000000101
+Place of occurrence of injury is in private hire vehicle
+ 
+ 
+ 
+UEC04IJP5131111000
+Bus
+1083141000000109
+Place of occurrence of injury is on board bus
+ 
+ 
+ 
+UEC04IJP5141111000
+Train
+1083151000000107
+Place of occurrence of injury is on board train
+ 
+ 
+ 
+UEC04IJP5151111000
+Tram
+1083171000000103
+Place of occurrence of injury is on board tram
+ 
+ 
+ 
+UEC04IJP5153111000
+Underground train
+1083161000000105
+Place of occurrence of injury is on board underground train
+ 
+ 
+ 
+UEC04IJP5171111000
+Transport interchange : airport, station
+1082741000000103
+Place of occurrence of injury is transport interchange
+ 
+ 
+ 
+UEC04IJP8111111000
+Road / pavement
+244231000000106
+Place of occurrence of injury is highway environment
+ 
+ 
+ 
+UEC04IJP8121111000
+Recreational area
+979981000000100
+Place of occurrence of injury is recreational area
+ 
+ 
+ 
+UEC04IJP8131111000
+Countryside
+979971000000102
+Place of occurrence of injury is countryside environment
+ 
+ 
+ 
+UEC04IJP8141111000
+Farm
+979961000000109
+Place of occurrence of injury is farm environment
+ 
+ 
+ 
+UEC04IJP8145111000
+Construction area
+244201000000100
+Place of occurrence of injury is construction area
+ 
+ 
+ 
+UEC04IJP8151111000
+Military barracks army
+1079631000000101
+Place of occurrence of injury is military establishment
+ 
+ 
+ 
+UEC04IJP8161111000
+Water / waterside
+980891000000109
+Place of occurrence of injury is water or waterside environment
+ 
+ 
+ 
+UEC04IJP8191111000
+Derelict building
+1079591000000101
+Place of occurrence of injury is derelict building
+ 
+ 
+ 
+UEC04IJP9121111000
+Police
+1079671000000104
+Place of occurrence of injury is police premises
+ 
+ 
+ 
+UEC04IJP9141111000
+Prison
+1079611000000109
+Place of occurrence of injury is prison
+ 
+ 
+ 
+UEC04IJP9161111000
+Detention centre
+1079621000000103
+Place of occurrence of injury is detention centre
+ 
+ 
+ 
+ 
+
+

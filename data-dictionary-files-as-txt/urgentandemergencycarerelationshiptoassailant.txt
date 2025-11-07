@@ -1,0 +1,64 @@
+Urgent and Emergency Care Relationship to Assailant
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+Used to identify the relationship, as disclosed by the patient, between the assailant and the patient.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Relationship to Assailant
+ 
+SNOMED CT Concepts can be accessed via the SNOMED CT Browser
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+WEC04IJR2111111000
+Injury caused by Partner of the subject record.
+262043009
+Partner in relationship (person)
+Welsh requirement
+ 
+ 
+WEC04IJR4111111000
+Injury caused by Family Member of the subject record.
+303071001
+Person in the family (Person)
+Welsh requirement
+ 
+ 
+WEC04IJR3111111000
+Injury caused by Person known to the subject record.
+394863008
+Non-family member (person)
+Welsh requirement
+ 
+ 
+WEC04IJR1111111000
+Injury caused by Person not known by the subject record.
+257513009
+Member of public (person)
+Welsh requirement
+ 
+ 
+WEC04IJR5111111000
+Injury caused by Person in Professional Capacity to the subject record.
+224527006
+Person in the work environment (person)
+Welsh requirement
+ 
+ 
+ 
+
+

@@ -1,0 +1,188 @@
+Legal Status
+ 
+Change History
+ 
+DSCN 2024 / 12
+Welsh Emergency Care Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN 2011 / 01
+To update the data items Legal Status and Mental Category as a result of changes to the Mental Health Act 1983
+DSCN 11 / 04 (W)
+Legal Status for 'Not Applicable'
+DSCN 2011 / 06
+Legal Status amendment to the Wales Data Dictionary
+DDCN 2013 / 13
+KP90 – Admissions, Changes in Status and Detentions under the Mental Health Act 1983
+DSCN 2022 / 57
+Admitted Patient Care Data Set – Legal Status Retirement
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+1st January 2023
+Psychiatric Census
+ 
+ 
+WECDS
+1st August 2024
+ 
+ 
+This is a classification of a patient's legal status which is either informal or as designated in the Mental Health Act 1983 or other acts. The classification "informal" is used for those patients who are not formally detained or not receiving supervised aftercare. The classification is required for all patients who have a hospital provider spell which includes the care of a Consultant in the psychiatric specialties or have been discharged from such a hospital provider spell and are required to receive supervised aftercare under the provision of the Mental Health (Patients in the Community) Act 1995.
+For the APC ds99 this data item became effective from April 1999 and, with the data item Administrative Category, replaced the data item Category of Patient.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+Valid From
+Valid To
+01
+Informal (including voluntary patients under Section 131)
+Pre 28th December 1995
+ 
+02
+Formally detained under Mental Health Act Section 2 (Admission for assessment)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+03
+Formally detained under Mental Health Act Section 3 (Admission for treatment of non-offender to hospital for assessment, for medical treatment)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+04
+Formally detained under Mental Health Act Section 4 (Admission for assessment in cases of emergency)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+05
+Formally detained under Mental Health Act Section 5 (2) (Power to hold informal patient already in hospital, by doctor or approved clinician)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+06
+Formally detained under Mental Health Act Section 5 (4) (Power to hold informal patient already in hospital, by nurse)
+Pre 28th December 1995
+ 
+07
+Formally detained under Mental Health Act Section 35 (Remand to hospital for report on accused’s mental condition)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+08
+Formally detained under Mental Health Act Section 36 (Remand of accused person to hospital for treatment)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+09
+Formally detained under Mental Health Act Sections 37 and 41 (Hospital Order with restrictions)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+10
+Formally detained under Mental Health Act Section 37 (Hospital Order)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+11
+Formally detained under Mental Health Act Section 37(4) (Convicted person detained in a place of safety pending admission to a hospital, under a hospital order): validation error. This section is not applicable to hospitals. This was legally valid to 5th May 2010
+Pre 28th December 1995
+Valid to 31st January 2011
+12
+Formally detained under Mental Health Act Section 38 (Interim hospital order)
+Pre 28th December 1995
+ 
+13
+Formally detained under Mental Health Act Section 44 (Patient committed to hospital by Magistrates Court pending Crown Court disposal)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+14
+Formally detained under Mental Health Act Section 46 (Detained during Her Majesty's pleasure) REPEALED BY ARMED FORCES ACT 1996
+Pre 28th December 1995
+ 
+15
+Formally detained under Mental Health Act Sections 47 and 49 (Removal to hospital of person serving a sentence of imprisonment with restrictions)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+16
+Formally detained under Mental Health Act Section 47 (Removal to hospital of person serving a sentence of imprisonment)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+17
+Formally detained under Mental Health Act Sections 48 and 49 (Removal to hospital of other person with restrictions, not serving a sentence of imprisonment)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+18
+Formally detained under Mental Health Act Section 48 (Removal to hospital of other person not serving a sentence of imprisonment)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+19
+Formally detained under Mental Health Act Section 135 (Warrant to search for and remove to a place of safety)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+20
+Formally detained under Mental Health Act Section 136 (Mentally disordered person found in a public place)
+Pre 28th December 1995
+Amended 1st February 2011
+ 
+21
+Formally detained – Other section
+Pre 28th December 1995
+31st March 1998
+30
+Formally detained under previous legislation (fifth schedule); this relates only to patients who, prior to the implementation of the Mental Health Act 1983, were detained under the Sixth Schedule of the Mental Health Act 1959
+Pre 28th December 1995
+ 
+31
+Formally detained under Criminal Procedure (Insanity) Act 1964 as amended by the Criminal Procedures (Insanity and Unfitness to Plead) Act 1991
+Pre 28th December 1995
+ 
+32
+Formally detained under other acts:
+Pre 28th December 1995
+ 
+ 
+Section 47 of the National Assistance Act 1948
+Pre 28th December 1995
+ 
+ 
+Section 1,2 or 12 of the Children's and Young Persons Act 1969
+Pre 28th December 1995
+ 
+ 
+Section 3 of the Powers of Criminal Courts Act 1973
+Pre 28th December 1995
+ 
+33
+Supervised Discharge [Mental Health (Patients in the Community) Act 1995]. This was legally valid to 3rd May 2009.
+1st May 1998
+3rd May 2009
+34
+Formally detained under Mental Health Act Section 45A (Hospital and Limitation Direction)
+1st May 1998
+ 
+35
+Community treatment order (Mental Health Act Section 17a) This is legally valid from 3rd November 2008
+3rd November 2008
+ 
+98
+Non applicable (only used for NON psychiatric consultant specialties)
+1st April 2004
+ 
+ 
+NOTE: The Connecting for Health Data Dictionary refers to value 99 – Not Know. This value is not used in Wales, as it is inappropriate if applied when the patient is detained under the Mental Health Act.
+ 
+ 
+
+

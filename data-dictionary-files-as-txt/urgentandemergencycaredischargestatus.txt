@@ -1,0 +1,153 @@
+Urgent and Emergency Care Discharge Status
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This is the SNOMED CT concept ID which records the status of the patient on discharge from an Urgent and Emergency Care service. It captures whether:
+• Treatment took place within the Urgent and Emergency Care service
+• If the patient was streamed to another service
+• If the patient left before treatment was complete.
+ 
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+ 
+Data Item : Urgent and Emergency Care Discharge Status
+ 
+SNOMED CT Refset - Emergency care discharge status simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04DGS1111111000
+Treatment complete
+182992009
+Treatment completed
+ 
+ 
+ 
+UEC04DGS2111111000
+Streamed to primary care service / GP
+1077021000000100
+Streamed from emergency department to general practitioner following initial assessment
+ 
+ 
+ 
+UEC04DGS2121111000
+Streamed to Minor Injury Unit
+1077031000000103
+Streamed from emergency department to urgent care service following initial assessment
+ 
+ 
+ 
+UEC04DGS2131111000
+Streamed to Emergency Department
+1077781000000101
+Streamed to emergency department following initial assessment
+ 
+ 
+ 
+UEC04DGS2135111000
+Streamed to inpatient unit
+1324201000000109
+Streamed from emergency department to inpatient unit following initial assessment
+ 
+ 
+ 
+UEC04DGS2141111000
+Same Day Emergency Care service
+1077081000000104
+Streamed from emergency department to same day emergency care service following initial assessment.
+ 
+ 
+ 
+UEC04DGS2151111000
+Streamed to falls service
+1077091000000102
+Streamed from emergency department to falls service following initial assessment
+ 
+ 
+ 
+UEC04DGS2155111000
+Streamed to frailty service
+1077101000000105
+Streamed from emergency department to frailty service following initial assessment
+ 
+ 
+ 
+UEC04DGS2161111000
+Streamed to mental health service
+1077041000000107
+Streamed from emergency department to mental health service following initial assessment
+ 
+ 
+ 
+UEC04DGS2171111000
+Streamed to dental service
+1077051000000105
+Streamed from emergency department to dental service following initial assessment
+ 
+ 
+ 
+UEC04DGS2181111000
+Streamed to ophthalmology service
+1077061000000108
+Streamed from emergency department to ophthalmology service following initial assessment
+ 
+ 
+ 
+UEC04DGS2191111000
+Left before initial assessment
+1066301000000103
+Left care setting before initial assessment
+ 
+ 
+ 
+UEC04DGS3111111000
+Streamed to pharmacy service
+1077071000000101
+Streamed from emergency department to pharmacy service following initial assessment
+ 
+ 
+ 
+UEC04DGS5121111000
+Left after assessment with intent to attend other healthcare provider
+1066311000000101
+Left care setting after initial assessment
+ 
+ 
+ 
+UEC04DGS5141111000
+Left after assessment but before treatment complete (destination unknown)
+1066321000000107
+Left care setting before treatment completed
+ 
+ 
+ 
+UEC04DGS8111111000
+Dead on arrival
+63238001
+Dead on arrival at hospital
+ 
+ 
+ 
+UEC04DGS8121111000
+Died in the Emergency Care facility
+75004002
+Emergency room admission, died in emergency room
+ 
+ 
+ 
+ 
+
+

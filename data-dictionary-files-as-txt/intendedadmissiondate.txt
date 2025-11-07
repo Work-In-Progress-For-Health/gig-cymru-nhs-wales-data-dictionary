@@ -1,0 +1,23 @@
+Intended Admission Date
+Change History
+ 
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+PAP ds
+1st April 2013
+ 
+ 
+This is the date of the intended admission.
+ 
+Format: 8 digit numeric, CCYYMMDD.
+ 
+
+

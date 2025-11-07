@@ -1,0 +1,47 @@
+Birth Order
+Change History
+ 
+DSCN 2023 / 30
+Admitted Patient Care Data Set – Retirement of Maternity Tail Data Items
+DSCN 2016 / 02
+Maternity Indicators Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds
+1st April 1999
+30th June 2023
+NCCHD
+ 
+ 
+MI ds
+1st April 2016
+ 
+ 
+The order of the birth where more than one birth resulted from pregnancy.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+N
+Sequence number of birth (1-6)
+Pre 28th December 1995
+ 
+8
+Not applicable
+Pre 28th December 1995
+ 
+9
+Not known, a validation error
+1st May 1998
+20th January 2002
+ 
+
+

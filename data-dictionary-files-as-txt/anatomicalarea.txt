@@ -1,0 +1,215 @@
+Anatomical Area
+Change History
+ 
+DSCN 2010 / 09
+Revisions to Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+A list of parts of the human body.
+Notes:
+•     Up to 6 parts of the human body can be reported in this section of the data set.
+•     Where a physical injury has taken place, 'Diagnosis Type' and 'Anatomical Area' should have a 1-1 relationship e.g. Abrasion – Hand. .
+•     Where multiple body parts have been affected the value '501' should be used.
+•     Anatomical area also has a 1-1 relationship with Anatomical side.
+Format: 3 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+ 
+ 
+ 
+ 
+ 
+Head and Neck
+ 
+ 
+101
+Brain
+1st April 2009
+ 
+102
+Head
+1st April 2009
+ 
+103
+Face
+1st April 2009
+ 
+104
+Eye
+1st April 2009
+ 
+105
+Ear
+1st April 2009
+ 
+106
+Nose
+1st April 2009
+ 
+107
+Mouth, Jaw, Teeth
+1st April 2009
+ 
+108
+Throat
+1st April 2009
+ 
+109
+Neck
+1st April 2009
+ 
+ 
+Upper Limb
+ 
+ 
+201
+Shoulder
+1st April 2009
+ 
+202
+Axilla
+1st April 2009
+ 
+203
+Upper Arm
+1st April 2009
+ 
+204
+Elbow
+1st April 2009
+ 
+205
+Forearm
+1st April 2009
+ 
+206
+Wrist
+1st April 2009
+ 
+207
+Hand
+1st April 2009
+ 
+208
+Digit
+1st April 2009
+ 
+ 
+Trunk
+ 
+ 
+301
+Cervical spine
+1st April 2009
+ 
+302
+Thoracic
+1st April 2009
+ 
+303
+Lumbosacral spine
+1st April 2009
+ 
+304
+Pelvis
+1st April 2009
+ 
+305
+Chest
+1st April 2009
+ 
+306
+Breast
+1st April 2009
+ 
+307
+Abdomen
+1st April 2009
+ 
+308
+Back/buttocks
+1st April 2009
+ 
+309
+Ano/rectal
+1st April 2009
+ 
+310
+Genitalia
+1st April 2009
+ 
+ 
+Lower Limb
+ 
+ 
+401
+Hip
+1st April 2009
+ 
+402
+Groin
+1st April 2009
+ 
+403
+Thigh
+1st April 2009
+ 
+404
+Knee
+1st April 2009
+ 
+405
+Lower leg
+1st April 2009
+ 
+406
+Ankle
+1st April 2009
+ 
+407
+Foot
+1st April 2009
+ 
+408
+Toe
+1st April 2009
+ 
+ 
+ 
+ 
+ 
+ 
+Multiple Site
+ 
+ 
+501
+Multiple Site
+1st April 2009
+ 
+ 
+ 
+ 
+ 
+998
+Not Applicable – Anatomical Area Not Relevant
+1st April 2009
+ 
+999
+Anatomical Area Other or Unspecified
+1st April 2009
+ 
+ 
+
+

@@ -1,0 +1,23 @@
+Number of Previous Pregnancies
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the number of previous pregnancies resulting in one or more births (live or stillborn). Multiple births count as one. This is sometimes referred to as "parity".
+ 
+Format: 2 digit numeric
+Value
+Meaning
+NN
+Number of pregnancies (00 – 98)
+ 
+See Birth
+See Pregnancy: Total Previous Pregnancies
+ 
+
+

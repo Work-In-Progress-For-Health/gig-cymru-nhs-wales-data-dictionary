@@ -1,0 +1,42 @@
+Self-Management Pathway Type
+Change History
+ 
+DSCN 2024 / 01
+Self-Management Pathway Type
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP Ds
+1st January 2024
+
+ 
+For patients who have not been added to a Self-Management pathway, record value must be 04.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+Valid From
+Valid To
+01
+See on Symptom
+1st January 2024
+
+02
+Patient Initiated Follow-Up
+1st January 2024
+ 
+03
+Remote Monitoring
+1st January 2024
+ 
+04
+Not Applicable
+1st January 2024
+ 
+ 
+
+

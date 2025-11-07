@@ -1,0 +1,31 @@
+Maternal Care
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+The type of Maternal Care received.
+Values: -
+0
+Booked and delivered consultant led care
+1
+Booked Community Hospital
+2
+Booked and delivered Midwife Led Care (MLC)
+3
+Booked MLC (transferred antenatal)
+4
+Booked MLC (transferred in labour)
+5
+Booked MLC (transferred postnatal in maternal interest)
+6
+Booked MLC (transferred postnatal in infant interest)
+9
+Non Known
+ 
+
+

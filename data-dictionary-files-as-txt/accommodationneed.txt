@@ -1,0 +1,35 @@
+Accommodation Need
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The current accommodation need of the client.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+No Fixed Abode (NFA) – Urgent Housing Problem.
+For example, the client is currently living on the streets, uses hostel accommodation (on a night by-night basis) or is sleeping in different accommodation (e.g. the floor of a friends’ house) each night.
+02
+Housing problem.
+For example, the client is staying with friends / family as a short term guest, night winter shelter, direct access short stay hostel, short term B&B or is squatting.
+03
+No housing problem.
+For example, the client is staying in Local Authority / Register of Social Landlords (RSL) rented, privately rented, approved premises, supported housing accommodation, his own property and/or is settled with friends / family or is classed as a ‘traveller’.
+ 
+ 
+ 
+
+

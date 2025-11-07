@@ -1,0 +1,31 @@
+Unit Bed Configuration
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+The main composition of critical care bed types for the ward.
+Format: 2 character alpha-numeric
+Value
+Meaning
+02
+Level 2 beds only where patients require more detailed observation or intervention including support for a single failing organ system or post-operative care and those 'stepping down' from higher levels of care
+03
+Level 3 beds only where patients require advanced respiratory support alone or basic respiratory support together with support of at least two organ systems. This level includes beds for all complex patients requiring support for multi-organ failure
+05
+Flexible critical care beds where there is a mix of level 2 and level 3 beds
+90
+Temporary use of non critical care bed
+ 
+ 
+
+

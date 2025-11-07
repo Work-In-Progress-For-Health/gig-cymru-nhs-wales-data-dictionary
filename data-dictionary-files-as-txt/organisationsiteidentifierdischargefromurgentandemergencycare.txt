@@ -1,0 +1,13 @@
+Organisation Site Identifier (Discharge from Urgent and Emergency Care)  
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The organisation identifier of the healthcare facility to which a patient is discharged following an Urgent and Emergency Care activity.
+Format: minimum 5 character alpha numeric maximum 9 character alpha numeric
+
+ 
+
+

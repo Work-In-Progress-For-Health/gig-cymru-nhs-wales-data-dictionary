@@ -1,0 +1,29 @@
+Co-occurring Mental Health Issues
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client is currently receiving care from either primary or secondary mental health services (or assessed by mental health services as needing care) for reasons other than substance misuse, as stated by the client. 
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Client is currently receiving (or has been assessed as needing) care from Mental Health Services
+2
+Client is not currently receiving (or assessed as needing) care from Mental Health Services
+ 
+
+

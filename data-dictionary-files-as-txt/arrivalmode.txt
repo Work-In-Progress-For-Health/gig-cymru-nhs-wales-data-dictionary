@@ -1,0 +1,67 @@
+Arrival Mode
+Change History
+ 
+DSCN 2010 / 01
+Revisions to the Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+The principal means by which a patient arrives at an Accident and Emergency department.
+Format: 2 character numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Ambulance
+1st April 2009
+ 
+02
+Helicopter / Air Ambulance
+1st April 2009
+ 
+03
+Private Motorised Vehicles (Car/ Lorry/ Van/ Motorbike/ Scooter/ Moped etc.)
+1st April 2009
+ 
+04
+Private Non-Motorised Vehicles (Bicycle)
+1st April 2009
+ 
+05
+Public Transport (Bus/ Coach/ Train/ Taxi)
+1st April 2009
+ 
+06
+Walked
+1st April 2009
+ 
+07
+Police Car
+1st April 2009
+ 
+20
+Other
+1st April 2009
+ 
+98
+Not Applicable (Planned Follow-up)
+1st February 2010
+ 
+ 
+Notes:
+-      If the patient has been transported from a Heliport/pad to the Accident and Emergency Department by Ambulance, the arrival mode should still be recorded as '02' Helicopter/ Air Ambulance.
+-      Record value ’98 – Not Applicable (Planned Follow-Up)’ for patients attending the Accident and Emergency Department for a planned follow-up appointment.
+ 
+ 
+
+

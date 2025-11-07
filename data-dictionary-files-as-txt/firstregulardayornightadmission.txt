@@ -1,0 +1,41 @@
+First Regular Day or Night Admission
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This identifies the first attendance in a sequence of regular admissions.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+0
+first in a series
+1st May 1998
+ 
+1
+subsequent to first in a series
+1st May 1998
+ 
+8
+Not applicable
+1st May 1998
+ 
+9
+Date not known
+1st May 1998
+20th January 2002
+ 
+
+

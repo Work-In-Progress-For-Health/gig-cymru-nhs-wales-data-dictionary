@@ -1,0 +1,16 @@
+Intended Procedure Description
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+When an official classification code cannot be applied to the relevant data item 'Intended Procedure" (OPCS or READ)', this data item should be used for free-text entry to provide additional information. If an official classification has been submitted for the data item 'Intended Procedure" (OPCS or READ)', this field should be left blank.
+ 
+Format: maximum 255 character alphanumeric.
+ 
+
+

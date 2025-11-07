@@ -1,0 +1,25 @@
+Modality End Date
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The date when the treatment modality ended.
+ 
+Where a client cuts short a treatment modality (i.e. an unplanned exit), the date of the last face-to-face contact should be used.
+ 
+Format: CCYY-MM-DD.
+ 
+ 
+
+

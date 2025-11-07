@@ -1,0 +1,33 @@
+Pathway Start Date (Point of Suspicion of Cancer)
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+National Cancer Ds - Core
+ 
+ 
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The date when a clinician suspects that patient may have cancer and is the start point for the measurement of the 62-day Single Cancer Pathway. In some scenarios, the Date of Receipt of Cancer Referral and the Point of Suspicion of Cancer could be the same day. See Definitions document for pathway start date definitions http://www.walescanet.wales.nhs.uk/scp-key-documents.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

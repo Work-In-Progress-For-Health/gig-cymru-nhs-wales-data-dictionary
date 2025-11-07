@@ -1,0 +1,50 @@
+Triage Score
+Change History
+ 
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+8th November 2019
+ 
+ 
+Triage score is a number, that is assigned to the patient during their initial triage using
+the latest version of the Manchester triage scoring process. This is linked to the Triage Category.
+ 
+Format: 2 digit numeric
+ 
+ 
+Value
+Meaning
+Valid From
+Valid To
+01
+Immediate
+1st October 2019
+ 
+02
+Very Urgent
+1st October 2019
+ 
+03
+Urgent
+1st October 2019
+ 
+04
+Standard
+1st October 2019
+ 
+05
+Non-Urgent
+1st October 2019
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,14 @@
+Urgent and Emergency Care Assault Location Description
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This data item provides further comment and/or details of the location where an assault took place.
+Urgent and Emergency Care Assault Location Description may only be completed when the assault location is NOT a Home or Private Address, as this could identify the patient.
+Format: maximum 255 character alphanumeric
+ 
+
+

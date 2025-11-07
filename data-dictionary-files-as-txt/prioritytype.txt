@@ -1,0 +1,60 @@
+Priority Type
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2020 / 23
+Eye Care Prioritisation Measures (AMD)
+DSCN 2018 / 07
+Eye Care Prioritisation Measures
+DDCN 2014 / 04
+Priority Type (New Patients)
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN (2006) 02 (W)
+This change is to clarify the definition of the data item 'Priority Type' in the NHS Wales Data Dictionary and to instruct the Trusts to place 'soon' priorities into the 'urgent' category.
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+This describes the priority and response time of the referral of either clinical demand or service.
+For Outpatient data set:
+This is the priority of a request for services and is to be recorded for new attendances only, that is, where ‘Attendance Category’= 1. In the case of services to be provided by a Consultant, it is as assessed by or on behalf of the Consultant.
+For a Follow Up Attendance or a Pre-Operative Assessment Attendance, Priority Type must be blank.
+For RTT PTL data set: Where Stage of Pathway = 1 - ‘Priority Type’ is the priority given following initial triage upon receipt of referral. Where Stage of Pathway = 2, 3, or 4 – ‘Priority Type’ is the priority given at each subsequent stage of the pathway. Where this is unknown, the ‘Priority Type’ allocated at stage 1 should be carried forward.
+Note: Priority Type can be defined more precisely if this is needed for local purposes, as long as the classifications can be mapped back to the national ones. Appointments which have been classified as 'soon' locally must be defined as 'Urgent' in the datasets. This excludes Ophthalmology specialty (where the new clinical prioritisation process has been applied.)
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Routine
+1st April 1999
+ 
+2
+Urgent
+1st April 1999
+ 
+Ophthalmology speciality (where the new clinical prioritisation process has been applied)
+4
+Personalised Target
+1st September 2018
+ 
+ 
+
+

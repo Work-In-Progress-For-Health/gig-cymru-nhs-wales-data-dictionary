@@ -1,0 +1,11 @@
+Urgent and Emergency Care Extended Care Episode Identifier
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is a system-generated activity identifier which uniquely identifies an Urgent and Emergency Care Extended Care Episode within a Health Care Provider and Organisation Site Code (of Treatment).
+Format: min 1 character alpha-numeric, max  20 character alpha-numeric
+
+

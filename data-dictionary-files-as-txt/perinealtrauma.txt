@@ -1,0 +1,26 @@
+Perineal Trauma
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+Did the woman experience a 3rd or 4th degree tear during childbirth?
+ Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Yes
+2
+No
+8
+Not Applicable – e.g. caesarean section
+9
+Not Known
+ 
+
+

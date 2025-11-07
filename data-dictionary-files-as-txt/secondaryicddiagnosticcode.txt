@@ -1,0 +1,46 @@
+Secondary ICD Diagnostic Code
+Change History
+ 
+DSCN 2016 / 05
+The International Classification of Diseases Tenth Revision (ICD-10) 5th Edition
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+ 
+This is a classification of diseases, injuries and causes of death according to the 10th Revision of International Statistical Classification of Diseases and Health Related Problems (ICD10).
+Please note that a subsidiary field can be used for the recording of asterisk codes (when linked to the primary dagger code) or for external cause codes when linked to primary diagnosis.
+Any other secondary diagnosis is entered into the 1st, 2nd, 3rd secondary fields.
+ICD Version
+ Valid From
+ Valid To
+ICD-9
+ 
+ 30th September 1994
+ICD-10
+ 1st August 1994
+ 30th June 2012
+ICD-10 4th Edition
+ 1st July 2012
+ 31st March 2016
+ICD-10 5th Edition
+ 1st April 2016
+ 
+ 
+Format: 6 character alpha-numeric
+Value
+Meaning
+ANNXXX
+ICD10 code
+Spaces
+Not applicable
+ 
+ 
+
+

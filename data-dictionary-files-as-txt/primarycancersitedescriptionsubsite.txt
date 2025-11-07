@@ -1,0 +1,161 @@
+Primary Cancer Site Description (Sub Site)
+Change History
+ 
+DSCN 2023 / 45
+Suspected Cancer Pathway – Core
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The more granular list of 'sub site' of the primary cancer for which the patient is receiving care.
+Format: n3
+ 
+ 
+Primary site Value
+Primary site
+Sub site value
+Sub site
+01
+Head & Neck
+010
+Head & Neck
+011
+Thyroid
+099
+Unknown
+02
+Upper GI
+020
+Pancreas
+021
+Stomach
+022
+Oesophagus
+023
+Liver
+024
+Small Intestine
+025
+Biliary Tract
+098
+Other
+099
+Unknown
+03
+Lower GI
+030
+Anal
+031
+Colon
+032
+Rectum
+098
+Other
+099
+Unknown
+04
+Lung
+040
+Lung
+041
+Mesothelioma
+098
+Other
+099
+Unknown
+05
+Sarcoma
+000
+Sarcoma (No split)
+06
+Skin (exc BCC)
+050
+Melanoma
+051
+SCC
+098
+Other
+099
+Unknown
+07
+Brain/CNS
+000
+Brain (No split)
+08
+Breast
+000
+Breast (No split)
+09
+Gynaecological
+060
+Endometrium
+061
+Cervix
+062
+Ovary/Primary Peritoneal
+063
+Vulva
+098
+Other
+099
+Unknown
+10
+Urological
+070
+Prostate
+071
+Bladder
+072
+Renal
+073
+Testis
+074
+Penile
+098
+Other
+099
+Unknown
+11
+Haematological (exc Acute Leukaemia)
+080
+Leukaemia
+081
+Lymphoma
+082
+Myeloma
+098
+Other
+099
+Unknown
+12
+Acute Leukaemia
+000
+Acute Leukaemia
+13
+Children’s
+000
+Children’s
+14
+Unknown Primary
+000
+Unknown Primary
+98
+Other
+000
+Other
+ 
+
+

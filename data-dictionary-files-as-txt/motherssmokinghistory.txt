@@ -1,0 +1,25 @@
+Mother's Smoking History
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This is the history of the cigarette smoking habit of the mother.
+Values are:-
+0
+Non-smoker
+1
+Gave up in pregnancy
+2
+0-9 a day
+3
+10 or more a day
+9
+Not known
+ 
+
+

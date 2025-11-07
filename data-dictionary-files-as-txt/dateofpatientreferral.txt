@@ -1,0 +1,34 @@
+Date of Patient Referral
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN (2008) 05 (W)
+Outpatient Referral Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OPR ds
+1st July 2008
+ 
+ 
+This is the date on which the patient was told about the referral. The starting point should be the date of referral given on the referral notification (not the date the letter was received in hospital). In cases where the referrer fails to specify a date of referral, the date the referral notification was received should be used.
+Dates to be used;
+  Date the patient is told about the referral
+  Date on referral notification
+  Date of receipt of referral notification (only to be used where no date on document present)
+  Date of verbal referral – For verbal referrals, the date of referral is equal to the date on which the verbal request is received. This date must be documented; any follow up written referral documentation will not affect the verbal date of referral.
+  Where a patient self refers, the date of referral is equal to the date of attendance.
+Format: 8 digit numeric, ccyymmdd
+ 
+
+

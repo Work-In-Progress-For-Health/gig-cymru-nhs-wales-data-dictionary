@@ -1,0 +1,22 @@
+First Letter of Forename
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The first letter of the client’s first forename. For example, “M” where the forename is Mary.
+ 
+Format: 1 alpha character
+ 
+
+

@@ -1,0 +1,157 @@
+Reason
+Change History
+ 
+DSCN 2023 / 01
+Pathways of Care Delays Data Set
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Pathways of Care Delays Data Set
+1st February 2023
+ 
+ 
+References the different pathways within Discharge to Recover then Assess.
+ 
+Format:   7 Character alpha numeric
+ 
+  0.0
+None
+ 
+ 
+1.01
+ Assessment issues
+1.01.01
+ Awaiting Social worker allocation
+1.01.02
+ Awaiting completion of assessment
+1.01.03
+ Awaiting completion of assessment Nursing/AHP/Medical/Pharmacy
+1.01.04
+ Awaiting Continuing Healthcare (CHC) Assessment
+1.01.05
+ Awaiting joining assessment
+1.01.06
+ Assessment through the language of choice
+ 
+ 
+1.02
+ Transfer related issues
+1.02.01
+ Awaiting transfer to intermediate care bedded facility
+1.02.02
+ Awaiting community-based health provision D/N, CPN
+1.02.03
+ Awaiting integrated health /social care community provision
+1.02.04
+Awaiting hospital arranged transport
+ 
+ 
+2.01
+ Funding issues
+2.01.01
+ Awaiting funding decision
+2.01.02
+ Awaiting funding decision FNC/CHC
+2.01.03
+Awaiting joint funding decision
+ 
+ 
+2.02
+Home adaptation/equipment issues
+2.02.01
+ Awaiting completion of assessment/provision for equipment
+2.02.02
+Awaiting completion of assessment/provision for equipment
+2.02.03
+Awaiting completion of adaptations (DFG's)
+2.02.04
+Awaiting provision of telecare and /or telehealth equipment
+2.02.05
+Awaiting provision of medicine management dispensing equipment/support
+ 
+ 
+2.03
+Home care related issues
+2.03.01
+Awaiting start of new home care package
+2.03.02
+Awaiting restart of previous home care package
+2.03.03
+ Awaiting Domiciliary care package self-funding
+ 
+ 
+2.04
+Step down to recover and assess
+2.04.01
+Awaiting reablement care package
+2.04.02
+Awaiting Community Resource capacity
+ 
+ 
+2.05
+Disagreements/Disputes
+2.05.01
+ Patient / family choice related issues
+2.05.02
+Patient/ family dispute CHC outcome
+2.05.03
+Patient / family refusing to participate in financial assessment
+2.05.04
+ Patient / family refusing to move to next stage of care/ discharge
+2.05.05
+Disputes between agencies
+2.05.06
+Intervention by patient's(lawyer) legal representation
+2.05.07
+Mental Capacity / Court of Protection delays
+2.05.08
+ Safeguarding issues impacting discharge arrangements
+ 
+ 
+3.01
+Care Home placement arrangements
+3.01.01
+ Awaiting completion of arrangements prior to placement
+3.01.02
+Awaiting care home manager to visit and assess (Standard 3 residential)
+3.01.03
+Awaiting Nursing care home manager to visit and assess (Standard 3 nursing)
+3.01.04
+ Awaiting nursing/residential home self-funding
+3.01.05
+ Awaiting RH availability
+3.01.06
+Awaiting NH availability
+3.01.07
+ Awaiting EMI Residential availability
+3.01.08
+Awaiting EMI Nursing availability
+3.01.09
+Awaiting Specialist bed availability
+ 
+ 
+3.02
+NHS Bed related issues
+3.02.01
+Awaiting Mental Health bed
+3.02.02
+Awaiting palliative care specialist bed
+3.02.03
+Awaiting palliative care POC
+3.02.04
+Awaiting palliative care home
+3.02.05
+Awaiting Learning Disability Bed
+ 
+ 
+3.03
+Housing related issues
+3.01.01
+Homeless
+3.03.02
+No suitable abode
+ 
+
+

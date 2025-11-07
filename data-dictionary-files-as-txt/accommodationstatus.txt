@@ -1,0 +1,119 @@
+Accommodation Status
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This is the SNOMED CT concept ID which is used to identify the details of the accommodation that the person is currently living in.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Accommodation Status
+ 
+SNOMED CT Refset : Emergency care usual residence type simple reference set
+ 
+WECDS UniqueID
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04ACS1111111000
+Usual stable accommodation e.g. home / flat
+414418009
+Housed
+Includes: house, farmhouse, apartment/ flat, permanent place of residence, rented or owned Excludes: Abandoned or derelict house, boarding house, hotel, caravan park, refuge, squat, homeless hostel, sofa surfing, institutional place of residence
+UEC04ACS1111111000
+Usual stable accommodation e.g. home / flat
+UEC04ACS2111111000
+Warden controlled accommodation
+224221006
+Lives in warden controlled accommodation
+Includes: warden-controlled home with intermittent welfare checks Excludes: residential / nursing home with continuous dedicated staffing
+UEC04ACS2111111000
+Warden controlled accommodation
+UEC04ACS2121111000
+Residential institution WITHOUT routine nursing care
+394923006
+Lives in a residential home
+Includes: residential home, old people’s home, monastery, children’s home, long term residential home placements Excludes: hospital, nursing home, hospice, psychiatric hospital
+UEC04ACS2121111000
+Residential institution WITHOUT routine nursing care
+UEC04ACS2131111000
+Residential institution WITH routine nursing care
+160734000
+Lives in a nursing home
+Includes: nursing home, care home, hospice Excludes: hospital, residential home, psychiatric hospital
+UEC04ACS2131111000
+ 
+UEC04ACS2141111000
+Medical area
+224225002
+Lives in hospital
+Includes: hospital, psychiatric hospital (long term) Excludes: hospice, nursing home
+UEC04ACS2141111000
+Medical area
+UEC04ACS6111111000
+Lives in residential hostel homeless
+266939009
+Lives in residential hostel
+Includes: Anyone living in a single room in a shared hostel. Examples: Homeless hostel. Bail hostel. Women’s refuge. Immigration hostel. Excludes: People who live in a night shelter (where they have no access to accommodation during the day). Rough sleeping. Sofa surfing. Boarding house, Backpackers, hotel, caravan park, squat, temporary accommodation provided by local authority
+UEC04ACS6111111000
+Lives in residential hostel homeless
+UEC04ACS6121111000
+Homeless in night shelter
+224231004
+Sleeping in night shelter
+Includes: night shelter, homeless shelter, emergency housing Excludes: sleeping rough
+UEC04ACS6121111000
+Homeless in night shelter
+UEC04ACS6131111000
+Housing instability patient has temporary or unstable accommodation
+1156191002
+Housing instability
+Includes: boarding house, Backpackers, hotel, caravan park, squat, temporary accommodation provided by local authority, military camp, prison Excludes: house, farmhouse, non-institutional place of residence, apartment/ flat, permanent place of residence, homeless hostel
+UEC04ACS6131111000
+ 
+UEC04ACS6141111000
+Sofa surfer person of no fixed abode sofa surfing
+381751000000106
+Sofa surfer - person of no fixed abode
+Includes: anyone sleeping temporarily in the accommodation of a family member, friend or acquaintance where they have no formal tenancy or right to live in that accommodation permanently. The person does not need to sleep on a sofa – they could be sleeping anywhere in the accommodation. Excludes: people with any form of tenancy or current right to sleep in any form of accommodation. People who state they are on holiday. Rough sleeping. Homeless hostel.
+UEC04ACS6141111000
+Sofa surfer person of no fixed abode sofa surfing
+UEC04ACS6151111000
+Homeless without accommodation
+32911000
+Homeless
+Includes: anyone perceived to be homeless who does not fit into the above categories (please try to use the above categories first)
+UEC04ACS6151111000
+ 
+UEC04ACS6161111000
+Sleeping rough out
+224229008
+Sleeping out
+Includes: people sleeping on the street, in parks, in cars, on buses, in bus /train stations or airports or in settings open 24 hours such as fast-food restaurants. Excludes: people who have any form of accommodation with a bed where they can sleep at night. People sleeping in boats, caravans or campervans. People in night shelters. Sofa surfing.
+UEC04ACS6161111000
+ 
+UEC04ACS9111111000
+Usual accommodation not given : patient refused
+1064831000000106
+Declines to provide accommodation details
+Includes: any situation where the patient can physically answer questions but refuses to answer this question.
+UEC04ACS9111111000
+ 
+UEC04ACS9121111000
+Usual accommodation not given : patient physically unable
+1064841000000102
+Unable to provide accommodation details
+Includes: only in a situation when the patient physically is unable to respond e.g. unconscious and not able to establish by other means
+UEC04ACS9121111000
+ 
+ 
+
+

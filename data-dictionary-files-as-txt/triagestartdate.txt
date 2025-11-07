@@ -1,0 +1,22 @@
+Triage Start Date
+Change History
+ 
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+8th November 2019
+ 
+ 
+Triage Start Date is the date that the patient is first assessed for first attendances and any unplanned follow-up attendances.
+Triage is conducted by a clinical professional who has received appropriate training.
+Format: ccyymmdd
+ 
+ 
+
+

@@ -1,0 +1,26 @@
+Maternal Weight at 36-38 weeks or onset of labour
+Change History
+ 
+DSCN 2020 / 02
+Maternity Indicators Data Set (AMD)
+DSCN 2016 / 02
+Maternity Indicators Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The weight of the woman (in kg, to the nearest 100g), as measured at 36-38 weeks, or at onset of labour. The aim is that the information relates to a point as late in the pregnancy as is practically possible.
+ 
+Format: 5 character alphanumeric – nnn.n
+ 
+e.g. 82.5, 102.7
+ 
+ 
+
+

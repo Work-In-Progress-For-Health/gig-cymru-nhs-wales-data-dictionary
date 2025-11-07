@@ -1,0 +1,187 @@
+Admission Method
+Change History
+
+DSCN 2024 / 09
+APC – Admission Method
+DSCN 2017 / 07
+Admitted Patient Care Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2006) 03 (W)
+Recording and Reporting of the 2nd Offer Scheme
+DSCN 38/01 (W) Amdt
+Subject: The addition of new codes in Method of Admission, Referrer Code and Referring Organisation for emergency patients admitted via the NHS direct service
+DSCN 38/01 (W)
+Subject: The addition of new codes in Method of Admission, Referrer Code and Referring Organisation for emergency patients via the NHS direct service
+DSCN 04/01 (W)
+Data Standards: Minor Changes and Corrections
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the method of admission to a hospital provider spell.  A detailed definition of elective admission is given in Terms (A-Z) – Admission.
+Format: 2 digit numeric
+Value
+Meaning
+Description
+Valid From
+Valid To
+Elective Admission
+(Not including transfer from other hospital provider, when the decision to admit could be separated in time from the actual admission)
+ 
+
+ 
+11
+Waiting list
+Patients admitted from an elective admission list when the facilities to carry out the treatment were not available and a bed could not be booked at the time.
+Pre 28th December 1995
+ 
+12
+Booked
+Patients admitted having been given a date for admission at the time of the consultation and the bed is booked at the same time for the patient.
+Pre 28th December 1995
+ 
+13
+Planned
+Patients admitted having been given a date when it was confirmed by the clinician that the patient is for medical reasons now able to receive the further planned treatment. This method is used following a first elective treatment, or an emergency treatment, if further planned elective treatment is required e.g. check cystoscopies, endoscopies, laser treatments.
+Pre 28th December 1995
+ 
+14
+Activity under the Welsh Assembly Government 2nd Offer Scheme (Originating Provider)
+N/A
+1st April 2006
+31st March 2017
+15
+Activity under the Welsh Assembly Government 2nd Offer Scheme (Receiving Provider)
+N/A
+1st April 2006
+31st March 2017
+Emergency Admission
+
+ 
+
+ 
+21
+Emergency Department or dental casualty department of the health care provider
+Patients admitted to hospital for urgent care. This includes Emergency Department, Minor Injury Unit or Dental casualty departments.
+Pre 28th December 1995
+ 
+22
+GP: after a request for immediate admission has been made direct to a hospital provider by a General Practitioner or deputy
+Patients admitted for urgent care as a result of attending an appointment with a General Practitioner (Doctor, Dentist or Optometrist).
+Pre 28th December 1995
+ 
+23
+Bed bureau
+N/A
+Pre 28th December 1995
+1st April 2024
+24
+Consultant clinic of this or another health care provider
+Patient requiring urgent admission following attendance of a consultant clinic or independent nurse led clinic of current health care provider.
+Pre 28th December 1995
+ 
+25
+Domiciliary visit by Consultant
+Patient admitted to hospital for urgent care following a visit to the patients place of residence by a health care professional (or clinician).
+Pre 28th December 1995
+Reinstated 1st May 1998
+30th June 1997
+26
+GP Out of Hours Service
+Patients admitted for urgent care as a result of attending an out of hours appointment with a clinician.
+1st April 2024
+ 
+27
+Via 111 Services
+Patients identified as in need of admission to hospital for urgent care as a result of a call to 111.
+1st September 2001
+
+28
+Other means, including admitted from the Emergency department of another provider where they had not been admitted
+This will include (but is not limited to) patients admitted from an Emergency Department or Minor Injury Unit of another provider where the patient had not been admitted.
+Pre 28th December 1995
+
+Maternity Admission
+
+ 
+
+
+31
+Admitted ante-partum
+An admission of a pregnant woman to a maternity ward (including delivery facilities) except when the intention is to terminate pregnancy.
+Pre 28th December 1995
+
+32
+Admitted post-partum
+An admission of a recently pregnant woman to a maternity ward (including delivery facilities).
+Pre 28th December 1995
+
+ 
+
+ 
+
+
+Other
+
+ 
+
+
+81
+Transfer of any admitted patient from other hospital provider.  May be used for an elective or emergency transfer from other hospital provider.
+N/A
+Pre 28th December 1995
+1st April 2024
+82
+The birth of a baby in this health care provider
+Baby born in hospital (in this health care provider).
+Pre 28th December 1995
+
+83
+Baby born outside the health care provider (except when born at home as intended.  In this case the baby is an emergency admission.  e.g. if midwife's decision to admit the baby use Admission Method 28)
+Maternity admission following birth of the baby occurring outside of the health care provider (other than where a home birth was intended)
+Pre 28th December 1995
+
+84
+Transfer to GP Care
+Patients transferred to the care of a GP in a community hospital.
+1st April 2024
+ 
+85
+Elective transfer of an admitted patient from other hospital provider
+Transfer of an admitted patient from other hospital provider where the original admission (to the other health board) was elective and/or the transfer is not time critical.
+1st April 2024
+ 
+86
+Emergency Transfer of an admitted patient from other hospital provider
+Transfer of an admitted patient from another hospital provider where the original admission (to the other health board) was an emergency and/or it is deemed that the patient needs to be transferred urgently for ongoing treatment.
+1st April 2024
+ 
+87
+Transfer from GP Care
+Patients transferred from a GP in a community hospital into an acute setting (reverse of code 84 – Transfer to GP Care).
+1st April 2024
+ 
+98
+Not Applicable
+ 
+1st May 1998
+20th January 2002
+99
+Not Known
+ 
+Pre 28th December 1995
+20th January 2002
+See Originating Provider
+See Receiving Provider
+ 
+ 
+ 
+
+

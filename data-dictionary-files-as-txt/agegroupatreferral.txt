@@ -1,0 +1,44 @@
+Age Group at Referral
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2021 / 20
+Diagnostic & Therapy Services and Referral to Treatment Waiting Times Returns - Age Group
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+DATS
+31st October 2021
+ 
+RTT (Combined)
+31st October 2021
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+Is the age group that applies to the age of the patient at the time the referral is made into secondary care. For open pathways the appropriate age group should be recorded. For all closed pathways the Value 99 Not Known/Not Recorded should be used.
+For users calculating the age group based on age in days, use the formula:  Days ÷ 365.25
+Format: 2 character alpha numeric
+ 
+ 
+Value
+Meaning
+01
+<16 years
+This includes patients up to, but not including, their 16th birthday
+02
+16 & 17 years
+This includes patients on their 16th birthday up to, but not including, their 18th birthday
+03
+=>18 years
+This includes patient on their 18th birthday and older
+99
+Not Known/Not Recorded
+ 
+
+

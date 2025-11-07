@@ -1,0 +1,20 @@
+Urgent and Emergency Care Injury Date and Time
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The date and time that the patient was injured.
+ 
+Where this information cannot be obtained directly from the patient (or patient proxy) the injury date and time should be estimated.
+ 
+Format: 19 character alpha-numeric YYYY-MM-DDThh:mm:ss
+ 
+To avoid confusion, if the injury occurs at midnight the time recorded should never be 00:00, it should always be either 23:59 or 00:01.
+ 
+ 
+ 
+
+

@@ -1,0 +1,600 @@
+Main Specialty (Consultant)
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2021 / 02
+Inpatient and Day Case Admissions and First Outpatient Appointments Waiting Times (PP01W) Data Set - Retirement
+DSCN 2020 / 31
+National Cancer Data Standards for Wales – Systemic Anti-Cancer Therapy (SACT)
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2014 / 07
+Main Specialty (Consultant)
+DDCN 2013 / 14
+Appendix A – Specialty Codes
+DDCN 2013 / 12
+Definition of ‘Main Specialty (consultant)’
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DDCN 2011 / 02
+Angiogram Waiting Time & Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 12
+Referral to Treatment Patient Tracking Report.
+DSCN 2010 / 07
+Admitted Patient Care Minimum Data Set (APC MDS) Data Validity Standards
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update.
+DSCN (2008) 08 (W)
+Referral to Treatment Patient Tracking Report.
+DSCN (2007) 13 (W)
+To remove waits for certain diagnostic endoscopies from the waiting times data collection for inpatient and day case admissions and first outpatient appointments (PP01W).
+DSCN (2007) 08 (W)
+To Provide Guidance on the Reporting Structure for the Referral to Treatment Times Reporting Requirements.
+DSCN (2006) 05 (W)
+Rename Data Item 'Consultant Specialty Function Code' and Specialty Function Code'
+(This data item was formerly known as ‘Specialty Function Code’ with the new title being implemented from 15th May 2006)
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+RTT
+1st April 2007
+31st August 2011
+PP01W
+ 
+8th February 2021
+OPR ds
+1st July 2008
+ 
+RTT-PTR
+1st September 2008
+30th September 2009
+National Cancer Ds – Core
+ 
+ 
+National Cancer Ds - SACT
+ 
+ 
+ 
+A unique code identifying each Main Specialty designated by Royal Colleges.
+Specialties are divisions of clinical work which may be defined by body systems (dermatology), age (paediatrics), clinical technology (nuclear medicine), clinical function (rheumatology), group of diseases (oncology) or combinations of these factors. Only Specialty titles recognised by the Royal Colleges and Faculties should be used. This list is maintained by the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 and European Primary and Specialist Dental Qualifications Regulations 1998.
+Each consultant should be assigned a Main Specialty by the organisation to which the consultant is contracted. For physicians and surgeons with a generalist component to their work, the Main Specialty should be general medicine or general surgery. The hallmark of a general physician or general surgeon is the continued care of unselected emergency referrals. The Main Specialty is specific to a Health Care Provider. If, for example, a consultant physician working in two Health Care Providers has a generalist component to the work in one and not the other, general medicine is only assigned as the Main Specialty in the former case. Consultants in general medicine or general surgery may also have specialist interests and these should be recorded as well as the Main Specialty.
+The initial source of the information should be the designation on the consultant's contract. This should be checked periodically against the work a consultant is actually doing so that the statistics can relate to a consultant's current type of work.
+The Main Specialty only should be used for the purpose of producing Specialty costing statistics and for Workforce statistics where links with activity and finance are required. Other specialist interests of consultants may be recorded for workforce planning purposes.
+The Main Specialty code for general practitioners is General Medical Practice or General Dental Practice.
+Joint Consultant Clinic activity should be recorded against the Main Specialty code of the consultant managing the clinic.
+Where the response for data item (Consultation method) is
+•     Virtual Clinical Review (Non-Patient Contact), record the main specialty of the lead consultant
+ 
+Format: 3 digit numeric
+ 
+Code
+Main Specialty Title
+Valid From
+Valid To
+Comments
+Surgical Specialties
+ 
+ 
+100
+General Surgery
+Pre 28th December 1995
+
+For further information, see: Royal College of Surgeons - General Surgery
+101
+Urology
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Urology
+107
+Vascular Surgery
+24th January 2022
+ 
+ 
+For further information, see: Royal College of Surgeons - Vascular Surgery
+110
+Trauma and Orthopaedics
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Orthopaedic Surgery
+120
+Ear Nose and Throat
+Pre 28th December 1995
+ 
+Formerly known as ENT. For further information, see: Royal College of Surgeons - Ear, Nose and Throat (ENT)
+130
+Ophthalmology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Ophthalmologists
+140
+Oral Surgery
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Oral and Maxillofacial Surgery
+141
+Restorative Dentistry
+Pre 28th December 1995
+ 
+For further information, see: The British Society for Restorative Dentistry (BSRD)
+142
+Paediatric Dentistry
+Pre 28th December 1995
+ 
+For further information, see: The British Society of Paediatric Dentistry
+143
+Orthodontics
+Pre 28th December 1995
+ 
+For further information, see: British Orthodontic Society
+145
+Oral and Maxillofacial Surgery
+1st April 2015
+ 
+For further information, see: Royal College of Surgeons - Oral and Maxillofacial Surgery
+146
+Endodontics
+1st April 2015
+ 
+For further information, see: British Endodontic Society
+147
+Periodontics
+1st April 2015
+ 
+For further information, see: British Society of Periodontology
+148
+Prosthodontics
+1st April 2015
+ 
+For further information, see: The British Society of Prosthodontics (BSSPD)
+149
+Surgical Dentistry
+1st April 2015
+ 
+For further information, see: Royal College of Surgeons - Faculty of Dental Surgery (FDS)
+150
+Neurosurgery
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Neurosurgery
+160
+Plastic Surgery
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Plastic and Reconstructive
+170
+Cardiothoracic Surgery
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Cardiothoracic Surgery
+171
+Paediatric Surgery
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Surgeons - Paediatric Surgery
+Medical Specialties
+ 
+ 
+1801
+Emergency Medicine
+Pre 28th December 1995
+ 
+Formerly known as Accident and Emergency. For further information, see: The Royal College of Emergency Medicine
+190
+Anaesthetics
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Anaesthetists
+192
+Intensive Care Medicine
+1st April 2015
+ 
+Formerly known as Critical Care Medicine. For further information, see: The Faculty of Intensive Care Medicine
+200
+Aviation and Space Medicine
+24th January 2022
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Aviation and Space Medicine
+300
+General Internal Medicine
+Pre 28th December 1995
+ 
+Formerly known as General Medicine. For further information, see: Joint Royal Colleges of Physicians Training Board - General Internal Medicine (GIM)
+301
+Gastroenterology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Gastroenterology
+302
+Endocrinology and Diabetes
+Pre 28th December 1995
+ 
+Formerly known as Endocrinology. For further information, see: Joint Royal Colleges of Physicians Training Board - Endocrinology and Diabetes Mellitus
+303
+Clinical Haematology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Haematology
+304
+Clinical Physiology
+Pre 28th December 1995
+ 
+For further information, see: The Registration Council for Clinical Physiologists
+305
+Clinical Pharmacology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Clinical Pharmacology and Therapeutics (CPT)
+310
+Audio Vestibular Medicine
+Pre 28th December 1995
+ 
+Formerly known as Audiological Medicine. For further information, see: Joint Royal Colleges of Physicians Training Board - Audio vestibular Medicine
+311
+Clinical Genetics
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Clinical Genetics
+313
+Clinical Immunology
+Pre 28th December 1995
+ 
+Formerly known as Clinical Immunology and Allergy. For further information, see: Joint Royal Colleges of Physicians Training Board - Immunology
+314
+Rehabilitation Medicine
+Pre 28th December 1995
+ 
+Formerly known as Rehabilitation. For further information, see: Joint Royal Colleges of Physicians Training Board - Rehabilitation Medicine
+315
+Palliative Medicine
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Palliative Medicine
+317
+Allergy
+24th January 2022
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Allergy
+320
+Cardiology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Cardiology
+321
+Paediatric Cardiology
+1st April 2015
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Paediatric Cardiology
+325
+Sport and Exercise Medicine
+1st April 2015
+ 
+For further information, see: Faculty of Sport and Exercise Medicine
+326
+Acute Internal Medicine
+1st April 2015
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Acute Internal Medicine
+330
+Dermatology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Dermatology
+340
+Respiratory Medicine
+Pre 28th December 1995
+ 
+Also known as Thoracic Medicine. For further information, see: Joint Royal Colleges of Physicians Training Board - Respiratory Medicine
+350
+Infectious Diseases
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Infectious Diseases and Tropical Medicine
+352
+Tropical Medicine
+1st April 2015
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Infectious Diseases and tropical Medicine
+360
+Genitourinary Medicine
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Genitourinary Medicine
+361
+Renal Medicine
+Pre 28th December 1995
+ 
+Formerly known as Nephrology. For further information, see: Joint Royal Colleges of Physicians Training Board - Renal Medicine
+370
+Medical Oncology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Medical Oncology
+371
+Nuclear Medicine
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Nuclear Medicine
+400
+Neurology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Neurology
+401
+Clinical Neurophysiology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Clinical Neurophysiology
+410
+Rheumatology
+Pre 28th December 1995
+ 
+For further information, see: British Society for Rheumatology
+420
+Paediatrics
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Paediatrics and Child Health - General Paediatrics
+421
+Paediatric Neurology
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Paediatrics and Child Health - Neurology
+430
+Geriatric Medicine
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Geriatric Medicine
+450
+Dental Medicine
+Pre 28th December 1995
+ 
+Formerly known as Dental Medicine Specialties. For further information, see: Royal College of Surgeons - Faculty of Dental Surgery (FDS)
+451
+Special Care Dentistry
+1st April 2015
+ 
+For further information, see: Special Care Dentistry Association (SCDA)
+460
+Medical Ophthalmology
+Pre 28th December 1995
+ 
+For further information, see: Joint Royal Colleges of Physicians Training Board - Medical Ophthalmology
+500
+Obstetrics and Gynaecology
+1st April 2015
+ 
+For further information, see: Royal College of Obstetricians and Gynaecologists
+501
+Obstetrics
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Obstetricians and Gynaecologists
+502
+Gynaecology
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Obstetricians and Gynaecologists
+504
+Community Sexual and Reproductive Health
+1st April 2015
+ 
+For further information, see: Faculty of Sexual & Reproductive Healthcare of the Royal College of Obstetricians & Gynaecologists
+600
+General Medical Practice
+1st April 2015
+ 
+For further information, see: Royal College of General Practitioners
+601
+General Dental Practice
+1st April 2015
+ 
+For further information, see: Royal College of Surgeons - Faculty of Dental Surgery (FDS)
+8311
+Medical Microbiology and Virology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists - Medical Microbiology and The Royal College of Pathologists - Virology
+8331
+Medical Microbiology
+1st April 2015
+ 
+Also known as Microbiology and Bacteriology. For further information, see: The Royal College of Pathologists - Medical Microbiology
+8341
+Medical Virology
+1st April 2015
+ 
+For further information, See: The Royal College of Pathologists - Medical Virology
+Mental Health
+ 
+ 
+700
+Learning Disability
+Pre 28th December 1995
+ 
+Also known as Intellectual Disability. For further information, see: Royal College of Psychiatrists - Faculty of the Psychiatry of Intellectual Disability and British Institute of Learning Disabilities
+710
+Adult Mental Illness
+Pre 28th December 1995
+ 
+ 
+711
+Child and Adolescent Psychiatry
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Psychiatrists - Faculty of Child and Adolescent Psychiatry
+712
+Forensic Psychiatry
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Psychiatrists - Faculty of Forensic Psychiatry
+713
+Medical Psychotherapy
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Psychiatrists - Faculty of Medical Psychotherapy
+715
+Old Age Psychiatry
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Psychiatrists - Faculty of Old Age Psychiatry
+Other
+ 
+ 
+5601
+Midwifery
+Pre 28th December 1995
+ 
+Formerly known as Midwife Episode. For further information, see: Royal College of Midwives
+8001
+Clinical Oncology
+Pre 28th December 1995
+ 
+Formerly known as Radiotherapy. For further information, see: The Royal College of Radiologists - Clinical Oncology
+8101
+Radiology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Radiologists (RCR)
+8201
+General Pathology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists
+8211
+Blood Transfusion
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists - Blood Transfusion
+8221
+Chemical Pathology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists
+8231
+Haematology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists - Haematology
+8241
+Histopathology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists - Histopathology
+8301
+Immunopathology
+Pre 28th December 1995
+ 
+For further information, see: The Royal College of Pathologists - Immunology
+900
+Community Medicine
+Pre 28th December 1995
+ 
+For further information, see: Faculty of Public Health
+901
+Occupational Medicine
+Pre 28th December 1995
+ 
+For further information, see: Royal College of Physicians - Faculty of Occupational Medicine
+902
+Community Health Services Dental
+1st April 2015
+ 
+For further information, see: Faculty of Public Health
+903
+Public Health Medicine
+1st April 2015
+ 
+For further information, see: Faculty of Public Health
+904
+Public Health Dental
+1st April 2015
+ 
+For further information, see: GOV.uk - Oral Health
+950
+Nursing
+Pre 28th December 1995
+ 
+Formerly known as Nursing Episode. For further information, see: Nursing & Midwifery Council
+960
+Allied Health Professional
+1st April 2015
+ 
+Formerly known as Allied Health Professional Episode. For further information, see: Health and Care Professions Council
+ 
+ 
+Specialty Codes can be viewed through the following link to the Welsh Reference Data Service (WRDS Website): WRDS (wales.nhs.uk)
+ 
+ 
+ 
+Notes:
+ 
+1  Main Specialty codes which have changed sections within the Main Specialty table.
+ 
+ 
+ 
+Retired
+ 
+Code
+Main Specialty Title
+Valid From
+Valid To
+191
+Pain Management
+Pre 28th December 1995
+31st March 2015
+199
+Non-UK provider; specialty function not know, treatment mainly surgical (only applicable for overseas providers)
+Pre 28th December 1995
+31st March 2015
+312
+Clinical Cytogenetics and Molecular Genetics
+Pre 28th December 1995
+31st March 2015
+499
+Non-UK provider: specialty function not known, treatment mainly medical (only applicable for overseas providers)
+Pre 28th December 1995
+31st March 2015
+510
+Obstetrics – AN (outpatients)
+Pre 28th December 1995
+31st March 2015
+520
+Obstetrics - PN (outpatients)
+Pre 28th December 1995
+31st March 2015
+610
+GP Maternity
+Pre 28th December 1995
+31st March 2015
+620
+GP Other
+Pre 28th December 1995
+31st March 2015
+832
+Neuropathology
+Pre 28th December 1995
+31st March 2015
+990
+Joint Consultant Clinics
+Pre 28th December 1995
+31st March 2015
+ 
+ 
+
+

@@ -1,0 +1,40 @@
+Critical Care Discharge Destination
+Change History
+ 
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is the primary organisation type that the patient has been discharged to at the end of the Critical Care Period.
+It must be completed when the Critical Care Discharge Date is recorded.
+ 
+Format: 2 digit numeric
+Value
+Meaning
+01
+Same NHS hospital site
+03
+Independent Hospital Provider in the UK
+04
+Non-hospital destination within the UK (e.g. home as coded in Location)
+05
+Non United Kingdom destination (e.g. repatriation)
+06
+No discharge destination, patient died in unit
+51
+Other NHS hospital site (same Local Health Board)
+52
+Other NHS hospital site (different Local Health Board)
+ 
+
+

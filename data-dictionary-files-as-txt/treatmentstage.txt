@@ -1,0 +1,33 @@
+Treatment Stage
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The stage of treatment at which the TOP interview is undertaken.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Treatment Start Outcome Profile
+02
+Review Treatment Outcome Profile
+03
+Treatment Exit Outcome Profile
+04
+Post Treatment Exit Profile
+ 
+
+

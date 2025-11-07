@@ -1,0 +1,31 @@
+Mental Health Care Plan
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+To establish whether the woman has had a Mental Health Care Plan put in place within 4 weeks following the initial assessment.
+ 
+A Mental Health Care and Treatment plan will:
+ 
+a)  Be developed by a care coordinator in consultation with the service users and mental health providers (although the plan may be developed without the input of the patient where the outcomes cannot be agreed between all parties);
+b)  Record the outcomes that the provision of mental health services for the relevant patient are designed to achieve;
+c)  List these outcomes, record the services and/or actions that are to be provided to achieve each outcome, including when they will be provided, and state who is responsible for providing the service as well as where it will take place;
+d)  Be kept under review and updated to reflect any changes in the type of care and treatment which may be required by the service user over time.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Woman has Mental Health Care Plan
+2
+Woman does not have Mental Health Care Plan
+9
+Not Known / Not Asked
+
+

@@ -1,0 +1,51 @@
+Critical Care Unit Function
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is the type of area to which the patient was admitted during a Critical Care Period. This is the principal clinical service provided within the WARD.
+ 
+Format: 2 character alpha-numeric
+Value
+Meaning
+01
+Non-specific, general adult critical care
+02
+Surgical adult patients (unspecified specialty)
+03
+Medical adult patients (unspecified specialty)
+04
+Paediatric critical care
+05
+Neurosciences patients predominate
+06
+Cardiac surgical patients predominate
+07
+Thoracic surgical patients predominate
+08
+Burns and plastic surgery patients predominate
+09
+Spinal patients predominate
+10
+Renal patients predominate
+11
+Liver patients predominate
+12
+Obstetric patients predominate
+90
+Non standard location using a ward area
+91
+Non standard location using the operating department
+ 
+
+

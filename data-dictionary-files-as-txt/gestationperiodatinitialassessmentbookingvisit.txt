@@ -1,0 +1,34 @@
+Gestation Period at Initial Assessment / Booking Visit
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+ 
+The gestation period at initial assessment / booking visit, in completed weeks (rounded down).
+ 
+Gestation is the carrying of an embryo or foetus inside a woman. The time interval of a gestation is known as the gestation period.
+ 
+An ultrasound scan is regarded as the most reliable means of calculating the gestation period.
+ 
+When an ultrasound scan is not undertaken, the gestation period should be measured from the first day of the last menstrual period (LMP), where this is thought to be reliable.  Where the LMP is unknown and an ultrasound scan is not undertaken, this should be a best estimate based on likely LMP.
+ 
+Please use the example below to calculate and report the gestation period at initial assessment / booking visit in completed weeks:
+ 
+•     9 weeks + 6 days = 9 completed weeks
+•     10 weeks + 0 days = 10 completed weeks
+•     10 weeks + 1 day = 10 completed weeks etc.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+ nn
+Gestation Period (completed weeks)
+ 
+
+

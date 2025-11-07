@@ -1,0 +1,155 @@
+Sport Activity
+Change History
+ 
+DDCN 2014 / 01
+Emergency Department Data Set
+DSCN 2010 / 09
+Revisions to Emergency Department Data Set
+DSCN 2010 / 01
+Revisions to the Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+AWISS
+ 
+ 
+ 
+The sport in which the patient was participating at the time of injury that led to the Accident and Emergency Department attendance.
+This should only be completed when the 'Activity at Time of Injury' is '03 – Sport'
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Aero sports
+1st April 2009
+ 
+02   
+Badminton
+1st April 2009
+ 
+03   
+Baseball
+1st April 2009
+ 
+04   
+Basketball
+1st April 2009
+ 
+05   
+Climbing
+1st April 2009
+ 
+06   
+Combat sports
+1st April 2009
+ 
+07   
+Cricket
+1st April 2009
+ 
+08   
+Cycling
+1st April 2009
+ 
+09   
+Golf
+1st April 2009
+ 
+10   
+Gymnastics
+1st April 2009
+ 
+11   
+Hockey
+1st April 2009
+ 
+12   
+Horse Riding
+1st April 2009
+ 
+13   
+Ice-skating
+1st April 2009
+ 
+14   
+Motor sports
+1st April 2009
+ 
+15   
+Netball
+1st April 2009
+ 
+16   
+Rugby union
+1st April 2009
+ 
+17   
+Rugby league
+1st April 2009
+ 
+18   
+Running/jogging
+1st April 2009
+ 
+19   
+Skateboard/Roller Blades/skates
+1st April 2009
+ 
+20
+Skiing
+1st April 2009
+ 
+21
+Soccer
+1st April 2009
+ 
+22
+Squash
+1st April 2009
+ 
+23
+Swimming
+1st April 2009
+ 
+24
+Tennis
+1st April 2009
+ 
+25
+Water sports
+1st April 2009
+ 
+26
+Weightlifting
+1st April 2009
+ 
+27
+Other sports
+1st April 2009
+ 
+98
+Not Applicable – e.g. Non Injury / Non Sport Injury
+1st February 2010
+ 
+99
+Sport Activity Unspecified
+1st July 2010
+ 
+ 
+This data item is incorporated into the Emergency Department Data Set as the injury prevention orientated field in accordance with the All Wales Injury Surveillance System (AWISS) requirements. These fields are designed to be compatible with the European Union's Injury Data Base (IDB).
+AWISS offers the opportunity on a local, national and international level to:
+•     Monitor injury incidence, trends and geographical variation;
+•     Provide data on problem areas where other information sources are insufficient (such as head injury, sports injuries, accidental poisoning in young children).
+Help the NHS, local authorities, voluntary agencies and other workers in the field to develop, target and evaluate programmes for the control and prevention of injuries.
+
+

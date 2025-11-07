@@ -1,0 +1,44 @@
+Psychiatric Patient Status
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+The status of a patient admitted or transferred to a consultant in one of the psychiatric specialties within a hospital provider spell.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+0
+No known previous hospital provider spells with a consultant episode (hospital provider) within a psychiatric specialty within any health care provider
+21st February 2002
+ 
+1
+One or more previous hospital provider spells involving a consultant episode (hospital provider) within a psychiatric specialty with this health care provider
+21st February 2002
+ 
+2
+One or more previous hospital provider spells involving a consultant episode (hospital provider) within a psychiatric specialty with another health care provider, but none with this health care provider
+21st February 2002
+ 
+8
+Not applicable: the patient is not receiving admitted patient care under a consultant in a psychiatric specialty
+21st February 2002
+ 
+ 
+Note: Where a patient has a history of admissions to several hospital providers, then priority between categories 1 and 2 above should be given to the current hospital provider, and category 1 selected, irrespective of whether or not the last admission was to the same hospital provider.
+This data item applies only to patients admitted or transferred to a consultant in one of the psychiatric specialties within a hospital provider spell. Record this against the first consultant episode under a consultant in one of the psychiatric specialties but not for subsequent psychiatric consultant episodes or for any non-psychiatric episodes.
+ 
+
+

@@ -1,0 +1,99 @@
+Injury Location Type
+Change History
+ 
+DDCN 2014 / 01
+Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+AWISS
+ 
+ 
+ 
+The type of place where the physical or chemical injury occurred which led to the Accident and Emergency Department Attendance.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Own Home
+1st April 2009
+ 
+02
+Other's Home
+1st April 2009
+ 
+03
+Residential Institution
+1st April 2009
+ 
+04
+Medical service area
+1st April 2009
+ 
+05
+School, educational area (including organised sports area)
+1st April 2009
+ 
+06
+Sports and Athletics area (public, not related to school)
+1st April 2009
+ 
+07
+Public highway, street, road, pavement
+1st April 2009
+ 
+08
+Industrial or Construction area
+1st April 2009
+ 
+09
+Farm or other place of primary production
+1st April 2009
+ 
+10
+Recreational area, cultural area, or public building
+1st April 2009
+ 
+11
+Commercial area (non-recreational)
+1st April 2009
+ 
+12
+Countryside/Beach
+1st April 2009
+ 
+13
+Licensed Premises
+1st April 2009
+ 
+14
+Other specified place of occurrence
+1st April 2009
+ 
+98
+Not Applicable – e.g. Non Injury
+1st April 2009
+ 
+99
+Unspecified place of occurrence
+1st April 2009
+ 
+ 
+This data item is incorporated into the Emergency Department Data Set as the injury prevention orientated field in accordance with the All Wales Injury Surveillance System (AWISS) requirements. These fields are designed to be compatible with the European Union's Injury Data Base (IDB).
+AWISS offers the opportunity on a local, national and international level to:
+•     Monitor injury incidence, trends and geographical variation;
+•     Provide data on problem areas where other information sources are insufficient (such as head injury, sports injuries, accidental poisoning in young children).
+Help the NHS, local authorities, voluntary agencies and other workers in the field to develop, target and evaluate programmes for the control and prevention of injuries.
+ 
+
+

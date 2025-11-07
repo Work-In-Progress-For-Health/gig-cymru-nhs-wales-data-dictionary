@@ -1,0 +1,34 @@
+Age at start of episode
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+Derived item
+Is the age of patient at start date of episode or at date of admission if first episode.
+Format: 4 digit numeric
+Value
+Meaning
+0001
+less than 1 day
+0002
+1 - 6 days
+0003
+7 - 27 days
+0004
+28 days - under 3 months
+0005
+3 months - under 6 months
+0006
+6 months - under 9 months
+0007
+9 months - under 1 year
+NNN-
+001 - 115 years
+ 
+
+

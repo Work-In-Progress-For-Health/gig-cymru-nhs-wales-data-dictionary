@@ -1,0 +1,122 @@
+Administrative Category
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2006) 04 (W)
+Revised definitions for Phase 2 of the Outpatient Data Quality Project
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+CC ds
+1st April 2007
+ 
+OPR ds
+1st July 2008
+ 
+ 
+This is to indicate whether the patient is treated as an NHS, private or amenity patient etc.
+This data item became effective in April 1999 and together with the data item Legal Status, replaced the data item Category of Patient.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+NHS Patient, including overseas visitors charged under Section 121 of the NHS Act 1977 as amended by Section 7(12) and (14) of the Health and Medicine Act 1988
+1st April 1999
+ 
+02
+Private Patient, one who uses accommodation or services authorised under Section 65 and/or 66 of the NHS Act 1977 (Section 7(10) of Health and Medicine Act 1988 refers) as amended by Section 26 of the National Health Service and Community Care Act 1990
+1st April 1999
+ 
+03
+Amenity Patient, one who pays for the use of a single room or small ward in accord with Section 12 of the NHS Act 1977, as amended by Section 7(12) and (14) of the Health and Medicine Act 1988
+1st April 1999
+ 
+04
+Category II patient (for diagnostic requests only)
+1st April 1999
+ 
+ 
+Notes: For Overseas visitors, if a reciprocal agreement is in place they can be classified as an NHS Patient (01). If no reciprocal agreement is in place the patient must pay for treatment and be classified as a Private Patient (02).
+The reciprocal agreement covers the following countries:-
+A) Country by Country List of the UK's healthcare agreements with the EEA countries and Switzerland. The countries pseudo-postcodes are shown in brackets).
+Austria (ZZ99 4MZ)
+Belgium (ZZ99 2DZ)
+Bulgaria (ZZ99 4UZ)
+Cyprus (ZZ99 6AZ)
+Denmark (ZZ99 4FZ)
+Estonia (ZZ99 7LZ)
+Finland (ZZ99 4BZ)
+France (ZZ99 4GZ)
+Germany (ZZ99 4QZ)
+Greece (ZZ99 4RZ)
+Iceland (ZZ99 4CZ)
+Ireland (ZZ99 3AZ)
+Italy (ZZ99 4LZ)
+Latvia (ZZ99 7RZ)
+Liechtenstein (ZZ99 2PZ)
+Lithuania (ZZ99 7SZ)
+Luxembourg (ZZ99 2EZ)
+The Netherlands (ZZ99 4EZ)
+Norway (ZZ99 2AZ)
+Portugal ZZ99 4JZ)
+Romania (ZZ99 4ZZ)
+Spain (including the Canary and Balearic Islands) (ZZ99 4HZ)
+Sweden (ZZ99 2CZ)
+Switzerland (ZZ99 4PZ)
+B) Country-by-country guide to entitlements outside the EEA
+Anguilla (ZZ99 6RZ)
+Armenia* (ZZ99 7JZ)
+Australia (ZZ99 6GZ)
+Azerbaijan*(ZZ99 7KZ)
+Barbados (ZZ99 6MZ)
+Belarus* (ZZ99 7MZ)
+Bosnia and Herzegovina* (ZZ99 5NZ)
+British Virgin Islands (ZZ99 6RZ)
+Channel Islands (ZZ99 3HZ)
+Croatia* (ZZ99 5VZ)
+Czech Republic* (ZZ99 5XZ)
+Falkland Islands (ZZ99 6UZ)
+Georgia* (ZZ99 7NZ)
+Gibraltar* (ZZ99 5AZ)
+Hungary* (ZZ99 4XZ)
+Iceland (ZZ99 4CZ)
+Isle of Man (ZZ99 3BZ)
+Kazakhstan* (ZZ99 7PZ)
+Kyrgyzstan* (ZZ99 7QZ)
+Macedonia* (ZZ99 5QZ)
+Malta* (ZZ99 5BZ)
+Moldova* (ZZ99 9TZ)
+Montserrat (ZZ99 6RZ)
+New Zealand (ZZ99 6HZ)
+Poland* (ZZ99 4YZ)
+Russia* (ZZ99 7UZ)
+Slovenia* (ZZ99 5UZ)
+St. Helena (ZZ99 6UZ)
+Serbia and Montenegro (ZZ99 9SZ)
+Tajikistan* (ZZ99 7VZ)
+Turkmenistan* (ZZ99 7XZ)
+Turks and Caicos Islands (ZZ99 6RZ)
+Ukraine* (ZZ99 7YZ)
+Uzbekistan* (ZZ99 7ZZ)
+Countries with an asterisk (*) have agreements covering their nationals and UK nationals only. The others cover all residents, irrespective of nationality. It is for non-nationals resident in an "all residents" country to produce evidence of their residential status.
+Note: This list is current as at January 2006. Further information can be obtained from the 'Guidance for NHS Trust Hospitals in Wales' (issued 31st May 2004), which refers to 'Implementing the Overseas Visitors Hospital Charging Regulations'. Copies of this guidance can be obtained from the Welsh Assembly Government's web site.
+ 
+
+

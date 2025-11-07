@@ -1,0 +1,25 @@
+Clinically Optimised Date
+Change History
+ 
+DSCN 2023 / 01
+Pathways of Care Delays Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Pathways of Care Delays Dataset
+1st February 2023
+ 
+ 
+The date a clinical decision has been made by the registered professional(s) that the patient is ready for transfer or discharge
+ 
+Format:  8 Digit Numeric
+ 
+CCYYMMDD
+1st February 2023
+ 
+ 
+
+

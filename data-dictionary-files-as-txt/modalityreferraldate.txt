@@ -1,0 +1,25 @@
+Modality Referral Date
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The date when it was mutually agreed between the agency and the client that the client required the specified modality / intervention of treatment.
+ 
+-    For the first modality / intervention in a journey, this should be the date that the client was referred to the treatment requiring a modality / intervention.
+-    For subsequent modalities, it should be the date that both the client and the key worker agreed that the client is ready for the modality / intervention.
+ 
+Format: CCYY-MM-DD
+ 
+
+

@@ -1,0 +1,92 @@
+Record Type
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+Shows the type of data held on the record.
+ 
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+General episode
+ 
+ 
+ 
+11
+Unfinished
+Pre 28th December 1995
+Reinstated 21st January 2002
+30th June 1997
+13
+Finished
+Pre 28th December 1995
+ 
+Delivery episode
+ 
+ 
+ 
+21
+Unfinished
+Pre 28th December 1995
+Reinstated 21st January 2002
+30th June 1997
+23
+Finished
+Pre 28th December 1995
+ 
+Birth episode
+ 
+ 
+ 
+31
+Unfinished
+Pre 28th December 1995
+Reinstated 21st January 2002
+30th June 1997
+33
+Finished
+Pre 28th December 1995
+ 
+Psychiatric census episode
+ 
+ 
+ 
+41
+Unfinished, record with psychiatric census data
+Pre 28th December 1995
+Reinstated 21st January 2002
+30th June 1997
+Other maternity events
+ 
+ 
+ 
+53
+Finished, other maternity event, delivery
+Pre 28th December 1995
+Reinstated 1st May 1998
+30th June 1997
+63
+Finished, other maternity event, birth
+Pre 28th December 1995
+Reinstated 1st May 1998
+30th June 1997
+70
+Integrity Record
+Pre 28th December 1995
+30th April 1998
+See Record Type
+ 
+
+

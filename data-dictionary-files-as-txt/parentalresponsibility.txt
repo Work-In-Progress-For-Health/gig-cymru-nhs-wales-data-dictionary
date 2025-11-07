@@ -1,0 +1,37 @@
+Parental Responsibility
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The parental responsibility of the client – i.e. whether or not dependents reside with them.
+ 
+Parental responsibility includes biological parents, step parents, foster parents, adoptive parents and guardians. It should also include de facto parents where an adult cohabits with the parent of a child or the child alone and have taken on full or partial parental responsibilities.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+The client is a parent of one or more children under 18 and all the client’s children (who are under 18) reside with them full time.
+02
+The client is a parent of children under 18 and some of the client’s children (who are under 18) reside with them, others live full time in other locations.
+03
+The client is a parent of children under 18 but they all live full time in other locations.
+04
+The client is not a parent of any children under 18.
+99
+Client declined to answer.
+ 
+
+

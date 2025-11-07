@@ -1,0 +1,34 @@
+Radiotherapy Priority
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+This is the priority for the radiotherapy treatment course as classified by the requesting clinician.
+Format: 1 character alpha-numeric
+ 
+Value
+Meaning
+E
+Emergency (treatment required within 24hrs)
+U
+Urgent (to include the Royal College of Radiologist Category I)
+R
+Routine (to include the Royal College of Radiologist Category II)
+D
+Elective delay (Treatment delayed for reason)
+ 
+ 
+For further information on the Royal College of Radiologists Categories see the Royal College of Radiologists website.
+ 
+
+

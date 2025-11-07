@@ -1,0 +1,14 @@
+Care Contact Identifier (Ambulance Service)
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+Care Contact Identifier (Ambulance Service) is the activity identifier for a care contact allocated by the Ambulance Service. It is an identifier allocated to each ambulance incident for each patient. The patient can have more than one Care Contact Identifier (Ambulance Service) if the patient is treated more than once in separate ambulance incidents.
+N.B. The Care Contact Identifier (Ambulance Service) is likely to be the Electronic Patient Clinical Record (ePCR) system case ID, or another record reference from the ePCR system.
+The Care Contact Identifier (Ambulance Service) is the activity identifier for a care contact made within an ambulance setting. It is allocated by the ambulance service and is specific to a single patient contact. For ambulance ‘incidents’ that involve only one patient, it may be synonymous with the incident identifier. For incidents involving more than one patient there will be a unique Care Contact Identifier (Ambulance Service) for each patient within that incident. The patient will have more than one Care Contact Identifier (Ambulance Service) if the same patient is treated more than once in separate ambulance incidents.
+Format: maximum 20 character alphanumeric
+
+

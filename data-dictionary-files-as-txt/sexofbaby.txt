@@ -1,0 +1,31 @@
+Sex of Baby
+ 
+Change History
+ 
+DSCN 2020 / 02
+Maternity Indicators Data Set (AMD)
+DSCN 2016 / 02
+Maternity Indicators Data Set
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+MI ds
+1st April 2016
+ 
+This is the sex of a baby who is born or who is registered with the Local Health Board.
+For NCCHD the allowable values are:
+•    Male
+•    Female
+•    Not Known
+ 
+For MI Ds see Sex.
+ 
+
+

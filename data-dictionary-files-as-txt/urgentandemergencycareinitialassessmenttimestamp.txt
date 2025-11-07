@@ -1,0 +1,34 @@
+Urgent and Emergency Care Initial Assessment Timestamp
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This is the date, time and time zone that the patient is first assessed during an Urgent and Emergency Care or SDEC attendance.
+ 
+An initial assessment would include:
+• The taking of a brief patient medical history
+• Pain assessment
+• Early warning scores (including vital signs)
+• Mental Health
+The assessment should be conducted by a care professional who has received appropriate training.
+N.B. In Wales not all patients will have an initial assessment timestamp, some will move straight to seen for treatment, if this is the case then the 'Urgent and Emergency Care Initial Assessment Timestamp' will be the 'Urgent and Emergency Care Seen for Treatment Timestamp'.
+ 
+Format: maximum 25 character alphanumeric
+ 
+A timestamp is represented with the components of date, time and either the number of hours offset (plus or minus) from Greenwich Mean Time, or the letter Z to signify that it is the same as Greenwich Mean Time.
+Offset time is restricted to:
+• +01:00
+• +00:00
+• -00:00
+Examples of valid formats are:
+• 2020-08-21T10:15:20+01:00 (British Summer Time (GMT + 1 Hour))
+• 2020-08-21T10:15:20+00:00 (Greenwich Mean Time)
+• 2020-08-21T10:15:20-00:00 (Greenwich Mean Time)
+• 2020-08-21T09:18:00Z (Greenwich Mean Time)
+To avoid confusion, if the timestamp occurs at midnight the time recorded should never be 00:00, it should always be either 23:59 or 00:01.
+ 
+
+

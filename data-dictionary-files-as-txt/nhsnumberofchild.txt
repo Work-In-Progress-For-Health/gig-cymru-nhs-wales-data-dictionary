@@ -1,0 +1,16 @@
+NHS Number of Child
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This is the best unique identifier both for use at local level, and linking to children receiving care/treatment in any part of the NHS system.
+To maintain patient confidentiality, the number is encrypted and used only as a linkage data item. It is not written to NCCHD.
+See NHS Number
+ 
+
+

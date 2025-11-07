@@ -1,0 +1,492 @@
+Accident and Emergency Diagnosis Types
+Change History
+ 
+DSCN 2010 / 09
+Revisions to Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+A broad list of diagnosis types, which may be identified during an Accident and Emergency Department Attendance.
+ 
+Notes:
+•     At least one Diagnosis Type must be reported
+•     Up to 6 diagnosis types can be reported in this section of the Data Set
+•     Where a physical injury has taken place; 'Diagnosis Type' and 'Anatomical Area' should have a 1-1 relationship e.g. Abrasion – Hand.
+•     For medical conditions where anatomical area is not relevant only a diagnosis type should be recorded.
+•     When analysing diagnosis types ALL entries should be considered
+ 
+Format: 3 character alpha numeric
+Value
+Meaning
+Valid From
+Valid To
+ 
+Wound
+ 
+ 
+01A
+Laceration
+1st July 2010
+ 
+01B
+Contusion
+1st July 2010
+ 
+01C
+Abrasion
+1st July 2010
+ 
+01D
+Soft tissue inflammation
+1st July 2010
+ 
+01Z
+Wound, other or unspecified
+1st July 2010
+ 
+ 
+Head Injury
+ 
+ 
+02A
+Glasgow Coma Score 15
+1st July 2010
+ 
+02B
+Glasgow Coma Score <15
+1st July 2010
+ 
+02C
+Dental Injury
+1st July 2010
+ 
+02Z
+Head Injury, other or unspecified
+1st July 2010
+ 
+ 
+Fracture
+ 
+ 
+03A
+Open Fracture
+1st July 2010
+ 
+03B
+Closed Fracture
+1st July 2010
+ 
+03C
+Fracture Dislocation
+1st July 2010
+ 
+03Z
+Fracture, other or unspecified
+1st July 2010
+ 
+ 
+Joint Injury
+ 
+ 
+04A
+Sprain
+1st July 2010
+ 
+04B
+Dislocation
+1st July 2010
+ 
+04C
+Subluxation
+1st July 2010
+ 
+04Z
+Joint Injury, other or unspecified
+1st July 2010
+ 
+ 
+Amputation
+ 
+ 
+05Z
+Amputation, other or unspecified
+1st July 2010
+ 
+ 
+Soft Tissue Injury
+ 
+ 
+06A
+Muscle Injury
+1st July 2010
+ 
+06B
+Tendon Injury
+1st July 2010
+ 
+06C
+Nerve Injury
+1st July 2010
+ 
+06D
+Visceral Injury
+1st July 2010
+ 
+06E
+Vascular Injury
+1st July 2010
+ 
+06Z
+Soft Tissue Injury, other or unspecified
+1st July 2010
+ 
+ 
+Burns, Scalds and Thermal Conditions
+ 
+ 
+07A
+Electric
+1st July 2010
+ 
+07B
+Chemical
+1st July 2010
+ 
+07C
+Radiation
+1st July 2010
+ 
+07D
+Scald
+1st July 2010
+ 
+07E
+Sunburn
+1st July 2010
+ 
+07F
+Hyperthermia
+1st July 2010
+ 
+07G
+Hypothermia
+1st July 2010
+ 
+07H
+Frostbite
+1st July 2010
+ 
+07Z
+Burns, Scalds and Thermal Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Foreign Body
+ 
+ 
+08A
+Ingested Foreign Body
+1st July 2010
+ 
+08Z
+Foreign Body, other or unspecified
+1st July 2010
+ 
+ 
+Puncture Wounds
+ 
+ 
+09A
+Needle Stick Injury
+1st July 2010
+ 
+09B
+Human Bite
+1st July 2010
+ 
+09C
+Animal Bite
+1st July 2010
+ 
+09D
+Insect Bite or Sting
+1st July 2010
+ 
+09Z
+Puncture Wounds, other or unspecified
+1st July 2010
+ 
+ 
+Poisoning or Overdose
+ 
+ 
+10A
+Alcohol
+1st July 2010
+ 
+10B
+Prescribed Drug
+1st July 2010
+ 
+10C
+Non-prescribed/purchased drug
+1st July 2010
+ 
+10D
+Illicit Drug
+1st July 2010
+ 
+10Z
+Poisoning or Overdose, other or unspecified
+1st July 2010
+ 
+ 
+Drowning
+ 
+ 
+11A
+Near Drowning
+1st July 2010
+ 
+11Z
+Drowning, other or unspecified
+1st July 2010
+ 
+ 
+Infectious Disease
+ 
+ 
+12A
+Notifiable Disease
+1st July 2010
+ 
+12B
+Non-notifiable Disease
+1st July 2010
+ 
+ 
+Local Infection
+ 
+ 
+13A
+Septicaemia
+1st July 2010
+ 
+13Z
+Infection, other or unspecified
+1st July 2010
+ 
+ 
+Respiratory Conditions
+ 
+ 
+14A
+Asthma
+1st July 2010
+ 
+14B
+Chronic Obstructive Pulmonary disease
+1st July 2010
+ 
+14Z
+Respiratory Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Endocrinological Conditions
+ 
+ 
+15A
+Diabetes
+1st July 2010
+ 
+15Z
+Endocrinological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Cardiovascular Conditions
+ 
+ 
+16A
+Myocardial Infarction
+1st July 2010
+ 
+16B
+Vascular Condition
+1st July 2010
+ 
+16Z
+Cardiovascular Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Neurological Conditions
+ 
+ 
+17A
+Seizure/Convulsion
+1st July 2010
+ 
+17B
+Cerebrovascular Event
+1st July 2010
+ 
+17Z
+Neurological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Gastrointestinal Conditions
+ 
+ 
+18Z
+Gastrointestinal Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Urological Conditions
+ 
+ 
+19Z
+Urological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Dermatological Conditions
+ 
+ 
+20Z
+Dermatological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Psychological/Psychiatric Conditions
+ 
+ 
+21Z
+Psychological/Psychiatric Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Obstetric Conditions
+ 
+ 
+22Z
+Obstetric Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Gynaecological Conditions
+ 
+ 
+23Z
+Gynaecological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Haematological Conditions
+ 
+ 
+24Z
+Haematological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Ophthalmic Conditions
+ 
+ 
+25Z
+Ophthalmic Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Rheumatological Conditions
+ 
+ 
+26Z
+Rheumatological Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Genito-Urinary Medicine
+ 
+ 
+27Z
+Genito-urinary Medicine, other or unspecified
+1st July 2010
+ 
+ 
+Ear, Nose and Throat Conditions
+ 
+ 
+28Z
+Ear, Nose and Throat Conditions, other or unspecified
+1st July 2010
+ 
+ 
+Pain
+ 
+ 
+29A
+Chest Pain, non cardiac
+1st July 2010
+ 
+29B
+Abdominal Pain
+1st July 2010
+ 
+29Z
+Pain, other or unspecified
+1st July 2010
+ 
+ 
+Allergy (including Anaphylaxis)
+ 
+ 
+30Z
+Allergy (including Anaphylaxis), other or unspecified
+1st July 2010
+ 
+ 
+Social Problems/Homelessness
+ 
+ 
+31A
+Chronic Alcohol Abuse
+1st July 2010
+ 
+31B
+Chronic Drug Abuse
+1st July 2010
+ 
+31Z
+Social Problems/Homelessness, other or unspecified
+1st July 2010
+ 
+97Z
+Nothing Abnormal Detected
+1st July 2010
+ 
+98Z
+Diagnosis Type Not Otherwise Specified
+1st July 2010
+ 
+99Z
+Diagnosis Not Recorded
+1st July 2010
+ 
+ 
+ 
+ 
+
+

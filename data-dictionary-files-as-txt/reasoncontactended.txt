@@ -1,0 +1,62 @@
+Reason Contact Ended
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The reason contact ended.
+ 
+Format: 2 character alpha-numeric.
+ 
+Value
+Meaning
+01
+Treatment completed – problematic substance free
+The client no longer requires a treatment intervention and is judged by the case worker as not using any of the clients reported problematic substances
+02
+Treatment completed
+The client has reached their treatment goal(s) as agreed at commencement of treatment
+03
+Treatment withdrawn by provider
+The treatment provider has withdrawn treatment provision from the client. This item could be used, for example, in cases where the client has seriously breached a contract leading to their discharge. It should not be used if a client has simply ‘dropped out’
+04
+Referred to another service
+A client has finished treatment at this provider agency but still requires treatment and the individual has been referred to another substance misuse provider for this. This code should only be used if there is an appropriate referral path available.
+05
+Did not attend or respond to follow-up contact
+The treatment provider has lost contact with client for 8 weeks or more without a planned discharge and attempts to re-engage the client have not been successful.
+06
+Moved from area
+Client has moved from the geographical area in which they are receiving treatment and not referred to another service.
+07
+Prison / Retained in Custody
+The client is no longer in contact with the treatment provider as they are in prison or another secure setting.
+08
+Deceased
+During their time in contact with the treatment provider the client has died.
+09
+Inappropriate Referral
+Client has been contacted following referral and states that they are not ready to engage in treatment or when assessed there is no substance misuse treatment need for client.
+10
+Client unaware of referral
+A third party referral has been received and when client has been contacted they were unaware of the referral.
+11
+Treatment commencement declined by the client
+The treatment provider has received a referral and has undertaken an initial face-to-face assessment with the client, after which the client has chosen not to commence a recommended treatment intervention.
+12
+Moved to GP Led Prescribing (Primary Care)
+The client is receiving GP Led Prescribing (Primary Care) and is no longer involved with the substance misuse treatment agency.
+ 
+ 
+
+

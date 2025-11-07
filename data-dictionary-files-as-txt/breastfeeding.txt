@@ -1,0 +1,32 @@
+Breast Feeding
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+MI ds
+1st April 2016
+ 
+ 
+Did the Mother intend to breastfeed the baby at birth?
+ 
+For NCCHD:
+Values are Y or N.
+FOR MI ds:
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Yes – includes mothers who are expressing / intend to express breast milk for their baby
+2
+No
+9
+Not Known – for example, baby is immediately transferred to neonatal intensive care at another healthcare provider and breastfeeding intention was not established prior to birth
+ 
+ 
+
+

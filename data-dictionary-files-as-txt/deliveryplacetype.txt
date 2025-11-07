@@ -1,0 +1,74 @@
+Delivery Place Type
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN 06/01 (W)
+Data Standards: Delivery Place Type
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is used to classify the initial intention and actual place of delivery.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+At a domestic address.
+Pre 28th December 1995
+ 
+0
+In NHS hospital* - Delivery facilities associated with midwife ward.
+1st July 1997
+ 
+2
+In NHS hospital* - Delivery facilities associated with consultant ward.
+Pre 28th December 1995
+ 
+3
+In NHS hospital* - Delivery facilities associated with GMP ward.
+Pre 28th December 1995
+ 
+4
+In NHS hospital* - Delivery facilities associated with consultant/GMP/midwife ward inclusive of any combination of two of the professionals mentioned.
+Pre 28th December 1995
+ 
+7
+In NHS hospital* - ward or unit without delivery facilities.
+Pre 28th December 1995
+ 
+5
+In private hospital.
+Pre 28th December 1995
+ 
+6
+In other hospital or institution.
+Pre 28th December 1995
+ 
+8
+None of the above.
+Pre 28th December 1995
+ 
+9
+Not Known
+Pre 28th December 1995
+1st April 2001
+* For NHS or private patients.
+Note: Value 8 does not carry the standard default meaning of Not Applicable.
+Note: If a baby is delivered in a different hospital to the one originally specified, there would be no change in the Delivery Place Type, since the birth would still have taken place in an NHS hospital.
+See Delivery Place Type (Actual)
+See Delivery Place Type (Intended)
+See Initial Intended Delivery Place Type
+ 
+ 
+
+

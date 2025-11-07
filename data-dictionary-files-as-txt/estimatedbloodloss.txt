@@ -1,0 +1,20 @@
+Estimated Blood Loss
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The estimated post-partum blood loss (measured in millilitres – ml)
+ Format: 4 digit numeric
+ 
+Value
+Meaning
+nnnn
+Estimated blood loss (ml)
+ 
+
+

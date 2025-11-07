@@ -1,0 +1,30 @@
+Previously Treated
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has advised that they have previously received substance misuse treatment at the current or any other substance misuse agency within Wales.
+ 
+Format: 1 digit numeric 
+ 
+Value
+Meaning
+1
+Client advises that they have previously received substance misuse treatment in Wales
+2
+Client advises that they have not previously received substance misuse treatment in Wales
+ 
+ 
+
+

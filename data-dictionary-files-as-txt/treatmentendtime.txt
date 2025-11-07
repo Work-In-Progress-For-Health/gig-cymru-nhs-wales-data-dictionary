@@ -1,0 +1,33 @@
+Treatment End Time
+Change History
+ 
+DSCN 2022 / 03
+Welsh Emergency Care Data Set (WECDS) Phase 1 AMD
+DSCN 2019 / 08
+Emergency Department Data Set (EDDS) Revision – Phase One
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+Emergency Department Attendance Treatment End Time is the time the Emergency Department clinical staff has finished treating the patient in their department.
+This is the time that the patient is clinically defined as:
+a.  ready to be discharged
+b.  ready to be transferred via ambulance to continue treatment elsewhere
+c.  ready for admission onto a ward
+d.  OR, the time that the patient self-discharges or dies.
+ 
+Note: For patients being discharged from the Emergency Department because they are clinically fit to leave, the Treatment End Time and the Departure Time will be the same. Where a Treatment End Time is present in the daily and monthly EDDS submissions, it will be assumed that a clinical exception applies and the 4 and 8 hour measure will be based on this time. Where a Treatment End Time is not present, it will be assumed that a clinical exception does not apply and the 4 and 8 hour measure will be calculated using Departure Time.
+ 
+Format: hh:mm:ss
+ 
+Please refer to the following document for further guidance: https://dhcw.nhs.wales/information-services/information-standards/data-quality/data-quality-standards/edds-data-consistency/20111209-letter-unscheduled-care-4-amp-8-hour-measurement-reporting-pdf/
+
+

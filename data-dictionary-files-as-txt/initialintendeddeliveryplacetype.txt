@@ -1,0 +1,17 @@
+Initial Intended Delivery Place Type
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the initial intention for place of delivery. The initial intention for place of delivery is that designated by the General Medical Practitioner and hospital staff or by the General Medical Practitioner and the midwife. The decision is normally made when the mother is assessed for delivery, and as a result of this, formal arrangements are made.
+Format: 1 digit numeric
+See Delivery Place Type
+See Delivery Place Type (Intended)
+ 
+
+

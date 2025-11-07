@@ -1,0 +1,106 @@
+Record Id
+Change History
+ 
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 04
+Cancelled Admitted Procedures Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2008) 05 (W)
+Outpatient Referral Data Set
+DSCN (2006) 14 (W)
+Critical Care Data Set
+DSCN 04/05 (W)
+New Data Item: Record Id
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+CC ds
+1st April 2007
+ 
+OPR ds
+1st July 2008
+ 
+EDDS
+1st April 2009
+ 
+PAP ds
+1st May 2013
+ 
+ 
+This is the field to identify the type of record being submitted.
+Format: 1 alpha
+DS
+Value
+Meaning
+Valid From
+Valid To
+APC
+L
+New record
+1st July 1997
+ 
+ 
+A
+Amendment record
+1st July 1997
+ 
+ 
+C
+Deletion record
+1st July 1997
+ 
+OP/ CC/ OPR/ EDDS/ PAP
+N
+New record
+31st May 2005 for OP
+31st December 2006 for CC
+1st October 2008 for OPR
+1st April 2009 for EDDS
+1st May 2013 for PAP ds
+ 
+ 
+A
+Amendment record
+31st May 2005 for OP
+31st December 2006 for CC
+1st October 2008 for OPR
+1st April 2009 for EDDS
+1st May 2013 for PAP ds
+ 
+ 
+D
+Deletion record*
+31st May 2005 for OP
+31st December 2006 for CC
+1st October 2008 for OPR
+1st October 2009 for EDDS
+1st May 2013 for PAP ds
+ 
+ 
+Note: there is no record id in the layout of the Elective Admission List (EAL) mandatory dataset as this is a periodic census, providing a 'snapshot' on a specific date.
+The values of the Record Id in the Admitted Patient Care (APC) layout were originally used for the Hospital Activity Analysis reporting. With the commencement of PEDW (early 1990's) these same values were carried forward into the APC development. At the time of the Outpatient mandated dataset it was agreed that these values should adopt a more logical standard.
+ 
+* Bulk Delete Headers were introduced to enable organisations to delete a time series of data in one transaction instead of individual delete records.
+ 
+Depending on the data provided as part of the bulk delete header record, individual deletion (‘D’) records are automatically created by the NHS Wales Data Switching Service, deleting the related records from the national databases.
+ 
+A detailed description of the format and processing of bulk delete header records can be found on the NHS Wales Data Switching Service website, along with additional technical information relation to the submission of the data set:
+ 
+http://nwdss.hsw.wales.nhs.uk
+ 
+ 
+
+

@@ -1,0 +1,37 @@
+Last Episode in Spell Indicator
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This derived data item identifies whether the consultant episode is the final episode in the hospital provider spell.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+This episode is the last episode in the hospital provider spell
+1st May 1998
+ 
+2
+This episode is not the final episode in the spell
+1st May 1998
+ 
+9
+Not known
+1st May 1998
+20th January 2002
+ 
+
+

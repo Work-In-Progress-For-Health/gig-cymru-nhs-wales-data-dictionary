@@ -1,0 +1,41 @@
+Episode Number
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+A number used to identify episodes uniquely, and is a sequence number for each consultant episode in a hospital provider spell.
+ 
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+NN
+NN = order number (01 - 87)
+1st May 1998
+ 
+NN
+NN = order number (01 – 99)
+Pre 28th December 1995
+30th April 1998
+98
+Not Applicable
+1st May 1998
+20th January 2002
+99
+Not known: a validation error
+1st May 1998
+20th January 2002
+ 
+
+

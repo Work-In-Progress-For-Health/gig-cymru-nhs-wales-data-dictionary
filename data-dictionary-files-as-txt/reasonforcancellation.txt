@@ -1,0 +1,298 @@
+Reason for Cancellation
+Change History
+ 
+DSCN 2024 / 08
+Reason for Cancellation (Outpatients)
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2019 / 10
+Outpatient Hospital Initiated Cancellation Reason Codes
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+PAP ds
+1st April 2013
+ 
+OP ds
+1st January 2020
+ 
+ 
+ 
+ 
+For Postponed Admitted Procedures data set:
+ 
+The reason for cancellation of an intended procedure.
+ 
+Format: 3 digit numeric
+ 
+Value
+Meaning
+Description
+ 
+Valid From
+Valid To
+Cancellation - Clinical
+ 
+ 
+101
+Pre-existing Medical condition
+ 
+The patient has a pre-existing medical condition, such as high blood pressure and the clinician has indicated that it needs to be resolved before the procedure can take place.
+1st April 2013
+ 
+102
+Unfit with Acute Illness
+The clinician has decided that a patient is unfit due to a newly presented acute illness. 
+1st April 2013
+ 
+103
+Procedure  No Longer Necessary 
+The clinician has decided that the procedure is no longer necessary. For example, this could be due to the condition resolving itself.
+1st April 2013
+ 
+104
+Unsuitable for Day Case Procedure
+The patient was originally listed to have their procedure as a day case. However, the clinician has decided that they need to be treated as an inpatient.
+ 
+1st April 2013
+ 
+105
+Other – Clinical
+All other clinical cancellation reasons.
+ 
+1st April 2013
+ 
+Cancellation – Non Clinical
+ 
+ 
+201
+Intensive Care Unit / High Dependency Unit Beds Unavailable
+No Intensive Care Unit /High Dependency Unit beds are available for patient recovery
+1st April 2013
+ 
+202
+Ward Beds Unavailable
+ 
+No ward beds are available for the patient admission.  
+1st April 2013
+ 
+203
+Emergency Admission
+An emergency admission takes priority over the patient’s elective procedure.
+1st April 2013
+ 
+204
+List Overrun
+The previous procedure(s) takes longer than originally planned, meaning the procedure is cancelled due to insufficient session time.
+1st April 2013
+ 
+205
+Clinical Staff Unavailable
+A key member of clinical staff is unavailable.
+1st April 2013
+ 
+206
+Equipment Unavailable
+A key piece of equipment is unavailable.
+1st April 2013
+ 
+207
+Administrative Error
+An administrative error has occurred. For example, the patient has received the wrong date / time for their admission.
+1st April 2013
+ 
+208
+Other – Non Clinical
+All other non clinical cancellation reasons. For example, cancellations due to inclement weather.
+1st April 2013
+ 
+Patient Cancellation
+ 
+ 
+301
+Pre-op Guidance Not Followed
+Patient has not followed guidance given at pre-operative assessment.
+ 
+1st April 2013
+ 
+302
+Appointment Inconvenient
+The patient had a planned admission date but has notified the Local Health Board that it is inconvenient.
+1st April 2013
+ 
+303
+Unfit for procedure
+The patient declares themselves unfit for their procedure.
+1st April 2013
+ 
+304
+Procedure Not Wanted
+The patient decides they no longer want the procedure.
+1st April 2013
+ 
+305
+Did Not Attend
+The patient has not attended
+ 
+1st April 2013
+ 
+306
+Other – Patient
+All other patient cancellation reasons.
+1st April 2013
+ 
+ 
+ 
+ 
+ 
+ 
+For Outpatient data set:
+ 
+The primary reason why an outpatient appointment was cancelled.
+Format: 3 digit numeric
+ 
+Code
+Description
+Definition
+ 
+Valid From
+Valid To
+151
+Administrative error
+Appointment booked in error and therefore cancelled to remove the erroneous record. Includes additional appointments booked due to duplicate referrals.
+1st January 2020
+ 
+152
+Adverse weather
+Appointment cancelled due to adverse weather conditions affecting the clinician’s ability to attend the clinic appointment. (Patient’s inability to attend would be categorised as CNA). Will also include damage to property where the appointment is taking place, affecting safety. To include issues with Non-emergency Patient Transport (NEPTS) non-collection due to weather.
+1st January 2020
+ 
+153
+Appointment already taken place
+The appointment is no longer necessary as the patient has already been seen. E.g. seen by other HB, privately etc
+1st January 2020
+ 
+154
+Appointment brought forward
+The appointment has been cancelled and rebooked.
+1st January 2020
+ 
+155
+Awaiting diagnostics
+Appointment cancelled due to essential test results not being available impacting on the ability to hold a meaningful consultation. Will also include instances where the case is yet to be reviewed via MDT etc.
+1st January 2020
+ 
+156
+Change to clinic template
+Changes to a template requiring cancellation of an appointment. These include clinic redesign with associated changes to the New to Follow up ratio or change to the location of the clinic. Will also include cancellations resulting from changes to job plans.
+1st January 2020
+ 
+157
+Clinic validation
+Appointment cancelled following direct instruction from the clinician. To include changes to original clinic plan following clinical reassessment.
+1st January 2020
+ 
+158
+Clinician unavailable - annual leave / study leave / planned leave
+Clinician assigned to undertake the appointment unavailable due to annual leave, study leave including mandatory training or requirement to attend examination, planned or professional leave, etc.
+1st January 2020
+ 
+159
+Clinician unavailable - meeting
+Clinician assigned to undertake the appointment unavailable due to a meeting or audit.
+1st January 2020
+ 
+160
+Clinician unavailable - on call
+Clinician assigned to undertake the appointment unavailable due to on call commitments or post take ward round commitments.
+1st January 2020
+ 
+161
+Clinician unavailable - sickness / special leave
+Clinician assigned to undertake the appointment unavailable due to sickness absence, special leave, bereavement leave, requirement to attend court, Jury Service, paternity leave, etc.
+1st January 2020
+ 
+162
+Current inpatient
+The patient is unable to attend the appointment due to being an inpatient either at the same or another hospital.
+1st January 2020
+ 
+163†
+Equipment failure
+Appointment cancelled due to the failure of essential equipment. Will also include general power failure and or connectivity issues.
+1st January 2020
+ 
+164
+List overbooked
+Over-filled clinic reduced to maintain safe clinic numbers proportionate to the number of clinicians available.
+An over-filled may be due to extra patients being booked without appropriate authorisation.
+1st January 2020
+ 
+165
+Clinic overrun
+The patient attended but the appointment was cancelled due to a significant overrun in the clinic. This excludes patient cancellation e.g. where the appointment is not cancelled but the patient is unable to wait
+1st January 2020
+ 
+166
+No notes available
+Cancellation of appointment due to lack of vital information with which to conduct a safe consultation due to patient notes not being available for the clinic.
+01st January 2020
+ 
+167
+Industrial action
+Cancellation of appointment due to lack of essential staffing numbers because of industrial action.
+01st January 2020
+ 
+168
+Operational workforce issues – other reason
+Cancellation of appointment due to lack of essential staffing numbers. Reasons to include clinician covering for annual / study leave, clinician leaving with unfilled vacant posts or a lack of junior doctors.
+01st January 2020
+ 
+169
+Short notice due to emergency / trauma – clinic cancelled
+Clinic cancelled at short notice due to unforeseen emergency such as trauma or major incident.
+01st January 2020
+ 
+170
+Short notice due to higher priority patients
+Appointment cancelled at short notice due to service need prioritisation of more urgent or complex cases. Includes cancellation to ensure coverage of essential services i.e. USC, wards and theatre.
+01st January 2020
+ 
+171
+Pre-existing medical condition
+The patient has a pre-existing medical condition, such as high blood pressure and the clinician has indicated that it needs to be resolved before the procedure can take place.
+01st April 2024
+ 
+172
+Unfit with acute illness
+The clinician has decided that a patient is unfit due to a newly presented acute illness.
+01st April 2024
+ 
+173
+Infectious disease
+To record cancellations related to Infectious diseases such as COVID. This information could them be cross-referenced with data item ‘Attend or Did Not Attend’ to identify if this was cancelled by the patient or hospital.
+01st April 2024
+ 
+198
+Hospital initiated cancellation – reason unknown
+Cancellation initiated by the hospital for unspecified or unknown reason.
+01st January 2020
+31st March 2024
+199
+N/A – Not a hospital cancellation1
+For use in all cases where the appointment cancellation is not initiated by the hospital, or where the appointment is attended or DNAd by the patient. This code is not intended for selection in operational systems but is included for reporting purposes.
+01st January 2020
+ 
+ 
+† If a virtual consultation is unable to be completed due to a technical fault this is to be recorded as value 163 Equipment failure.  For further information please refer to the guidance document.
+ 
+1 - Use value 199 for all completed appointments or cancellations not initiated by the hospital.
+
+

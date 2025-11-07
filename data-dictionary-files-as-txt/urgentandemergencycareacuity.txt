@@ -1,0 +1,72 @@
+Urgent and Emergency Care Acuity
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the SNOMED CT concept ID which is used to indicate the acuity of the patient's condition on the 'Urgent and Emergency Care Initial Assessment Timestamp'.
+This is a measure of the urgency and severity of the condition with which the patient has presented to the Urgent and Emergency Care service as defined by the first clinician who assesses the patient. This may be determined by a formal triage process.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+ 
+Data Item: Urgent and Emergency Care Acuity
+SNOMED CT Refset- Emergency care acuity simple reference
+ 
+WECDS Unique ID
+ 
+WECDS Group
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes: Mapping
+Valid From
+Valid To
+UEC04ACY1111111000
+Urgent and emergency care acuity
+1 - Immediate care level emergency care
+1064891000000107
+Immediate resuscitation level emergency care
+MTS Red - Immediate (Priority 1) / 'Resus'
+ 
+ 
+UEC04ACY2111111000
+Urgent and emergency care acuity
+2 - Very urgent level emergency care
+1064911000000105
+Very urgent level emergency care
+MTS Orange - Very Urgent (Priority 2)
+ 
+ 
+UEC04ACY3111111000
+Urgent and emergency care acuity
+3 - Urgent level emergency care
+1064901000000108
+Urgent level emergency care
+MTS Yellow - Urgent (Priority 3) / 'Majors'
+ 
+ 
+UEC04ACY4111111000
+Urgent and emergency care acuity
+4 - Standard level emergency care
+1077241000000103
+Standard level emergency care
+MTS Green - Standard (Priority 4) / 'Minors'
+ 
+ 
+UEC04ACY5111111000
+Urgent and emergency care acuity
+5 - Low acuity level emergency care
+1077251000000100
+Non-urgent level emergency care
+MTS Blue - Non-Urgent (Priority 5)
+ 
+ 
+ 
+ 
+
+

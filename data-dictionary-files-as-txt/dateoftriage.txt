@@ -1,0 +1,21 @@
+Date of Triage
+Change History
+ 
+DSCN 2024 / 11
+Planned Care Referral Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+PCR ds
+1st October 2024
+ 
+ 
+ 
+This is the date on which the clinician reviewed the referral and determines the next stage of the patient’s pathway.
+ 
+Format: 8 digit numeric, ccyymmd
+
+

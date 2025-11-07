@@ -1,0 +1,18 @@
+Duration of Episode
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+Derived item
+ 
+The period of time in days between the Start Date of Consultant Episode and the End Date of Consultant Episode for finished episodes, or the period of time in days between the Start Date of Episode and the end date of the current period for unfinished episodes.
+ 
+Format: 5 digit numeric
+ 
+
+

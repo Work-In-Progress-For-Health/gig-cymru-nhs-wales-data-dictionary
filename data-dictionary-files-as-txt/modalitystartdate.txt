@@ -1,0 +1,22 @@
+Modality Start Date
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The date when the treatment modality commenced – i.e. the client attended the appointment.
+ 
+Format: CCYY-MM-DD
+ 
+
+

@@ -1,0 +1,22 @@
+Booked Date
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+This is the date of the booked appointment, treatment or admission.
+ 
+For RTT PTL data set:
+For stages 1, 2 & 3 – Where Stage of Pathway = 1, 2 or 3 - ‘Booked Date’ refers to the date on which the patient is due to attend an outpatient appointment or diagnostic procedure.
+For stage 4 - Where Stage of Pathway = 4 - ‘Booked Date’ refers to the date on which the patient is due to be admitted as an inpatient or daycase.
+In cases where the patient has not been booked for an appointment, treatment, or admission, the field should remain blank.
+ 
+Format: ccyymmdd
+ 
+ 
+
+

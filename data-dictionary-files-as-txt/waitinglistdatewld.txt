@@ -1,0 +1,51 @@
+Waiting List Date (WLD)
+Change History
+ 
+DSCN 2025 / 01
+Audiology Wait Times Data Set
+DSCN 2017 / 07
+Admitted Patient Care Data Set
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 14/05 (W)
+Subject: Addition of the Data item ' Waiting List Date'
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+AUD WT ds
+1st April 2025
+ 
+ 
+For APC:-
+ 
+For elective admissions the Waiting List Date (WLD) is initially set to the same date as the Decision to Admit Date.  For all other admissions (Emergency, Maternity and Other admissions) the WLD should be blank.
+ 
+The Decision to Admit Date can never change.  In contrast, there are a number of situations where the WLD can be changed.  These include reinstatement to a waiting list following removal, or where a patient has chosen to remain with a consultant when offered an earlier appointment with a different consultant.
+ 
+The circumstances where the WLD can be changed along with the rules for calculating the WLD can be found in the 'Guide to Good Practice – Elective Services' (September 2005) Chapter 2.
+ 
+ 
+For OP:-
+ 
+The Waiting List Date (WLD) is initially set to the same date as the Clinical Referral Date, but for emergency OP appointments and for follow up appointments the WLD should be blank.
+ 
+The Clinical Referral Date (CRD) date can never change.  In contrast, there are a number of situations where the WLD can be changed.  These include rescheduling an appointment at the patient's request, reinstatement to a waiting list following removal, or where a patient has chosen to remain with a consultant when offered an earlier appointment with a different consultant.
+ 
+The circumstances where the WLD can be changed along with the rules for calculating the WLD can be found in the 'Guide to Good Practice – Elective Services' (September 2005) Chapter 2.
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

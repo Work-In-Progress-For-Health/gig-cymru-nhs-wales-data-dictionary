@@ -1,0 +1,50 @@
+Birth Weight (g)
+Change History
+ 
+DSCN 2023 / 30
+Admitted Patient Care Data Set – Retirement of Maternity Tail Data Items
+DSCN 2016 / 02
+Maternity Indicators Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds
+1st April 1999
+30th June 2023
+NCCHD
+ 
+ 
+MI ds
+1st April 2016
+ 
+ 
+The weight of the baby at birth, recorded in grams.
+ 
+Format: 4 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+NNNN
+0001 - 6999 grams
+Pre 28th December 1995
+ 
+7000
+7000 grams or greater
+Pre 28th December 1995
+30th April 1998
+9999
+Not Known
+Pre 28th December 1995
+20th January 2002
+ 
+See Birth Weight, Terms (A-Z)
+ 
+ 
+
+

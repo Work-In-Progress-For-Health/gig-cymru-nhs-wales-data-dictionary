@@ -1,0 +1,20 @@
+HV/School Nurse Code
+Change History
+ 
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+Each Health Visitor or School Nurse requires a unique code to ascribe children to Health Visitor or School Nurse caseload.
+Format: 4 alphanumeric. The codes are managed locally at Local Health Board level.
+ 
+
+

@@ -1,0 +1,36 @@
+Apgar Score
+Change History
+ 
+DSCN 2016 / 02
+Maternity Indicators Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+MI ds
+1st April 2016
+ 
+ 
+ 
+The apgar score is a measure of the physical condition of a newborn baby. It is obtained by adding points (2, 1, or 0) for heart rate, respiratory effort, muscle tone, response to stimulation and skin coloration; a score of ten represents the best possible condition.
+ 
+FOR NCCHD:
+ 
+This is the total apgar score for a baby at 1 minute and 5 minutes after birth.
+ 
+FOR MI ds:
+ 
+This is the total Apgar score for a baby at 5 minutes after birth.
+See Apgar Score
+Format: 2 digit numeric
+ 
+Value
+Meaning
+nn
+Apgar score (0-10)
+
+

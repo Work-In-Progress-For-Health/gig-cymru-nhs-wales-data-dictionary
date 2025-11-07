@@ -1,0 +1,26 @@
+Problem Substance 3
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The third problem substance being used, where applicable, that has led the client to present (or be referred) to the substance misuse agency.
+ 
+Note: If a client has been prescribed substitute opioid medication (i.e. Methadone or Buprenorphine), these should not be listed as the problem substance and instead Opiates should be recorded. If the client is using Methadone / Buprenorphine not prescribed to them it is appropriate to list them as the problem substance.
+ 
+Format: 4 digit numeric
+ 
+A list of permissible values and their meaning can be accessed via the Data Standards website. 
+ 
+
+

@@ -1,0 +1,23 @@
+Histological Diagnosis
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+A morphology code providing increased specificity for neoplasm recorded under diagnosis.
+NB: All forward slashes "/" indicated in the ICD10 coding system should be omitted.
+ 
+Format: 6 character alpha-numeric
+Value
+Meaning
+MNNNNN
+Morphology code as in the extract of the International Classifications of Diseases for Oncology on "Morphology of Neoplasm's" in ICD10.
+Spaces
+Not applicable
+ 
+
+

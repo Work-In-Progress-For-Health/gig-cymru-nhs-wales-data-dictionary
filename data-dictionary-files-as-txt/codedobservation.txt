@@ -1,0 +1,70 @@
+Coded Observation
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify an observable entity. An observable entity represents a question or assessment which can produce an answer or result e.g. Systolic blood pressure, colour of urine and glomerular filtration rate.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Coded Observation
+ 
+SNOMED CT Refset - Emergency care coded observations simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04OBV1111111000
+Rate of respiration
+86290005
+Respiratory rate
+ 
+ 
+ 
+UEC04OBV1121111000
+Oxygen Saturation
+103228002
+Blood oxygen saturation
+ 
+ 
+ 
+UEC04OBV1131111000
+Systolic blood pressure
+72313002
+Systolic arterial pressure
+ 
+ 
+ 
+UEC04OBV1141111000
+Pulse
+78564009
+Pulse rate
+ 
+ 
+ 
+UEC04OBV1151111000
+Consciousness
+1104441000000107
+Alert Confusion Voice Pain Unresponsive scale score
+Alert = "A" Confused = "C" Voice (Patient Responds to Voice) = "V" Pain (Patient Responds to Painful Stimulus) = "P" Unresponsive = "U"
+ 
+ 
+UEC04OBV1161111000
+Temperature
+276885007
+Core body temperature
+ 
+ 
+ 
+ 
+
+

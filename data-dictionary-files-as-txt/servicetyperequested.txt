@@ -1,0 +1,54 @@
+Service Type Requested
+Change History
+ 
+DSCN 2024 / 11
+Planned Care Referral Dataset
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+PCR ds
+1st July 2008
+ 
+ 
+The terms of reference for the referral request.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Advice/Consultation
+1st April 1999
+30th September 2024
+2
+Specific procedure
+1st April 1999
+30th September 2024
+3
+Other
+1st April 1999
+30th September 2024
+4
+Request for Advice
+1st October 2024
+ 
+5
+Request for Investigation
+1st October 2024
+ 
+6
+Request for Treatment
+1st October 2024
+ 
+ 
+
+

@@ -1,0 +1,37 @@
+Urgent Housing Problem Status
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish if the client has had an acute housing problem in the last 28 days (4 weeks) prior to the TOP interview.
+ 
+Acute housing problem is defined as:
+ 
+-    The client is of no fixed abode and has been sleeping a night by night basis on the streets.
+-    The client has been sleeping in a night shelter on a night by night basis.
+-    The client has been sleeping on different friends’ floors each night.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Client has urgent housing problem
+02
+Client does not have urgent housing problem
+99
+The client declined to answer.
+ 
+
+

@@ -1,0 +1,20 @@
+Time of Exposure
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+The time when the radiotherapy exposure was first initiated at the radiotherapy attendance.
+Format: HH:MM:SS
+ 
+
+

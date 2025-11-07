@@ -1,0 +1,12 @@
+Urgent and Emergency Care Age at Activity Date
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the age derived as the number of completed years between the 'Birth Date' of the patient and the 'Urgent and Emergency Care Activity Start Timestamp'.
+Format: maximum 3 character alphanumeric
+ 
+
+

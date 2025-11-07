@@ -1,0 +1,46 @@
+Appropriateness of Attendance
+Change History
+ 
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+A Clinician's assessment as to whether the patient meets the BAEM Standards for Accident and Emergency Department Attendances determined by asking the following question:
+In your clinical opinion does this patient meet the BAEM Standards for an Accident and Emergency Department?
+BAEM Standards: -
+•     Trauma, usually within 2 days of injury
+•     Pain, unrelieved by simple analgesia
+•     Acute illness
+•     Respiratory distress
+•     Change in mental status, including alteration of consciousness and acute confusional state
+•     Patients brought to hospital by the police, normally excluding patients detained under section 136 of the Mental Health Act
+•     Patients brought to hospital by emergency ambulance
+•     Patients appropriately referred by any other health care professional
+Please note that this question only needs to be answered for New Attendances and Unplanned Follow-ups; For Follow-up patients, value '03 – Not Applicable' should be recorded in this field.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Appropriate Attendance
+1st April 2009
+ 
+02
+Inappropriate Attendance
+1st April 2009
+ 
+03
+Not Applicable (Planned Follow-Up Patient)
+1st April 2009
+ 
+
+
+

@@ -1,0 +1,27 @@
+Date of First Appointment Taken
+Change History
+ 
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The first appointment taken would be the first outpatient appointment or direct to one stop shop appointment after the Pathway Start Date (Point of Suspicion). This may be the same date as the first diagnostic test if it was carried out on the same day as part of the one stop shop.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

@@ -1,0 +1,85 @@
+Cancer Treatment Modality
+ 
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2020 / 28
+Single Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+National Cancer Ds - Core
+ 
+ 
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+The cancer treatment delivered to the patient.
+ 
+ 
+Format: 2 character alpha-numeric
+ 
+ 
+Value
+Meaning
+01
+Surgery
+02
+Anti-Cancer Drug Regimen (Cytotoxic Chemotherapy)
+03
+Anti-Cancer Drug Regimen (Hormone Therapy)
+04
+Chemoradiotherapy
+05
+Teletherapy (Beam Radiation excluding Proton therapy)
+06
+Brachytherapy
+07
+Specialist Palliative Care
+08
+Active Monitoring (excluding Non-Specialist palliative care)
+09
+Non Specialist Palliative Care (excluding Active monitoring)
+10
+Radiofrequency Ablation (RFA)
+11
+High Intensity Focused Ultrasound (HIFU)
+12
+Cryotherapy
+13
+Proton Therapy
+14
+Anti-Cancer Drug Regimen (Other)
+15
+Anti-Cancer Drug Regimen (Immunotherapy)
+16
+Light Therapy (including Photodynamic Therapy and Psoralen and Ultraviolet A Therapy (PUVA Therapy))
+17
+Hyperbaric Oxygen Therapy
+19
+Radioisotope Therapy (including Radioiodine)
+20
+Laser Treatment (including Argon Beam Therapy)
+21
+Biological Therapies (excluding Immunotherapy)
+22
+Radiosurgery
+97
+Other Treatment (not listed)
+98
+All Treatment Declined
+ 
+
+

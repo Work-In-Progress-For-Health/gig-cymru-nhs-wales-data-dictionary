@@ -1,0 +1,16 @@
+Provider Spell Number
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+A unique number which identifies the hospital provider spell i.e. the total continuous stay of a patient using a bed on premises controlled by the health care provider.
+Format: 8 character alpha-numeric (1st alpha-numeric, 2nd – 8th numeric)
+See Hospital Provider Spell Number
+ 
+
+

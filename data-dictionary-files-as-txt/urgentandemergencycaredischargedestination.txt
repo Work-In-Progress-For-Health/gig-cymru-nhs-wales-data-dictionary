@@ -1,0 +1,149 @@
+Urgent and Emergency Care Discharge Destination
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the SNOMED CT concept ID which is used to identify the intended destination of the patient following discharge from an Urgent and Emergency Care activity.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Discharge Destination
+ 
+SNOMED CT Refset- Emergency care discharge destination simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04DGD1111111000
+Usual place of residence / family members
+306689006
+Discharge to home
+ 
+ 
+ 
+UEC04DGD1121111000
+Residential care facility without 24 hour nursing care (e.g. residential home)
+306691003
+Discharge to residential home
+ 
+ 
+ 
+UEC04DGD1131111000
+Residential care facility with 24 hour nursing care (e.g. nursing home)
+306694006
+Discharge to nursing home
+ 
+ 
+ 
+UEC04DGD1141111000
+Police
+306705005
+Discharge to police custody
+ 
+ 
+ 
+UEC04DGD1145111000
+Custodial services e.g. prison / detention centre
+50861005
+Patient discharge, to legal custody
+ 
+ 
+ 
+UEC04DGD3111111000
+Short stay (less than 24hr) ward outside the ED but managed by ED
+1066331000000109
+Emergency department discharge to emergency department short stay ward
+ 
+ 
+ 
+UEC04DGD3121111000
+Same Day Emergency Care service
+1066341000000100
+Emergency department discharge to ambulatory emergency care service
+ 
+ 
+ 
+UEC04DGD3131111000
+Hospital in the home service
+1066351000000102
+Discharge to hospital at home service
+ 
+ 
+ 
+UEC04DGD5111111000
+Ward – physical ward bed outside ED
+306706006
+Discharge to ward
+ 
+ 
+ 
+UEC04DGD5511111000
+High Dependency Unit (level 2)
+1066361000000104
+Emergency department discharge to high
+dependency unit
+ 
+ 
+ 
+ 
+UEC04DGD5531111000
+Coronary Care Unit (level 2)
+1066371000000106
+Emergency department discharge to coronary care unit
+ 
+ 
+ 
+UEC04DGD5551111000
+Special Care Baby Unit (level 2)
+1066381000000108
+Emergency department discharge to special care baby unit
+ 
+ 
+ 
+UEC04DGD6111111000
+Intensive Care Unit (level 3)
+1066391000000105
+Emergency department discharge to intensive care unit
+ 
+ 
+ 
+UEC04DGD6141111000
+Neonatal Intensive Care Unit (level 3)
+1066401000000108
+Emergency department discharge to neonatal intensive care unit
+ 
+ 
+ 
+UEC04DGD9111111000
+Transfer to another hospital / healthcare facility
+19712007
+Patient transfer, to another health care facility
+ 
+ 
+ 
+UEC04DGD9151111000
+Discharge to Hospice
+183919006
+Urgent admission to hospice
+ 
+ 
+ 
+UEC04DGD9511111000
+Mortuary
+305398007
+Admission to the mortuary
+ 
+ 
+ 
+ 
+
+

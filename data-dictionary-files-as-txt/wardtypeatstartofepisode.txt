@@ -1,0 +1,277 @@
+Ward Type at Start of Episode
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN 17/04 (W)
+To amend the All Wales Data Dictionary entry for the data term ' Ward Type at Start of Episode'
+DSCN 2023 / 01
+Pathways of Care Delays Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+Pathways of Care Delays ds
+1st February 2023
+ 
+ 
+This identifies the ward type at start of consultant episode. This is the description of the characteristics of a ward which covers resources available to intended users. A ward is classified according to the characteristics of the majority of beds within it.
+ 
+Format: 7 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+AABCDEF
+ 
+ 
+ 
+AA= Clinical care intensity
+ 
+ 
+ 
+General
+ 
+ 
+ 
+06
+Acute
+1st February 2023
+ 
+07
+Community
+1st February 2023
+ 
+08
+Mental health
+1st February 2023
+ 
+09
+Learning disability
+1st February 2023
+ 
+10
+Rehab
+1st February 2023
+ 
+11
+for intensive therapy
+Pre 28th December 1995
+ 
+12
+for normal therapy: where resources permit the admission of patients who might need all but intensive therapy
+Pre 28th December 1995
+ 
+13
+For limited therapy: where nursing care rather than continuous medical care is provided.  Such wards can be used only for patients carefully selected and restricted to a narrow range in terms of the extent and nature of the disease
+Pre 28th December 1995
+ 
+Younger physically disabled
+ 
+ 
+ 
+21
+spinal unit, only those units that are nationally recognised
+Pre 28th December 1995
+ 
+22
+other units
+1st May 1998
+ 
+28
+Other
+Pre 28th December 1995
+30th April 1998
+Neonates
+ 
+ 
+ 
+31
+regionally designated: not associated with the maternity ward and in which there are some regionally designated cots for intensive care
+Pre 28th December 1995
+ 
+32
+non-maternity: not associated with the maternity ward and without regionally designated cots for intensive care
+Pre 28th December 1995
+ 
+33
+maternity: associated with the maternity ward in that cots are in the maternity ward nursery or in the ward itself
+Pre 28th December 1995
+ 
+Maternity
+ 
+ 
+ 
+41
+only for patients looked after by consultants
+Pre 28th December 1995
+ 
+42
+for joint use by consultants and GMPs
+Pre 28th December 1995
+ 
+43
+only for patients looked after by GMPs
+Pre 28th December 1995
+ 
+Mental Illness
+ 
+ 
+ 
+51
+for intensive care, a regionally designated or interim secure unit
+Pre 28th December 1995
+ 
+52
+for short stay: patients intended to stay less than a year
+Pre 28th December 1995
+ 
+53
+for long stay: patients intended to stay a year or more
+Pre 28th December 1995
+ 
+Learning Disabilities
+ 
+ 
+ 
+61
+regionally designated or interim secure unit
+1st July 1997
+ 
+62
+short stay: patients intended to stay less than a year
+Pre 28th December 1995
+ 
+63
+long stay: patients intended to stay a year or more
+Pre 28th December 1995
+ 
+Home leave
+ 
+ 
+ 
+71
+home leave: non-psychiatric
+Pre 28th December 1995
+ 
+72
+home leave: psychiatric
+Pre 28th December 1995
+ 
+Other
+ 
+ 
+ 
+81
+Terminally ill/palliative care
+1st July 1997
+ 
+ 
+ 
+See Ward Type, Terms (A-Z)
+ 
+ 
+ 
+Valid From
+Valid To
+B = Age
+ 
+ 
+ 
+1
+Neonates
+Pre 28th December 1995
+ 
+2
+Children and adolescents
+Pre 28th December 1995
+ 
+3
+Elderly
+Pre 28th December 1995
+ 
+8
+Any age
+Pre 28th December 1995
+ 
+9
+Home leave
+Pre 28th December 1995
+ 
+C = Sex
+ 
+ 
+ 
+1
+Male
+Pre 28th December 1995
+ 
+2
+Female
+Pre 28th December 1995
+ 
+8
+Not Specified
+Pre 28th December 1995
+Reinstated 31st October 2004
+20th January 2002
+9
+Home leave
+Pre 28th December 1995
+ 
+D = Provider type
+ 
+ 
+ 
+1
+NHS hospital provider
+Pre 28th December 1995
+ 
+2
+Non-NHS hospital provider
+Pre 28th December 1995
+ 
+9
+Home leave
+Pre 28th December 1995
+ 
+E = Number of days open during the day
+ 
+ 
+ 
+0 - 7
+ 
+Pre 28th December 1995
+ 
+9
+Home leave
+Pre 28th December 1995
+ 
+F = Number of days open at night
+ 
+ 
+ 
+0 - 7
+ 
+Pre 28th December 1995
+ 
+9
+Home leave
+Pre 28th December 1995
+ 
+7199999
+Home leave: non-psychiatric
+Pre 28th December 1995
+ 
+7299999
+Home leave: psychiatric
+Pre 28th December 1995
+ 
+ 
+
+

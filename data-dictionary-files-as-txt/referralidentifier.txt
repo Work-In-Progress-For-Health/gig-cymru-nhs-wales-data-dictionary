@@ -1,0 +1,19 @@
+Referral Identifier
+Change History
+ 
+DSCN (2008) 05 (W)
+Outpatient Referrals Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OPR ds
+1st July 2008
+ 
+ 
+This locally produced code, in combination with the Organisation Code (Code of Provider), is used to uniquely identify a referral.
+Format: 12 character alpha-numeric
+
+

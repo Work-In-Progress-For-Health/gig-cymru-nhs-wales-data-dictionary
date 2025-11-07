@@ -1,0 +1,15 @@
+Attendance Date
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+ 
+This is the date of an attendance or appointment to attend.
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

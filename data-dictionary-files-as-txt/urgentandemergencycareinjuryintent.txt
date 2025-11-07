@@ -1,0 +1,84 @@
+Urgent and Emergency Care Injury Intent
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to identify the most likely human intent in the occurrence of the injury or poisoning as assessed by the Care Professional.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Injury Intent
+ 
+SNOMED CT Refset - Emergency care injury intent type simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04IJI1111111000
+Non-intentional injury
+242056005
+Accidental injury
+ 
+ 
+ 
+UEC04IJI2111111000
+Self inflicted injury
+276853009
+Self inflicted injury
+ 
+ 
+ 
+UEC04IJI3111111000
+Apparent assault (single assailant)
+1082491000000103
+Alleged victim of physical assault by lone assailant
+ 
+ 
+ 
+UEC04IJI3511111000
+Apparent assault (multiple assailants)
+1082501000000109
+Alleged victim of physical assault by multiple assailants
+ 
+ 
+ 
+UEC04IJI4111111000
+Complication of medical care
+35688006
+Complication of medical care
+ 
+ 
+ 
+UEC04IJI5111111000
+Injury caused by animal
+242651001
+Injury caused by animal
+ 
+ 
+ 
+UEC04IJI6111111000
+Injury due to legal intervention
+219256006
+Injury due to legal intervention
+ 
+ 
+ 
+UEC04IJI7111111000
+Undetermined / no information available
+269735005
+Injury undetermined whether accidentally or purposely inflicted
+ 
+ 
+ 
+ 
+
+

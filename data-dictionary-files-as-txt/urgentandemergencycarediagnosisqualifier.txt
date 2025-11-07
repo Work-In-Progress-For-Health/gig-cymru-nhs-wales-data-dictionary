@@ -1,0 +1,42 @@
+Urgent and Emergency Care Diagnosis Qualifier
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The SNOMED CT concept ID which is used to express the level of certainty of a patient diagnosis recorded during an Urgent and Emergency Care activity.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Diagnosis Qualifier
+ 
+SNOMED CT Refset- Emergency care diagnosis qualifier simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04DGQ1111111000
+Suspected diagnosis
+415684004
+Suspected
+ 
+ 
+ 
+UEC04DGQ2111111000
+Confirmed diagnosis
+410605003
+Confirmed present
+ 
+ 
+ 
+ 
+
+

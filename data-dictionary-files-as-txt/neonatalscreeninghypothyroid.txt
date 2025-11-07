@@ -1,0 +1,20 @@
+Neonatal Screening – Hypothyroid
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This is the outcome of the screening test for Hypothyroid. This is recorded as soon as the data is received from lab.
+Item made up of Date of Test and Outcome value.
+Outcome values are: -
+Positive
+Negative
+Refused
+See Neonatal Screening
+ 
+
+

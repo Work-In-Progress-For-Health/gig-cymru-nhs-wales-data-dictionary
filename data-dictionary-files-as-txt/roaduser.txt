@@ -1,0 +1,73 @@
+Road User
+Change History
+ 
+DDCN 2014 / 01
+Emergency Department Data Set
+DSCN 2010 / 01
+Revisions to the Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+AWISS
+ 
+ 
+ 
+This is the nature of the patient's road use at the time of the road traffic collision.
+This should only be completed when the 'Activity at Time of Injury' is '06 – Road Traffic Collision'.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Pedestrian
+1st April 2009
+ 
+02
+Cyclist
+1st April 2009
+ 
+03
+Motorbike Rider
+1st April 2009
+ 
+04
+Motorbike Passenger
+1st April 2009
+ 
+05
+Motorised Vehicle Driver
+1st April 2009
+ 
+06
+Motorised Vehicle Passenger
+1st April 2009
+ 
+20
+Other User
+1st April 2009
+ 
+98
+Not Applicable – e.g. Non Injury / Not a Road User
+1st February 2010
+ 
+99
+Not Known
+1st April 2009
+ 
+ 
+This data item is incorporated into the Emergency Department Data Set as the injury prevention orientated field in accordance with the All Wales Injury Surveillance System (AWISS) requirements. These fields are designed to be compatible with the European Union's Injury Data Base (IDB).
+AWISS offers the opportunity on a local, national and international level to:
+•     Monitor injury incidence, trends and geographical variation;
+•     Provide data on problem areas where other information sources are insufficient (such as head injury, sports injuries, accidental poisoning in young children).
+Help the NHS, local authorities, voluntary agencies and other workers in the field to develop, target and evaluate programmes for the control and prevention of injuries.
+
+

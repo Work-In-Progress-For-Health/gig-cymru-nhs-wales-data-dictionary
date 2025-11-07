@@ -1,0 +1,26 @@
+Urgent and Emergency Care Referred to Service Assessment Timestamp
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The date, time and time zone a patient was assessed by a care professional from a service to which a patient has been referred.
+ 
+Format: maximum 25 character alphanumeric
+ 
+A timestamp is represented with the components of date, time and either the number of hours offset (plus or minus) from Greenwich Mean Time, or the letter Z to signify that it is the same as Greenwich Mean Time.
+Offset time is restricted to:
+• +01:00
+• +00:00
+• -00:00
+Examples of valid formats are:
+• 2020-08-21T10:15:20+01:00 (British Summer Time (GMT + 1 Hour))
+• 2020-08-21T10:15:20+00:00 (Greenwich Mean Time)
+• 2020-08-21T10:15:20-00:00 (Greenwich Mean Time)
+• 2020-08-21T09:18:00Z (Greenwich Mean Time)
+To avoid confusion, if the timestamp occurs at midnight the time recorded should never be 00:00, it should always be either 23:59 or 00:01.
+ 
+
+

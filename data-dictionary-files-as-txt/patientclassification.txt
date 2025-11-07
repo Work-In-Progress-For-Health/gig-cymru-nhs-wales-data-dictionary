@@ -1,0 +1,59 @@
+Patient Classification
+Change History
+ 
+DDCN 2013 / 06
+Appendix B - Patient Classification (Inpatients/Daycases)
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN 04/01 (W)
+Data Standards: Minor Changes and Corrections
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+A coded classification of Patients who have been admitted to a Hospital Provider Spell, derived by combining data items on the patient administration systems, namely Admission Method, Intended Management and ward use with actual duration of stay in a hospital bed. The duration of stay is derived by subtracting the date of admission from the date of discharge.
+In the case of maternity patients, the use being made of the delivery facilities is also used in the derivation.
+ 
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Ordinary admission
+Pre 28th December 1995
+ 
+2
+Day case admission
+Pre 28th December 1995
+ 
+3
+Regular day admission
+Pre 28th December 1995
+ 
+4
+Regular night admission
+Pre 28th December 1995
+ 
+5
+Women using delivery facilities only
+Pre 28th December 1995
+ 
+8
+Not applicable
+1st May 1998
+20th January 2002
+ 
+ 
+￼
+ 
+The flowchart shows the derivation of Patient Classification from method of admission, intended management; ward used and actual duration of stay in a hospital bed. The one exception is for any episode in a day case spell that is not the final episode. For these episodes, which should be rare, the patient classification will be 'ordinary admission' rather than 'day case admission'. The last episode in this spell will have the correct value of 'day case' admission.
+ 
+
+

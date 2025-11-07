@@ -1,0 +1,43 @@
+Modality Exit Status
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The exit status from a treatment modality.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Planned exit from treatment modality (i.e. treatment modality completed as set out in the treatment plan)
+02
+Unplanned exit from treatment modality
+ 
+A planned exit is where treatment has completed, this includes:
+ 
+-    Treatment Complete – Problematic Substance Free
+-    Referred to another service
+-    Moved to GP Led Prescribing
+ 
+Unplanned exit is where treatment is withdrawn by the provider, this includes clients who:
+ 
+-    Did not attend or respond to follow up contact
+-    Moved from area (if client moved from geographical area but was also referred to another service, the latter should be captured.)
+-    Retained in custody / prison
+-    Deceased
+-    Declined treatment
+ 
+
+

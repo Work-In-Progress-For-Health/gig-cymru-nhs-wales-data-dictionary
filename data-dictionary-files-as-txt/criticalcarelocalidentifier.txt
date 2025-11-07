@@ -1,0 +1,21 @@
+Critical Care Local Identifier
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is a unique local activity identifier used to identify a Critical Care Period. This locally defined variable should as a minimum include a sequential numerical component that can discriminate two or more Critical Care Periods occurring on the same calendar day for the same patient.
+ 
+Format: 8 character alpha-numeric
+ 
+
+

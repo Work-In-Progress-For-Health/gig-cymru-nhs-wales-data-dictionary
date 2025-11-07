@@ -1,0 +1,42 @@
+Urgent and Emergency Care Professional Tier
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+The tier of Care Professional treating the patient during an Urgent and Emergency Care activity. The Care Professional Tiers are defined in the Royal College of Emergency Medicine Guidelines for Medical and Practitioner Staffing in Emergency Departments.
+ 
+See the Royal College of Emergency Medicine website : Medical and Practitioner Workforce Guidance https://rcem.ac.uk/wp-content/uploads/2021/11/RCEM_Medical_and_Practitioner_Staffing_in_EDs.pdf
+ 
+Code
+Description
+Valid From
+Valid To
+01
+Require complete supervision. All patients must be signed off by a senior care professional before admission or discharge.
+ 
+ 
+02
+Require access to advice or direct supervision, or practice independently but with limited scope.
+ 
+ 
+03
+More senior/experienced care professional, requiring less direct supervision. Fewer limitations in scope of practice.
+ 
+ 
+04
+Senior care professionals able to supervise an Emergency Care Department alone with remote support. Possess some extended skills. Full scope of practice.
+ 
+ 
+05
+Senior care professionals (Consultants) with accredited advanced qualifications in Emergency Medicine. Full set of extended skills. Full scope of practice.
+ 
+ 
+ 
+In a Type 1 Emergency Department (ED), there is always a designated senior decision-maker in the ED, this should be a treating clinician from tier 3, 4 or 5.
+ 
+Format: 2 character alphanumeric
+ 
+
+

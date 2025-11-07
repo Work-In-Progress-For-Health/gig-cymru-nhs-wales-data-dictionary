@@ -1,0 +1,28 @@
+Date of Decision to Treat CWT (DDTT)
+Change History
+ 
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+Date when the decision to treat the patient was made (as per CWT rules).
+ 
+Note: This is mandatory where ‘Outcomes of Investigations’ = 1.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+
+

@@ -1,0 +1,74 @@
+Primary ICD Diagnostic Code
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2016 / 05
+The International Classification of Diseases Tenth Revision (ICD-10) 5th Edition
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+OP ds
+1st April 1999
+ 
+RTDS
+1st April 2014
+ 
+National Cancer Ds - Core
+ 
+ 
+ 
+This is the patient diagnosis for:
+•     the main condition treated or investigated during the relevant episode of healthcare and
+•     where there is no definitive diagnosis, the main symptom, abnormal findings or problem.
+It is a classification of diseases, injuries and causes of death according to the 10th Revision of International Statistical Classification of Diseases and Health Related Problems (ICD10).
+ 
+ICD Version
+ Valid From
+ Valid To
+ICD-9
+ 
+ 30th September 1994
+ICD-10
+ 1st August 1994
+ 30th June 2012
+ICD-10 4th Edition
+ 1st July 2012
+31st March 2016
+ICD-10 5th Edition
+ 1st April 2016
+ 
+ 
+Format: 6 character alpha-numeric
+Value
+Meaning
+ANNXXX
+ICD10 code
+Spaces
+Not applicable
+Character position
+Valid Values
+1
+A-Z
+2-3
+00-99
+4
+0-9, or 'X' if absent
+5
+0-9, or space if absent
+6
+A, D or space
+ 
+ 
+
+

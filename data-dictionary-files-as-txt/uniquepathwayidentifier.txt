@@ -1,0 +1,36 @@
+Unique Pathway Identifier
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2021 / 01
+Single Cancer Pathway – Adjustments Data Set – Retirement
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 22
+Single Cancer Pathway - Adjustments
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+ 
+This data item is / was included in the following data sets / collections between the dates shown: 
+ 
+Data Set / Collection
+Valid From
+Valid To
+National Cancer Ds - Core
+ 
+ 
+SCPC ds
+1st January 2021
+ 
+SCPA ds
+1st January 2021
+3rd February 2021
+ 
+This is the pathway identifier within the health board which together with the organisation code uniquely identifies a patient pathway. 
+Format: 24 character alpha-numeric
+ 
+
+

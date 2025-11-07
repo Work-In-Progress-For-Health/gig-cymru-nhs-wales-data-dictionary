@@ -1,0 +1,39 @@
+Gestation Period at Onset of Labour
+Change History
+ 
+DSCN 2020 / 02
+Maternity Indicators Data Set (AMD)
+DSCN 2016 / 02
+Maternity Indicators Data Set
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+ 
+The gestation period at onset of labour, in completed weeks (rounded down). When a birth takes place without labour occurring (e.g. when a caesarean takes place prior to the onset of labour), the gestation at birth is to be provided.
+ 
+Gestation is the carrying of an embryo or foetus inside a woman. The time interval of a gestation is known as the gestation period.  This should be estimated based on the findings of ultrasound scan at the initial assessment / booking visit, which is regarded as the most reliable means of calculating the gestation period. 
+ 
+When an ultrasound scan is not undertaken, the gestation period should be measured from the first day of the last menstrual period (LMP), where this is thought to be reliable.  Where the LMP is unknown and an ultrasound scan is not undertaken, this should be a best estimate based on likely LMP.
+ 
+Please use the example below to calculate and report the gestation period at onset of labour in completed weeks:
+•     39 weeks + 6 days = 39 completed weeks.
+•     40 weeks + 0 days = 40 completed weeks
+•     40 weeks + 1 day = 40 completed weeks etc.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+ nn
+Gestation Period (completed weeks)
+ 
+
+

@@ -1,0 +1,19 @@
+Hospital Provider Spell Number
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+CC ds
+1st April 2007
+ 
+ 
+A number (alphanumeric) to provide a unique identifier for each hospital provider spell for a health care provider.
+Format: 12 character alpha-numeric
+See Provider Spell Number
+ 
+
+

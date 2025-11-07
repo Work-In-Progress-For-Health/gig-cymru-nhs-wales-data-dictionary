@@ -1,0 +1,41 @@
+Alcohol Indicator
+Change History
+ 
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+In your clinical opinion has the presence of alcohol in the presenting patient contributed to this attendance?
+Please note that this question only needs to be answered for New Attendances and Unplanned Follow-ups. For Follow-up patients, value ‘04 – Not Applicable’ should be recorded in this field.
+Format: 2 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Yes
+1st April 2009
+ 
+02
+No
+1st April 2009
+ 
+03
+Don't Know
+1st April 2009
+ 
+04
+Not Applicable (Follow-up Patient)
+1st April 2009
+ 
+ 
+
+

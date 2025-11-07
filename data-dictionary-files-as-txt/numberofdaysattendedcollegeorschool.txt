@@ -1,0 +1,31 @@
+Number of Days Attended College or School
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The number of days over the last 28 days (4 weeks) prior to the TOP interview that the client has attended college (higher or further education) or school, as stated by the client.
+ 
+Format: 2 character alpha-numeric.
+ 
+Value
+Meaning
+00
+The client has not attended college or school.
+01 - 28
+Total number of days on which the client has attended college or school.
+99
+The client declined to answer.
+ 
+
+

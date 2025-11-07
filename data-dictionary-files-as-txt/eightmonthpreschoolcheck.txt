@@ -1,0 +1,51 @@
+Eight Month Pre-School Check
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This is the outcome of 6 to 8 month assessments. We are currently, awaiting recommendations for the Eight Month Pre-School Check from the 4th Edition of 'Health for all Children'.
+ 
+Multiply examination details can be extracted.
+Item
+Values or Format
+Examination Number
+01-09, 39-42
+Date of Examination
+ccyymmd
+Height (in cms)
+xxx.x
+Weight (in Kg)
+xx.xxx
+Head Circumference (in cms)
+xxx.x
+Physical Test
+0-9, or one of List below
+Vision Test
+One of List below **
+Audio Test
+One of List below **
+Locomotion Test
+One of List below **
+Manipulation
+One of List below **
+Speech Test
+One of List below **
+Behaviour Test
+One of List below **
+ 
+** Allowable Test Value List:-
+Satisfactory
+Problem
+Observe
+Treatment
+Referral
+Not Examined
+See Pre-School and School Entry Checks
+ 
+
+

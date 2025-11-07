@@ -1,0 +1,67 @@
+Mental Category
+Change History
+ 
+DDCN 2013 / 13
+KP90 – Admissions, Changes in Status and Detentions under the Mental Health Act 1983
+DSCN 2011 / 01
+Legal Status and Mental Category
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+Psychiatric Census
+ 
+ 
+ 
+A classification of a detained patient's mental category as designated in the Mental Health Act 1983. A patient should be included under only one mental category.
+ 
+The primary reason for the detention of patients under the Mental Health Act 1983, as amended by the Mental Health Act 2007.
+Format: 1 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+1
+Mental illness This was legally valid to 3rd November 2008
+Pre 28th December 1995
+31st January 2011
+2
+Mental impairment This was legally valid to 3rd November 2008
+Pre 28th December 1995
+31st January 2011
+3
+Severe mental impairment This was legally valid to 3rd November 2008
+Pre 28th December 1995
+31st January 2011
+4
+Psychopathic disorder This was legally valid to 3rd November 2008
+Pre 28th December 1995
+31st January 2011
+5
+Other
+Pre 28th December 1995
+31st January 2011
+6
+Mental disorder (Learning Disability not present or not primary reason for using Act) This is legally valid from 3rd November 2008
+Valid from 3rd November 2008
+ 
+7
+Mental disorder (Learning Disability primary reason for using Act) This is legally valid from 3rd November 2008
+Valid from 3rd November 2008
+ 
+8
+Not Applicable (i.e. not detained)
+Pre 28th December 1995
+ 
+9
+Not Known
+Pre 28th December 1995
+ 
+ 
+Note: Patients detained under Section 2, 4, 5, 135 and 136 of the Mental Health Act 1983 do not have a specified form of mental disorder and, therefore, the "9" classification should be used.
+See Mental Category, Terms (A-Z)
+ 
+
+

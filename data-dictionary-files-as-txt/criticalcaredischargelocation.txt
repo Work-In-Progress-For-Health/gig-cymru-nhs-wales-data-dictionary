@@ -1,0 +1,44 @@
+Critical Care Discharge Location
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is the principal location that the patient is discharged to at the end of the Critical Care Period.
+It must be completed when the Critical Care Discharge Date is recorded.
+ 
+Format: 2 character alpha-numeric
+Value
+Meaning
+01
+Ward
+02
+Recovery only (when used to provide temporary critical care facility)
+03
+Other intermediate care or specialised treatment area but excluding temporary visits en route, e.g. imaging, endoscopy, catheter suites and operating departments
+04
+Adult level three critical care bed (e.g. in a flexibly configured unit)
+05
+Adult level two critical care bed (e.g. in a flexibly configured unit)
+06
+No discharge location, patient died in unit
+07
+Obstetrics area
+08
+Paediatric critical care area
+09
+Home or other residence (e.g. nursing home, HM Prison, residential care)
+10
+Other non-hospital location
+ 
+
+

@@ -1,0 +1,24 @@
+Critical Care Discharge Time
+Change History
+ 
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2006) 14 (W)
+Critical Care Dataset
+DDCN 2022 / 02
+Critical Care Data Set – Time fields
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is the end time of a Critical Care Period. This occurs either when the patient dies or when the patient is transferred from the critical care unit. When the patient is transferred from a temporary area to a critical care unit or from one critical care unit to another, even within the same Local Health Board, this will be the end of the current patient and the start of a new one.
+Format: hh:mm:ss
+ 
+
+

@@ -1,0 +1,43 @@
+Professional Registration Issuer Code
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+A code which identifies the Professional Registration Body.
+ 
+Code
+Description
+Valid From
+Valid To
+02
+General Dental Council
+ 
+ 
+03
+General Medical Council
+ 
+ 
+04
+General Optical Council
+ 
+ 
+08
+Health and Care Professions Council
+ 
+ 
+09
+Nursing and Midwifery Council
+ 
+ 
+16
+General Pharmaceutical Council
+ 
+ 
+ 
+Format: 2 character alphanumeric
+ 
+
+

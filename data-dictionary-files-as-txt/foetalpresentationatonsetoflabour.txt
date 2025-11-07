@@ -1,0 +1,26 @@
+Foetal Presentation at Onset of Labour
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The presentation of the foetus at onset of labour.
+ 
+The reported presentation may be different for each baby born in a multiple birth.
+ Format: 1 digit numeric
+Value
+Meaning
+1
+Cephalic
+2
+Breech
+8
+Other – i.e. a transverse / other lie
+9
+Not known
+
+

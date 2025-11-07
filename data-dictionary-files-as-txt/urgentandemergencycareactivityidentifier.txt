@@ -1,0 +1,14 @@
+Urgent and Emergency Care Activity Identifier
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This is an identifier allocated by an Urgent and Emergency Care service to provide a unique identifier for each 'Urgent and Emergency Care Activity Type'.
+ 
+Format: minimum 1 character alphanumeric maximum 12 character alphanumeric
+ 
+
+

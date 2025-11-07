@@ -1,0 +1,17 @@
+Observation Value
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The value of a Clinical Investigation result item.
+Format: maximum 10 character alphanumeric
+Note regarding NEWS2 and the ACVPU assessment: For all NEWS2 observations other than the result of the ACVPU assessment, the observation value MUST be entered as a numerical value only and an associated UCUM Unit of Measurement must be recorded and submitted.
+For ACVPU the IT system should allow the user to choose from the appropriate options, and in ECDS return either the letter ‘A’ (Alert), ‘C’ (Confused), ‘V’ (Responds to Voice), ‘P’ (Responds to Painful stimulus) or ‘U’ (Unconscious).
+Do NOT put a value in the UCUM Unit of Measurement field for ACVPU observations.
+ 
+ 
+
+

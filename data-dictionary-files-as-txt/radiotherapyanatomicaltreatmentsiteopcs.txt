@@ -1,0 +1,30 @@
+Radiotherapy Anatomical Treatment Site (OPCS)
+Change History
+ 
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+ 
+A classification of the part of the body to which the Radiotherapy Actual Dose is administered.
+Note: Only complete where Radiotherapy Treatment Region = A, O or M.
+Format: 4 character alpha numeric (OPCS 4 Z Codes)
+ 
+Value
+Meaning
+ANNN
+See OPCS Classification of Interventions and Procedures, Fourth Revision (Version 4).
+Spaces
+No procedure performed or episode not coded.
+ 
+Recommended list of OPCS Codes for use in this field.
+ 
+ 
+
+

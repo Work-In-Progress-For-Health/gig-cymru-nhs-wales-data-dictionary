@@ -1,0 +1,44 @@
+Procedure Date
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2015 / 03
+Radiotherapy Data Set
+DDCN 2014 / 05
+Cancelled Admitted Procedures  (Postponed Admitted Procedures) Data Set
+DSCN 2013 / 04
+Cancelled Admitted Procedures Data Set
+DSCN 2013 / 03
+Cancelled Admitted Procedures Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+PAP ds
+1st April 2013
+ 
+RTDS
+1st April 2014
+ 
+National Cancer Ds - Core
+ 
+ 
+ 
+This is the date of the start of a patient procedure. Procedure Date Status is associated with this data item and should be used to indicate whether procedure date is supplied or is not applicable.
+Format: 8 digit numeric, CCYYMMDD
+For Radiotherapy Data Set
+Format: CCYY-MM-DD
+ 
+For Postponed Admitted Procedures
+This is the date that the planned elective admitted procedure was ultimately carried out. It does NOT refer to the date on which the postponed procedure was due to take place.
+ 
+ 
+
+

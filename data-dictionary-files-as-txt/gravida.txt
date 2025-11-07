@@ -1,0 +1,28 @@
+Gravida
+Change History
+ 
+DSCN 2020 / 02
+Maternity Indicators Data Set (AMD)
+DSCN 2016 / 02
+Maternity Indicators Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+Gravida indicates the number of times the woman has been pregnant, regardless of whether these pregnancies were carried to term. A current pregnancy, if any, is included in this count.
+ 
+Format: 2 digit numeric
+ 
+Value
+Meaning
+nn
+Gravida (Number of pregnancies)
+ 
+
+

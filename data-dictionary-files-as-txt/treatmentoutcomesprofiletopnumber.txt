@@ -1,0 +1,22 @@
+Treatment Outcomes Profile (TOP) Number
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+A unique number for each TOP undertaken. This is a system generated number.
+ 
+Format: 6 digit numeric
+ 
+
+

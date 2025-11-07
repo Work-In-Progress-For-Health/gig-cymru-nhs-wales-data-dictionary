@@ -1,0 +1,76 @@
+Referring Organisation Code
+Change History
+ 
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DSCN 2009 / 09
+NHS Reforms: NHS Wales Data Definition Update
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2007) 02 (W)
+To update the NHS Wales Data Dictionary with the format change to the GMC/ GDC and Practice Codes.
+DSCN (2006) 01 (W)
+To introduce Independent Nurse Activity in the Outpatient ds + QS1
+DSCN 38/01 (W) Amnd
+Subject: The addition of new codes in Method of Admission, Referrer Code and Referring Organisation for emergency patients admitted via the NHS direct service
+DSCN 38/01 (W)
+Subject: The addition of new codes in Method of Admission, Referrer Code and Referring Organisation for emergency patients admitted via the NHS direct service
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+OPR ds
+1st July 2008
+ 
+EDDS
+1st April 2009
+ 
+CRTT
+1st April 2009
+31st August 2011
+RTT (Combined)
+1st September 2011
+ 
+ 
+The code of the organisation of the General Medical Practitioner (GMP), General Dental Practitioner (GDP) and Consultant or Independent Nurse making the referral. This information is essential for managing contracts which are based on patterns of referral.
+Where a five character Organisation Code is used, it should be left justified and padded with a space.
+Default codes:
+Format: 6 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+X99998
+Organisation code not applicable
+1st May 1998
+ 
+X99999
+Organisation code not known
+1st May 1998
+20th January 2002
+ 
+For Referral to Treatment Times (Combined):-
+ 
+For the RTT (Combined) return, this data item should only be used to capture the 3 character Organisation Code (Code of Provider) when a tertiary referral takes place from one secondary care organisation to another for Cardiac patients only – i.e. Treatment Function Code 170 (Cardiothoracic Surgery) or 320 (Cardiology). In all other cases, ‘X98’ should be submitted.
+ 
+The ‘receiving’ organisation is responsible for submitting RTT (Combined) data for any Cardiac tertiary referrals they have received from another organisation.
+ 
+See ORGANISATION CODE
+ 
+
+

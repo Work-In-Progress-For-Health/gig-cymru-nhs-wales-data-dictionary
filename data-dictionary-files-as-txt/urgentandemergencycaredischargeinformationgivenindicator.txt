@@ -1,0 +1,14 @@
+Urgent and Emergency Care Discharge Information Given Indicator
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is used to identify whether a copy of the General Practitioner letter has been given to the patient on discharge from an Urgent and Emergency Care service.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+ 
+ 
+
+

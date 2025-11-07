@@ -1,0 +1,36 @@
+Significant Condition(s)
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This is the conditions which may be recorded against all children up to the age of 19 years.
+They signify disease, illness, or behavioural health associated conditions, which may cause child, family or health professional significant concern.
+ 
+Significant Conditions consist of: -
+ 
+Item
+Value or Format
+Diagnosis Code
+ICD10 Code. In some cases, ICD09 codes still present.
+Date of Diagnosis
+CCYYMMDD
+Outcome
+One of the following values:-
+Historic
+Observe
+Problems
+Referred
+Satisfactory
+Treated
+Suspect Condition
+Withdrawn
+ 
+See Significant Conditions
+ 
+
+

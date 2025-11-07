@@ -1,0 +1,31 @@
+Basic Cardiovascular Support Days
+Change History
+ 
+DSCN (2006) 14 (W)
+Critical Care Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+CC ds
+1st April 2007
+ 
+ 
+This is the total number of days that the patient received basic cardiovascular support during a Critical Care Period.
+To be completed when the patient has been discharged from the Critical Care Unit or has died.
+Format: 3 digit numeric
+Value
+Meaning
+000
+000
+001-997
+No. of days of Basic Cardiovascular Support
+998
+998 or more days of Basic Cardiovascular Support
+999
+Occurred but day count not known
+ 
+
+

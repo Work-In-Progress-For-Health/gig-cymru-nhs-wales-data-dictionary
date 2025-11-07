@@ -1,0 +1,18 @@
+Duration of Provider Spell
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+Derived item
+ 
+The period of time in days between the Start Date of Provider Spell and the Discharge Date of the provider spell.
+ 
+Format: 5 digit numeric. Leave blank if hospital provider spell unfinished.
+ 
+
+

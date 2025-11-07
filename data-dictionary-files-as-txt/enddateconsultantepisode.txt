@@ -1,0 +1,17 @@
+End Date (Consultant Episode)
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the end of a stay, an episode, period covered by a plan, or other period of time. End Date Status is associated with this data item and should be used to indicate whether End Date is supplied or is not applicable.
+ 
+Format: 8 digit numeric, CCYYMMDD
+ 
+See End Date Status
+
+

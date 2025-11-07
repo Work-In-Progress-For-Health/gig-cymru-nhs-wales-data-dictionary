@@ -1,0 +1,14 @@
+Urgent and Emergency Care Injury Activity Type
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The SNOMED CT concept ID which is used to identify the type of activity being undertaken by the person at the moment the injury occurred
+Format: minimum 6 digit numeric maximum 18 digit numeric
+Refer to Urgent and Emergency Care Injury Activity Type Code List
+ 
+
+

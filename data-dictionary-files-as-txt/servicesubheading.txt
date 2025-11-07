@@ -1,0 +1,34 @@
+Service Sub Heading
+Change History
+ 
+DSCN 2019 / 06
+Diagnostic & Therapy Services and Referral to Treatment Waiting Times Returns – Sleep Disordered Breathing
+DSCN 2017 / 01
+Diagnostic and Therapy Services Waiting Times Return - reinstate a pilot to collect additional diagnostic tests related to cardiology services for a time limited period
+DSCN 2015 / 01
+Diagnostic and Therapy Services Waiting Times
+DSCN (2007) 12 (W)
+To increase the scope of the Diagnostic and Therapy Services Waiting Times data collection to include certain Diagnostic Endoscopy Procedures.
+DSCN (2007) 07 (W)
+Proposal for the increase in scope to the Diagnostic and Therapy Services Waiting Times
+DSCN (2007) 04 (W)
+New Format for the Diagnostics & Therapies Services Monthly Data Collections.
+DSCN 19/04 (W)
+To amend the All Wales Data Dictionary entry for the data term Audiology under 'Diagnostic &Therapies Waiting Times'
+DSCN 52/03 (W)
+Monthly Collection of Information on Waiting Times for Specified Diagnostic and Therapy Services
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+DT Waiting Times
+1st April 2004
+ 
+ 
+Sub divisions of the specified services used for the Monthly Collection of Waiting Times of Diagnostic and Therapy Services.
+See Service Heading
+ 
+
+

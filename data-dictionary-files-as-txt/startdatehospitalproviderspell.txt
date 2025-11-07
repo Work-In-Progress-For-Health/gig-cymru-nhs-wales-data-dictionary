@@ -1,0 +1,15 @@
+Start Date (Hospital Provider Spell)
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+This is the beginning of a hospital provider spell, or the date of admission. The consultant has assumed responsibility for care following the decision to admit the patient. This may be before formal admission procedures have been completed and the patient is transferred to a ward.
+Format: 8 digit numeric, CCYYMMDD
+See Admission Date
+
+

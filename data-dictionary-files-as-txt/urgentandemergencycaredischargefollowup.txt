@@ -1,0 +1,99 @@
+Urgent and Emergency Care Discharge Follow Up
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the SNOMED CT concept ID which is used to identify the service to which a patient was referred for continuing care following an Urgent and Emergency Care activity.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Discharge Follow Up
+ 
+SNOMED CT - Emergency care follow-up procedures simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04DGF1111111000
+General Practitioner
+989501000000106
+Discharge from Accident and Emergency service with advice for follow up treatment by general practitioner
+ 
+ 
+ 
+UEC04DGF1121111000
+Physiotherapy
+306170007
+Referral to physiotherapy service
+ 
+ 
+ 
+UEC04DGF1131111000
+Dentist
+306735003
+Referral to general dental surgery service
+ 
+ 
+ 
+UEC04DGF1141111000
+Community psychiatric support services
+183584001
+Referral to community psychiatric nurse
+ 
+ 
+ 
+UEC04DGF1151111000
+Other community service
+710915002
+Referral to community service
+ 
+ 
+ 
+UEC04DGF2111111000
+Fracture clinic
+301791000000104
+Referral to fracture clinic
+ 
+ 
+ 
+UEC04DGF2121111000
+Extended Care Episode (inc ED/SDEC review)
+1465201000000106
+Referral to UEC ECE (urgent and emergency care extended care episode)
+ 
+ 
+ 
+UEC04DGF2131111000
+Outpatients (not fracture clinic)
+1066111000000103
+Referral to outpatients department
+ 
+ 
+ 
+UEC04DGF2161111000
+Medical specialist (private)
+266747000
+Referral to private doctor
+ 
+ 
+ 
+UEC04DGF9111111000
+No referral
+3780001
+Routine patient disposition, no follow-up planned
+ 
+ 
+ 
+ 
+ 
+
+

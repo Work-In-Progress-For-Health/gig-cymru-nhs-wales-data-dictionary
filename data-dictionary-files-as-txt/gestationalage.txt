@@ -1,0 +1,16 @@
+Gestational Age
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+The best estimate of gestation at the time of delivery in completed weeks, normally based on the postmenstrual age, but may be modified on the basis of antenatal ultrasound scan. Where gestation is unknown, it is based on the postnatal estimate of maturity.
+See Gestational Age
+Format: 2 numeric representing the number of completed weeks.
+ 
+ 
+
+

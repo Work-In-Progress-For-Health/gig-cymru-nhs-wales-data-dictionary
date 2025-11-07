@@ -1,0 +1,31 @@
+Smoker at 36-38 weeks or onset of labour
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The smoking status of the woman at 36-38 weeks, or onset of labour – i.e. is the woman a smoker?
+ 
+Wherever possible, this should be validated via Carbon Monoxide testing (i.e. CO-validated).  Where not CO-validated, this should be the self-reported smoking status of the mother. The aim is that the information relates to a point as late in the pregnancy as is practically possible.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Smoker - CO validated
+2
+Smoker – Self Reported
+3
+Non Smoker – CO validated
+4
+Non Smoker – Self Reported
+9
+Not Known / Not Asked / Declined to answer
+ 
+
+

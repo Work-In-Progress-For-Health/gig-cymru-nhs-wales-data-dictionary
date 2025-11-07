@@ -1,0 +1,80 @@
+Source of Cancer Referral
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2021 / 23
+Suspected Cancer Pathway – Core
+DSCN 2020 / 28
+Suspected Cancer Pathway – Core (AMD)
+DSCN 2020 / 21
+Single Cancer Pathway - Core
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+ 
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+ 
+Data Set / Collection
+Valid From
+Valid To
+National Cancer Ds - Core
+ 
+ 
+SCPC ds
+1st January 2021
+ 
+ 
+ 
+This is a classification used to identify the source of referral where the recording guidelines (See Definitions document for pathway start date definitions http://www.walescanet.wales.nhs.uk/scp-key-documents) advise that the point of suspicion for recording is different to that of the first clinical suspicion of cancer e.g. Receiving clinician suspects cancer in a referral (on vetting) not originally referred as ‘suspected cancer’ - the date and source proposed by the guidelines would be for the original referral from primary care. Source of Referral is how the patient entered the pathway, and Source of Suspicion is what triggered the suspicion of cancer. Subsequently the Source of Suspicion and Source of Referral (Cancer Wait Times) can differ but in most cases will be the same.
+ 
+ 
+Format: 2 character alpha-numeric
+ 
+Value1
+Meaning
+Initiated by the Consultant or Independent Nurse responsible for the Out-Patient Episode
+01
+Following an emergency admission 
+02
+Following a domiciliary visit
+10
+Following an Accident and Emergency attendance (including Minor Injuries Units and Walk-In Centres)
+11
+Other – initiated by the Consultant responsible for the Consultant Out-Patient Episode
+Not initiated by the Consultant or Independent Nurse responsible for the Out-Patient Episode
+03
+Referral from a General Medical Practitioner
+04
+Referral from A&E Department (including Minor Injuries Unit and Walk-In Centres)
+05
+Referral from a Consultant or Independent Nurse, other than in an A&E department
+06
+Self-referral
+07
+Referral from Prosthetist
+12
+Referral from a General Practitioner with a Special Interest (GPwSI) or Dentist with a Special Interest (DwSI)
+13
+Referral from a Specialist Nurse (Secondary Care)
+14
+Referral from an Allied Health Professional (AHP)
+15
+Referral from Optometrist
+16
+Referral from an Orthoptist
+17
+Referral from a National Screening Programme
+92
+General Dental Practitioner
+93
+Community Dental Service
+97
+Other – not initiated by the Consultant responsible for the Consultant Out-Patient Episode
+ 
+ 
+1 A number of values included in the Core Data Standards (see https://dhcw.nhs.wales/information-services/information-standards/data-standards/data-standards-files/data-standard-change-notices-docs/dscns-2019/20191210-dscn-2019-09-national-cancer-data-standards-for-wales-core-v1-0-pdf/) will not be utilised in the SCP data set for this data item as they relate to Source of Suspicion and are therefore listed for the Source of Suspicion data item.
+ 
+
+

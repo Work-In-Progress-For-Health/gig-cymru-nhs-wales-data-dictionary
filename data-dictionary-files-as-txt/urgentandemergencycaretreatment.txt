@@ -1,0 +1,16 @@
+Urgent and Emergency Care Treatment
+ 
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The SNOMED CT concept ID which is used to identify a patient treatment performed while a patient is under the care of an Urgent and Emergency Care service.
+ 
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Refer to Urgent and Emergency Care Treatment Code List
+
+

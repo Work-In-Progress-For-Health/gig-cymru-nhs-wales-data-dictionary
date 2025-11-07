@@ -1,0 +1,13 @@
+Reason for Change of Place of Delivery
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+ 
+See Delivery Place Change Reason
+
+

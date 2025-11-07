@@ -1,0 +1,86 @@
+Accident and Emergency Investigations
+Change History
+ 
+DSCN 2010 / 09
+Revisions to Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+ 
+A broad list of types of investigation which may be requested to assist with diagnosis during and Accident and Emergency Department Attendance.
+ 
+Note: Up to 6 types of investigation can be listed in this section of the Data Set.
+ 
+Format: 3 digit numeric
+Value
+Meaning
+Valid From
+Valid To
+ 
+Pathology
+ 
+ 
+199
+Pathology
+1st April 2009
+ 
+ 
+Diagnostic Imaging
+ 
+ 
+201
+CT Scan
+1st April 2009
+ 
+202
+MRI
+1st April 2009
+ 
+203
+Ultrasound
+1st April 2009
+ 
+204
+X-Ray
+1st April 2009
+ 
+205
+Radionuclide Imaging
+1st April 2009
+ 
+299
+Diagnostic Imaging, Other or Unspecified
+1st April 2009
+ 
+ 
+Observation
+ 
+ 
+300
+ECG
+1st April 2009
+ 
+399
+Observation, other or Unspecified
+1st April 2009
+ 
+ 
+ 
+ 
+ 
+999
+Other or Unspecified
+1st April 2009
+ 
+ 
+ 
+
+

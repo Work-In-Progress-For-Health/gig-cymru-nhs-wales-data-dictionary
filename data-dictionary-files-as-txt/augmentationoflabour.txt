@@ -1,0 +1,31 @@
+Augmentation of Labour
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+Whether medical or surgical augmentation of labour was undertaken in order to accelerate labour.
+ 
+The augmentation of labour is an intervention that is intended to increase the intensity of labour, usually when the caregiver feels the labour is not 'progressing', or is progressing too slowly.
+ 
+Augmentation of labour differs from induction, in that the labour has already started in some way, but is not progressing, has slowed or stopped. This can also include interventions to stimulate contractions after the waters have broken on their own (although some caregivers will refer to this as an induction).
+ 
+Augmenting the labour involves artificial stimulation of the contractions. This may be needed if the contractions have become weak, not coordinated (or irregular), far apart, not lasting long enough or have ceased for a period. If the labour needs augmenting, it means the contractions are not efficient enough to dilate the cervix.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Medical or surgical augmentation was undertaken
+2
+No medical or surgical augmentation was undertaken
+9
+Not Known
+ 
+
+

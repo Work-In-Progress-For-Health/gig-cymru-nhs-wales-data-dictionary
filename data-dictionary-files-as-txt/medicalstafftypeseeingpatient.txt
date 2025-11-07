@@ -1,0 +1,40 @@
+Medical Staff Type Seeing Patient
+Change History
+ 
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+OP ds
+1st April 1999
+ 
+ 
+A classification of the type of medical staff seeing the patient during an Outpatient attendance: Consultant.
+Where the response for data item (Consultation method) is
+ 
+•     Virtual Clinical Review (Non-Patient Contact), record the most relevant value for the medical staff type taking the lead in the Virtual Clinical Review
+Format: 2 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+01
+Consultant
+1st April 1999
+ 
+02
+Member of Consultant firm
+1st April 1999
+ 
+08
+Not applicable (e.g. for Ward Attenders)
+1st April 1999
+ 
+ 
+
+

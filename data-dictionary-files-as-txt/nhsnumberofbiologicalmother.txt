@@ -1,0 +1,16 @@
+NHS Number of Biological Mother
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+NCCHD
+ 
+ 
+ 
+This enables linkage of child's record(s) to biological mother's record to access details of antenatal, delivery, and postnatal events.
+To maintain patient confidentiality, the number is encrypted and used only as a linkage data item. It is not written to NCCHD.
+See NHS Number
+ 
+
+

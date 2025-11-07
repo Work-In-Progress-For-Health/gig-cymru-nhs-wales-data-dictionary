@@ -1,0 +1,49 @@
+Accessible Information Professional Required Code
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+This is the SNOMED CT concept ID which is used to identify that the patient requires support from a communication professional.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Accessible Information Professional Required Code
+ 
+SNOMED CT Refset : Accessible information - requires communication professional simple reference set (foundation metadata concept)
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04AIP1111111000
+Interpreter not needed
+315595002
+Interpreter not needed
+ 
+ 
+ 
+UEC04AIP2111111000
+Interpreter needed
+315594003
+Interpreter needed
+ 
+ 
+ 
+UEC04AIP3111111000
+Interpreter declined
+759691000000101
+Interpreter declined
+ 
+ 
+ 
+ 
+
+

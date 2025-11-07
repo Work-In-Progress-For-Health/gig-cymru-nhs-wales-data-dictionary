@@ -1,0 +1,31 @@
+Ex Services Personnel
+ 
+Change History
+ 
+DSCN 2014 / 02
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has advised that they have previously served in the armed forces.
+ 
+‘Previously served’ is defined as anyone who has served for at least one day in HM Armed Forces (Regular or Reserve), or Merchant Seafarers and Fisherman who have served in a vessel at a time when it was operated to facilitate military operations by HM Armed Forces.
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Client advises that they have previously served in the armed forces
+2
+Client advised that that they have not previously served in the armed forces
+ 
+
+

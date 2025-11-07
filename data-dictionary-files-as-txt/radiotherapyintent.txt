@@ -1,0 +1,37 @@
+Radiotherapy Intent
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2015 / 03
+Radiotherapy Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+RTDS
+1st April 2014
+ 
+National Cancer Ds - Core
+ 
+ 
+ 
+The intent of the delivered beam radiation.
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Palliative
+02
+Anti Cancer (Radical)
+03
+Other
+99
+Unknown (Not Recorded)
+ 
+
+

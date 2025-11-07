@@ -1,0 +1,115 @@
+Local Sub Specialty
+Change History
+ 
+DSCN 2025 / 07
+Referral to Treatment (RTT) Weekly Patient Target List (PTL) Data Set
+DSCN 2019 / 06
+Diagnostic & Therapy Services and Referral to Treatment Waiting Times Returns – Sleep Disordered Breathing
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2011 / 07
+The introduction of the ‘Referral to Treatment Times (Combined)’ return
+DSCN 2010 / 06
+Outpatient Activity Minimum Data Set (OP MDS) Data Validity Standards
+DSCN (2009) 05 (W)
+Reporting Assessment Unit Activity in the Admitted Patient Care (APC) Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2007) 13 (W)
+To remove waits for certain diagnostic endoscopies from the waiting times data collection for inpatient and day case admissions and first outpatient appointments (PP01W).
+DSCN (2006) 05 (W)
+Rename Data Item 'Consultant Specialty Function Code' and 'Specialty Function Code'
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC ds99
+1st April 1999
+ 
+EAL ds
+1st April 1999
+21st November 2012
+OP ds
+1st April 1999
+ 
+PP01W
+ 
+ 
+RTT (Combined)
+1st September 2011
+ 
+RTT weekly PTL ds
+1st April 2025
+ 
+ 
+This is a locally or nationally defined division of clinical work which may cross specialty boundaries.
+ 
+Format: 3 character alpha-numeric
+Treatment Function Code
+Local Sub Specialty Code
+Valid From
+Valid To
+NNN Any
+000 No appropriate sub-specialty
+666 Assessment Unit
+1st May 1998
+1st April 2009
+ 
+160 Plastic Surgery
+100 Plastic Surgery (non burns)
+166 Plastic Surgery (non burns) ASSESSMENT
+200 Burns Surgery
+266 Burns Surgery ASSESSMENT
+1st May 1998
+1st April 2009
+1st May 1998
+1st April 2009
+ 
+170 Cardiothoracic Surgery
+100 Cardiac Surgery
+166 Cardiac Surgery ASSESSMENT
+200 Thoracic Surgery
+266 Thoracic Surgery ASSESSMENT
+300 Paediatric Cardiac Surgery
+366 Paediatric Cardiac Surgery ASSESSMENT
+1st May 1998
+1st April 2009
+1st May 1998
+1st April 2009
+1st May 1998
+1st April 2009
+ 
+320 Cardiology
+100 Paediatric Cardiology
+166 Paediatric Cardiology ASSESSMENT
+1st May 1998
+1st April 2009
+ 
+341 Respiratory Physiology
+100 Sleep Disordered Breathing 1
+ 
+ 
+1st June 2019
+31st May 2020
+400 Neurology
+100 Spinal Injuries
+166 Spinal Injuries ASSESSMENT
+900 Other Neurology
+966 Other Neurology ASSESSMENT
+1st May 1998
+1st April 2009
+1st May 1998
+1st April 2009
+ 
+1 Specifically defined as APAP, CPAP, NIV or Mandibular advancement devices in the treatment of Obstructive Sleep Apnoea, Obstructive Sleep Apnoea Hypopnoea Syndrome, Upper Airway Resistance Syndrome, Obesity Hypoventilation Syndrome or Other Sleep Disordered Breathing Disorders . For additional guidance on scope, see the Information Specification within this DSCN.
+This local sub specialty code is a separate field, rather than an extension.
+For RTT PTL data set: This refers to the local sub specialty for the current stage of the patient’s pathway at the time of reporting. If unknown, the local sub specialty on referral should be used.
+ 
+For Referral to Treatment Times (Combined):-
+-      Local Sub Specialty must always be submitted, noting that ‘000’ means no appropriate Local Sub Specialty;
+-      Codes for “Assessment” activity (i.e. 666, 166, 266, 366, and 966) are not permissible in the RTT (Combined) return.
+ 
+
+

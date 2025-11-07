@@ -1,0 +1,54 @@
+Outcome of Triage
+Change History
+ 
+DSCN 2024 / 11 (AMD)
+Planned Care Referral Dataset (AMD)
+DSCN 2024 / 11
+Planned Care Referral Dataset
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+PCR ds
+1st October 2024
+ 
+ 
+This is the outcome of the referral once it has been reviewed by a clinician to outline the next stage of the patient's pathway.
+ 
+Format: 2 digit numeric
+ 
+ 
+Value
+Meaning
+Definition
+Valid From
+Valid To
+01
+Returned with advice
+Documented written advice which is sent to the original referrer and documented in the patients record.
+ 
+1st October 2024
+ 
+02
+Straight to Test
+Includes any imaging, endoscopy or blood tests and pathway specific testing such as Teledermoscopy.
+ 
+1st October 2024
+ 
+03
+Consultation
+Patient review, face to face or virtual (individual or group).
+ 
+1st October 2024
+ 
+04
+Straight to Procedure
+Patient added to treatment waiting list.
+1st October 2024
+ 
+ 
+ 
+
+

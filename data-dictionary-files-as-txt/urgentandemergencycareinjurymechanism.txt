@@ -1,0 +1,358 @@
+Urgent and Emergency Care Injury Mechanism
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+ 
+The SNOMED CT concept ID which is used to identify how an injury was caused.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+Data Item : Urgent and Emergency Care Injury Mechanism
+ 
+SNOMED CT Refset - Emergency care mechanism of injury simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04IJM1111111000
+Slipping
+54670004
+Slipping
+ 
+ 
+ 
+UEC04IJM1112111000
+Tripping
+75941004
+Tripping
+ 
+ 
+ 
+UEC04IJM1141111000
+Fall from height of less than one metre
+240871000000104
+Fall through height of less than one metre
+ 
+ 
+ 
+UEC04IJM1151111000
+Fall from height of more than one metre
+429482004
+Fall from high place
+ 
+ 
+ 
+UEC04IJM2111111000
+Blunt force / pushed
+425359009
+Blunt injury
+ 
+ 
+ 
+UEC04IJM2121111000
+Punch with fist
+242890000
+Punch with fist
+ 
+ 
+ 
+UEC04IJM2124111000
+Kick with foot
+242892008
+Kick with foot
+ 
+ 
+ 
+UEC04IJM2127111000
+Hit with head (head butt)
+242895005
+Head butt
+ 
+ 
+ 
+UEC04IJM2131111000
+Human bite
+262555007
+Human bite - wound
+ 
+ 
+ 
+UEC04IJM2141111000
+Blow from blunt object [specify]
+219236005
+Assault by striking with blunt object
+ 
+ 
+ 
+UEC04IJM2171111000
+Crushing injury
+125665001
+Crushing injury
+ 
+ 
+ 
+UEC04IJM3111111000
+Stabbed / cut with knife
+425322008
+Stab wound
+ 
+ 
+ 
+UEC04IJM3121111000
+Stabbed / cut with glass / bottle
+1234836004
+Penetrating injury caused by glass fragment
+ 
+ 
+ 
+UEC04IJM3131111000
+Penetrating wound
+262560006
+Penetrating wound
+ 
+ 
+ 
+UEC04IJM4111111000
+Gunshot wound
+283545005
+Gunshot wound
+ 
+ 
+ 
+UEC04IJM4121111000
+Injury due to projectile
+242999003
+Injury due to projectile
+ 
+ 
+ 
+UEC04IJM4151111000
+Injury due to firework
+1083271000000105
+Injury caused by firework
+ 
+ 
+ 
+UEC04IJM4161111000
+Injury due to explosion
+397996002
+Injury due to explosion
+ 
+ 
+ 
+UEC04IJM5111111000
+Respiratory obstruction due to inhaled foreign body
+1231592006
+Obstruction of lumen of respiratory tract caused by inhalation of foreign body
+ 
+ 
+ 
+UEC04IJM5121111000
+Patient found hanging
+241121000000102
+Patient found hanging
+ 
+ 
+ 
+UEC04IJM5131111000
+Asphyxia by obstruction of mouth and nose
+242020007
+Asphyxia by obstruction of mouth and nose
+ 
+ 
+ 
+UEC04IJM5141111000
+Asphyxiation : other
+66466001
+Asphyxiation
+ 
+ 
+ 
+UEC04IJM6111111000
+Poisoning / overdose
+75478009
+Poisoning
+ 
+ 
+ 
+UEC04IJM6121111000
+Injury from foreign body
+274224000
+Foreign body accident
+ 
+ 
+ 
+UEC04IJM6131111000
+Exposure to blood / body fluid
+417981005
+Exposure to blood and/or body fluid
+ 
+ 
+ 
+UEC04IJM6151111000
+Burn : thermal
+314534006
+Thermal burn
+ 
+ 
+ 
+UEC04IJM6153111000
+Burn : chemical
+371704001
+Injury due to chemical exposure
+ 
+ 
+ 
+UEC04IJM6155111000
+Burn : electrical
+371708003
+Injury due to electrical exposure
+ 
+ 
+ 
+UEC04IJM6157111000
+Burn : radiation
+24803000
+Radiation injury
+ 
+ 
+ 
+UEC04IJM6159111000
+Burn : ultraviolet / sunlight
+402165001
+Acute effect of ultraviolet radiation on normal skin
+ 
+ 
+ 
+UEC04IJM6171111000
+Hyperthermia
+409702008
+Hyperpyrexia
+ 
+ 
+ 
+UEC04IJM6175111000
+Hypothermia
+386689009
+Hypothermia
+ 
+ 
+ 
+UEC04IJM6181111000
+Physical exertion
+64113006
+Exhaustion due to excessive exertion
+ 
+ 
+ 
+UEC04IJM6191111000
+Near drowning
+87970004
+Nonfatal submersion
+ 
+ 
+ 
+UEC04IJM6192111000
+Diving barotrauma
+241977008
+Diving barotrauma
+ 
+ 
+ 
+UEC04IJM7111111000
+Injury from dog
+283734005
+Dog bite - wound
+ 
+ 
+ 
+UEC04IJM7121111000
+Injury from cat
+283782004
+Cat bite - wound
+ 
+ 
+ 
+UEC04IJM7131111000
+Injury from horse
+283784003
+Horse bite wound
+ 
+ 
+ 
+UEC04IJM7135111000
+Injury from cow / bull
+1083281000000107
+Injury caused by bovine animal
+ 
+ 
+ 
+UEC04IJM7149111000
+Injury from mammal - other [specify]
+283683002
+Mammal bite wound
+ 
+ 
+ 
+UEC04IJM7151111000
+Injury from reptile (e.g. snake)
+283838000
+Reptile bite wound
+ 
+ 
+ 
+UEC04IJM7155111000
+Injury from bird
+217716004
+Peck by bird
+ 
+ 
+ 
+UEC04IJM7161111000
+Injury from spider
+403149008
+Spider bite wound
+ 
+ 
+ 
+UEC04IJM7171111000
+Injury from insect
+276433004
+Insect bite - wound
+ 
+ 
+ 
+UEC04IJM7181111000
+Injury from aquatic animal
+283837005
+Fish bite wound
+ 
+ 
+ 
+UEC04IJM9111111000
+Patient refuses to disclose
+1077171000000102
+Declines to provide information on cause of injury
+ 
+ 
+ 
+UEC04IJM9151111000
+Patient cannot disclose e.g. coma, intubated
+1077161000000109
+Unable to provide information on cause of injury
+ 
+ 
+ 
+ 
+
+

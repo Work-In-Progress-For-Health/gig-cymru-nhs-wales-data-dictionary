@@ -1,0 +1,21 @@
+Reason for Referral
+Change History
+ 
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+OPR ds
+1st July 2008
+ 
+ 
+The reason(s) for the patient requiring involvement with care professionals. These may include any problem, issue or event affecting the patient's health and/ or well being.
+The information held within this data item must be a valid clinical code or term.
+Format: 8 character alpha-numeric
+Left justified and padded with spaces.
+
+

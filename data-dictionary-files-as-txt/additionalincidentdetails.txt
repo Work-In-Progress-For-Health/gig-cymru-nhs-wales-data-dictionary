@@ -1,0 +1,29 @@
+Additional Incident Details
+Change History
+ 
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+EDDS
+1st April 2009
+ 
+AWIS
+ 
+ 
+ 
+A record of any additional details of the incident that led to the Accident & Emergency Department Attendance that cannot be recorded elsewhere within the dataset.
+Note: This field allows for any supplementary information supporting either the injury or illness causing the patient to attend the Accident & Emergency Department, or any other details pertaining to the patient's treatment, to be recorded; this includes details relating to the location where the incident occurred specifically, Road, Vehicle collision or Assault incidents.
+Format: 255 characters alphanumeric
+This data item is incorporated into the Emergency Department Data Set as an injury prevention orientated field in accordance with the All Wales Injury Surveillance System (AWISS) requirements. These fields are designed to be compatible with the European Union's Injury Data Base (IDB).
+AWISS offers the opportunity on a local, national and international level to:
+•     Monitor injury incidence, trends and geographical variation;
+•     Provide data on problem areas where other information sources are insufficient (such as head injury, sports injuries, accidental poisoning in young children).
+Help the NHS, local authorities, voluntary agencies and other workers in the field to develop, target and evaluate programmes for the control and prevention of injuries.
+ 
+
+

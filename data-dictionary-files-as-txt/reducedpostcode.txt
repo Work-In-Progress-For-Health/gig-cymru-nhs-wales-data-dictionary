@@ -1,0 +1,56 @@
+Reduced Postcode
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+This is the reduced postcode of the client.
+ 
+This is the usual address nominated by the client. If clients that usually reside elsewhere are staying in hotels, hostels or other residential establishments for a short term, say a week, they should be recorded as staying at their usual place of residence. However if long term, such as at boarding school, the school address must be recorded. University students may nominate either their home address or the address of their university accommodation.
+ 
+The ‘reduced’ postcode consists of the first 4 characters of the postcode plus one space plus the first character of the second part of the post code. This could also be the first 3 characters where the first part of the postcode is 3 characters long as shown in the example below.
+ 
+Format: 6 character alpha-numeric
+ 
+The table below shows the full UK postcode format from which this data item’s format is derived.
+ 
+Character Position
+1
+2
+3
+4
+5
+6
+Format
+C
+F
+2
+4
+space
+0
+ 
+S
+A
+4
+space
+space
+0
+ 
+Example:
+ 
+If the full UK postcode is CF24 0AL, the submitted ‘reduced’ postcode entered would be ‘CF24 0’, as shown in the layout above.
+ 
+If a client has no fixed abode, this should be recorded with the appropriate code (ZZ99 3)
+ 
+
+

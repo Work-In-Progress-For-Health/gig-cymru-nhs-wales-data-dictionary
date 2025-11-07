@@ -1,0 +1,50 @@
+Treatment Modality
+ 
+Change History
+ 
+DSCN 2020 / 19 
+Substance Misuse Data Set – Additional Treatment Modality 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+The treatment modality / intervention a client is receiving as part of their treatment journey.
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Inpatient Treatment
+02
+Residential Rehabilitation
+03
+Community Detoxification
+04
+Substitute Opioid Prescribing (Methadone) and related Psychosocial Interventions
+05
+Substitute Opioid Prescribing (Buprenorphine) and related Psychosocial Interventions (excludes Injectable Buprenorphine)
+06
+Psychosocial Interventions
+07
+Structured Day Programmes
+08
+Health and Recovery Support Intervention
+09
+Brief Interventions
+10
+Harm Reduction
+11
+Substitute Opioid Prescribing (Injectable Buprenorphine)
+ 
+Refer to the term Treatment Modality for full definition.
+ 
+
+

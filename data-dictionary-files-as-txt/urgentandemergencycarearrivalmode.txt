@@ -1,0 +1,101 @@
+Urgent and Emergency Care Arrival Mode
+Data Set / Collection
+Valid From
+Valid To
+WECDS
+1st August 2024
+ 
+This is the SNOMED CT concept ID which is used to identify the transport mode by which the patient arrived at the Urgent and Emergency Care service.
+Format: minimum 6 digit numeric maximum 18 digit numeric
+ 
+ 
+SNOMED CT Refset - Emergency care arrival mode simple reference set
+ 
+WECDS Unique ID
+ 
+WECDS Group
+ 
+WECDS Description
+ 
+SNOMED Code
+ 
+SNOMED UK Preferred Term
+ 
+Notes
+Valid From
+Valid To
+UEC04ARV1111111000
+Urgent and emergency care arrival mode
+Patient arranged own transport / walk-in
+1048071000000103
+Arrival by own transport
+ 
+ 
+ 
+UEC04ARV2111111000
+Urgent and emergency care arrival mode
+Public transport / taxi
+1048061000000105
+Arrival by public transport
+ 
+ 
+ 
+UEC04ARV3111111000
+Urgent and emergency care arrival mode
+Emergency road ambulance
+1048031000000100
+Arrival by emergency road ambulance
+ 
+ 
+ 
+UEC04ARV3511111000
+Urgent and emergency care arrival mode
+Emergency road ambulance with medical escort
+1048041000000109
+Arrival by emergency road ambulance with medical escort
+ 
+ 
+ 
+UEC04ARV3711111000
+Urgent and emergency care arrival mode
+Non-emergency road ambulance e,g, St Johns Ambulance Car
+1048021000000102
+Arrival by non-emergency road ambulance
+ 
+ 
+ 
+UEC04ARV5111111000
+Urgent and emergency care arrival mode
+Helicopter
+1048051000000107
+Arrival by helicopter air ambulance
+ 
+ 
+ 
+UEC04ARV5511111000
+Urgent and emergency care arrival mode
+Fixed wing / medical repatriation by air
+1048081000000101
+Arrival by medical repatriation air ambulance
+ 
+ 
+ 
+UEC04ARV6111111000
+Urgent and emergency care arrival mode
+Custodial services : prison / detention centre transport
+1047991000000102
+Arrival by prison transport
+ 
+ 
+ 
+UEC04ARV6611111000
+Urgent and emergency care arrival mode
+Police transport
+1048001000000106
+Arrival by police transport
+ 
+ 
+ 
+ 
+
+

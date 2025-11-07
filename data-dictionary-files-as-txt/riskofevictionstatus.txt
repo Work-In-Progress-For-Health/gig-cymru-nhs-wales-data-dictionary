@@ -1,0 +1,39 @@
+Risk of Eviction Status
+ 
+Change History
+ 
+DSCN 2014 / 02 
+Substance Misuse Data Set
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+SM ds
+1st April 2014
+ 
+ 
+To establish whether the client has been at risk of eviction over the last 28 days (4 weeks) prior to the TOP interview.
+ 
+Risk of eviction is defined as:
+ 
+A verbal warning from their landlord concerning their tenancy that concerns some infringement of the agreement such as rent or mortgage arrears.
+ 
+OR
+ 
+A formal written warning, notice seeking possession or court order which may result in their eviction from their property
+ 
+Format: 2 character alpha-numeric
+ 
+Value
+Meaning
+01
+Client has been at risk of eviction
+02
+Client has not been at risk of eviction
+99
+The client declined to answer
+ 
+
+

@@ -1,0 +1,25 @@
+Parity
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+MI ds
+1st April 2016
+ 
+ 
+The parity group of the mother. Parity is the number of times a woman has given birth to a live neonate (any gestation) or at 24 weeks or more, regardless of whether the child was viable or non-viable (i.e. stillbirths).
+ 
+Format: 1 digit numeric
+ 
+Value
+Meaning
+1
+Nulliparous – the mother has never previously given birth
+2
+Primiparous – the mother has previously given birth once only
+3
+Multiparous – the mother has previously given birth more than once
+ 
+
+

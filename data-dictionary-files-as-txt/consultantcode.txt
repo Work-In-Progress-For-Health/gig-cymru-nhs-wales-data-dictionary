@@ -1,0 +1,139 @@
+Consultant Code
+Change History
+ 
+DSCN 2022 / 06
+Main Specialty (Consultant) (AMD)
+DSCN 2021 / 03
+National Cancer Data Standards for Wales – Site Specific – Brain & Central Nervous System (CNS)
+DSCN 2020 / 31
+National Cancer Data Standards for Wales – Systemic Anti-Cancer Therapy (SACT)
+DSCN 2020 / 27
+Outpatient Activity (Virtual Clinics) – Phase Two
+DSCN 2019 / 09
+National Cancer Data Standards for Wales – Core
+DSCN 2018 / 11 (AMD)
+Outpatient and Outpatient Referral data sets
+DSCN 2015 / 03
+Radiotherapy Data Set
+DSCN 2012 / 11
+Elective Admission List Data Set (EAL Ds)
+DSCN 2010 / 01
+Revisions to the Emergency Department Data Set
+DSCN (2009) 02 (W)
+Emergency Department Data Set
+DSCN (2008) 07 (W)
+The Introduction of Valid Period Date Ranges for Data Items within the APC Data Set
+DSCN (2007) 02 (W)
+To update the NHS Wales Dictionary with the format change to the GMC, GDC and Practice Codes.
+DSCN (2006) 01 (W)
+To introduce Independent Nurse Activity in the Outpatient ds + QS1
+DSCN 63/02 (W)
+Data Standards: Definitions of Nurse and Midwife added to NHS Wales Data Dictionary and description of Consultant Code updated.
+ 
+This data item is / was included in the following data sets / collections between the dates shown:
+ 
+Data Set / Collection
+Valid From
+Valid To
+APC
+Pre 28th December 1995
+ 
+EAL
+1st April 1999
+21st November 2012
+OP
+1st April 1999
+ 
+EDDS
+1st April 2009
+31st March 2010
+RTDS
+1st April 2014
+
+National Cancer Ds - Core
+ 
+ 
+National Cancer Ds - SACT
+ 
+ 
+National Cancer Ds - Brain & CNS
+ 
+ 
+ 
+Nationally agreed form for consultant code or Independent Nurse. It is the General Medical Council (GMC) code for the Consultant or the GP acting as a Consultant or locum Consultant, which is the unique identifier. The nurse's Registration Number will be used to identify the Independent Nurse.
+Where the response for data item (Consultation method) is
+ 
+•     Virtual Clinical Review (Non-Patient Contact), record the consultant code of the lead consultant within the Virtual Clinical Review
+Format: 8 character alpha-numeric
+Value
+Meaning
+Valid From
+Valid To
+XXXXXXXX
+Consultant code based upon General Medical Council registration number. The first character of the code is usually a 'C'. The 2nd to 8th characters are the GMC registration number.
+Pre 28th December 1995
+ 
+LNNNNNNN
+Code for Limited Registered doctor. (Note: the first two digits will normally be the year in which limited registration was granted)
+Pre 28th December 1995
+28th February 2007
+DDNNNNNN
+DD/NNNNN
+For Dental Consultants who have not been registered with the GMC the General Dental Council (GDC) number has to be used. (The slash character represents a space. The slash must not be used in data for central returns)
+1st March 2007
+ 
+DD//NNNN
+For Dental Consultants who have not been registered with the GMC the General Dental Council (GDC) number has to be used. (The slash character represents a space. The slash must not be used in data for central returns)
+Pre 28th December 1995
+28th February 2007
+C9999998
+Consultant code not known
+1st May 1998
+20th February 2002
+C9999998
+For NHS patients treated overseas, if the overseas doctor does not have a GMC code.
+21st June 2004
+ 
+D9999998
+Dentist Code not known
+1st May 1998
+20th February 2002
+M9999998
+Midwife-led Activity
+If the patient episode is under the direct care of a Midwife the default Consultant Code must be M9999998 and the Treatment Function Code must be '560'.
+1st April 2000
+Amended 1st April 2006
+ 
+ 
+ 
+ 
+ 
+ 
+For OP and APC ds only:
+ 
+ 
+YYYYYYYY
+Independent Nurse
+The Nurse's Registration Number is used to record nurse-led activity in an Outpatients environment by an Independent Nurse
+1st April 2006
+31st March 2018
+NNANNNNA
+Nurse-led Activity or Midwife-led Activity
+Registration Number for any nurse (including midwife) meeting the definition of Clinic Appointment Nurse Led (Outpatients).
+1st April 2018
+ 
+N9999998
+Nurse-led Activity - code not known
+For any nurse (excluding midwife) meeting the definition of Clinic Appointment Nurse Led (Outpatients), where the Registration Number is not known, or is not registered with the Welsh Reference Data Service (WRDS).
+1st April 2018
+ 
+M9999998
+Midwife-led Activity – code not known
+For any midwife meeting the definition of Clinic Appointment Nurse Led (Outpatients), where the Registration Number is not known, or is not registered with the Welsh Reference Data Service (WRDS).
+1st April 2018
+ 
+ 
+See GDC Registration Number
+See GMC Registration Number
+
+
